@@ -3,6 +3,8 @@ import camelot
 import pandas as pd
 import re
 
+# current progress: table 2
+
 try:
     folderName = "beers_pdfs2019"
     fileName = "table_2.pdf"

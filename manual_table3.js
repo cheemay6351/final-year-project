@@ -6,7 +6,7 @@ var client = new MongoClient(connect.database.url, {
 
 var dbName = "Beers_Criteria"; // database name
 
-// used javascript at as initial language for manual insertion of data
+// used javascript as initial language for manual insertion of data
 // 2023 American Geriatrics Society Beers Criteria® for potentially inappropriate medication use in older adults due to drug–disease or drug–syndrome interactions that may exacerbate the disease or syndrome.
 async function insertMed(db) {
     var collection = db.collection('Table3');

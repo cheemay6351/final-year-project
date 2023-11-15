@@ -6,7 +6,7 @@ var client = new MongoClient(connect.database.url, {
 
 var dbName = "Beers_Criteria"; // database name
 
-// used javascript at as initial language for manual insertion of data
+// used javascript as initial language for manual insertion of data
 // 2023 American Geriatrics Society Beers Criteria® for potentially clinically important drug–drug interactions that should be avoided in older adults.
 async function insertMed(db) {
     var collection = db.collection('Table5');

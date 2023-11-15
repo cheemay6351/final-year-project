@@ -10,7 +10,7 @@ page_ranges = [
 ]
 
 # input PDF file name
-input_pdf_filename = "output2.pdf"
+input_pdf_filename = "beers_tables.pdf"
 
 with open(input_pdf_filename, "rb") as pdf_file:
     pdf_reader = PyPDF2.PdfReader(pdf_file)

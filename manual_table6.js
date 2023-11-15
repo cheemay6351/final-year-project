@@ -6,7 +6,7 @@ var client = new MongoClient(connect.database.url, {
 
 var dbName = "Beers_Criteria"; // database name
 
-// used javascript at as initial language for manual insertion of data
+// used javascript as initial language for manual insertion of data
 // 2023 American Geriatrics Society Beers Criteria® for medications that should be avoided or have their dosage reduced with varying levels of kidney function in older adults.
 async function insertMed(db) {
     var collection = db.collection('Table6');

@@ -1,4 +1,4 @@
-# attempt to clean spaces in the beers critera's pdf file
+# clean spaces in the beers critera's pdf file
 
 def remove_spaces(file_path):
     # read the file
