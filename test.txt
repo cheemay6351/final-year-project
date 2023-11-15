@@ -1,0 +1,7613 @@
+Received: 7 March 2023
+
+Accepted: 29 March 2023
+
+DOI: 10.1111/jgs.18372
+
+S P E C I A L A R T I C L E S
+
+Journal of the 
+American Geriatrics Society
+
+American Geriatrics Society 2023 updated AGS Beers
+Criteria
+in older adults
+
+for potentially inappropriate medication use
+
+®
+
+By the 2023 American Geriatrics Society Beers Criteria
+
+®
+
+Update Expert Panel
+
+Correspondence
+Mary Jordan Samuel, American Geriatrics
+Society, 40 Fulton Street, Suite 809,
+New York, NY 10038, USA.
+Email: msamuel@americangeriatrics.org
+
+Abstract
+The American Geriatrics Society (AGS) Beers Criteria
+
+®
+
+(AGS Beers Criteria
+
+®
+)
+
+for Potentially Inappropriate Medication (PIM) Use in Older Adults is widely
+used by clinicians, educators, researchers, healthcare administrators, and regu-
+
+lators. Since 2011, the AGS has been the steward of the criteria and has pro-
+
+is an explicit list of
+duced updates on a regular cycle. The AGS Beers Criteria
+PIMs that are typically best avoided by older adults in most circumstances or
+
+®
+
+under specific situations, such as in certain diseases or conditions. For the 2023
+update, an interprofessional expert panel reviewed the evidence published
+
+since the last update (2019) and based on a structured assessment process
+approved a number of important changes including the addition of new cri-
+
+teria, modification of existing criteria, and formatting changes to enhance
+
+usability. The criteria are intended to be applied to adults 65 years old and
+older in all ambulatory, acute, and institutionalized settings of care, except hos-
+
+pice and end-of-life care settings. Although the AGS Beers Criteria
+may be
+used internationally, it is specifically designed for use in the United States and
+
+®
+
+there may be additional considerations for certain drugs in specific countries.
+
+should be applied
+Whenever and wherever used, the AGS Beers Criteria
+thoughtfully and in a manner that supports, rather than replaces, shared clini-
+
+®
+
+cal decision-making.
+
+K E Y W O R D S
+
+Beers criteria, Beers list, inappropriate prescribing, medications and drugs, older adults
+
+INTRODUCTION
+
+The Beers Criteria was developed by the late Mark Beers,
+MD, and colleagues at the University of California Los
+Angeles in 1991, with the purpose of identifying medica-
+tions for which potential harm outweighed the expected
+benefit and that should be avoided in nursing home
+
+Listen to the GeriPal Podcast with the authors at https://bit.ly/GeriPalEp266
+
+Panel Members and Affiliations are provided in Appendix.
+
+residents.1 The 1997 update, led by Dr. Beers, expanded
+the criteria to apply to all older adults.2 The criteria was
+updated by an interprofessional group in 2003 and the
+American Geriatrics Society took over stewardship in
+2010. The 2023 American Geriatrics Society (AGS) Beers
+) for Potentially Inappro-
+Criteria
+priate Medication (PIM) Use in Older Adults is the sev-
+enth overall update and fourth since AGS became the
+criteria's steward. As with previous updates, the AGS and
+its expert panel have attempted to preserve the spirit and
+
+(AGS Beers Criteria
+
+®
+
+®
+
+2052
+
+© 2023 The American Geriatrics Society.
+
+wileyonlinelibrary.com/journal/jgs
+
+J Am Geriatr Soc. 2023;71:2052–2081.
+
+AGS 2023 BEERS CRITERIA
+
+®
+
+2053
+
+intent of the original Beers Criteria by providing an
+explicit list of PIMs that are best avoided by older adults
+in most circumstances or under specific situations, such
+as certain diseases, conditions, or care settings.
+
+The AGS Beers Criteria
+
+comprises drugs and drug
+classes that the AGS and its expert panel consider to be
+potentially inappropriate medications (PIMs) for use in
+older adults. The expert panel organized the criteria into
+the same five general categories that were used in the
+2019 update:
+
+®
+
+1. Medications considered as potentially inappropriate
+
+(Table 2);
+
+2. Medications potentially inappropriate in patients with
+
+certain diseases or syndromes (Table 3);
+
+3. Medications to be used with caution (Table 4);
+4. Potentially
+
+inappropriate
+
+drug–drug
+
+interactions
+
+(Table 5); and
+
+5. Medications whose dosages should be adjusted based
+
+on renal function (Table 6).
+
+Using the five categories of criteria as a framework, an
+interprofessional expert panel reviewed new data pub-
+lished since the 2019 update (beginning in 2017, the cutoff
+date for the prior update's literature review) to identify evi-
+dence that would remove, sustain, or alter existing criteria
+recommendations, rationale, level of evidence, or strength
+of recommendations. The panel also considered evidence
+that would support the addition of new criteria. For the
+first time, the panel systematically considered usage in the
+United States to determine whether any medications (and
+resulting criteria) should be removed because of very low
+or absent usage in the United States. Finally, the panel
+aimed to enhance usability by consolidating the formatting
+of the criteria for clarity and space.
+
+OBJECTIVES
+
+®
+
+The specific aim was to update the 2019 AGS Beers
+using a comprehensive, systematic review and
+Criteria
+grading of the evidence on drug-related problems and
+adverse events in older adults. The strategies to achieve
+this aim were to:
+
+• Convene an interprofessional panel of 12 experts in
+geriatric care and pharmacotherapy and three ex-
+officio representatives from key stakeholder groups
+who would:
+(cid:1) Review evidence published between 2017 and 2022
+®
+,
+and use this to update the 2019 AGS Beers Criteria
+with consideration to removing or modifying exist-
+ing criteria and adding new criteria.
+
+Key points
+
+®
+
+• The intention of the AGS Beers Criteria
+
+is to:
+(1) reduce older adults' exposure to potentially
+inappropriate medications (PIMs) by improv-
+ing medication selection; (2) educate clinicians
+and patients; and (3) serve as a tool for evaluat-
+ing the quality of care, cost, and patterns of
+drug use in older adults.
+
+®
+
+• The target audience for the 2023 AGS Beers
+is practicing clinicians and others
+Criteria
+who utilize the criteria including healthcare
+researchers, pharmacy benefits
+consumers,
+managers, regulators, and policymakers.
+
+• The criteria are intended to be applied to adults
+65 years old and older in all ambulatory, acute,
+and institutionalized settings of care, except
+hospice and end-of-life care settings.
+
+Why does this paper matter?
+
+®
+
+®
+
+®
+
+(AGS Beers Criteria
+
+The American Geriatrics Society (AGS) Beers
+) for Potentially
+Criteria
+Inappropriate Medication (PIM) Use in Older
+Adults is widely used by clinicians, educators,
+researchers, healthcare administrators, and regu-
+lators. Since 2011, the AGS has been the steward
+of the criteria and has produced updates on a reg-
+is an explicit
+ular cycle. The AGS Beers Criteria
+list of PIMs that are typically best avoided by
+older adults in most circumstances or under spe-
+cific situations, such as in certain diseases or con-
+may
+ditions. Although the AGS Beers Criteria
+be used internationally, it is specifically designed
+for use in the United States and there may be
+additional considerations for certain drugs in spe-
+cific countries. Whenever and wherever used, the
+should be applied thought-
+AGS Beers Criteria
+fully and in a manner that supports, rather than
+replaces, shared clinical decision-making.
+
+®
+
+®
+
+®
+
+(cid:1) Incorporate exceptions to the 2023 AGS Beers
+Criteria
+that the panel deemed clinically appropri-
+ate. These exceptions were designed to make the cri-
+teria more individualized to clinical practice and
+more diverse and relevant across settings of care
+and populations of older adults.
+
+(cid:1) Grade the strength and quality of each PIM criterion
+based on the level of evidence and strength of
+recommendation.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2054
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+(cid:1) Apply a modified Delphi method, informed by the
+systematic review and grading, to reach a consensus
+on the 2023 update.
+
+I N T E N T OF CR I T E R I A
+
+®
+
+®
+
+The primary target audience for the 2023 AGS Beers
+is practicing clinicians. The criteria are
+Criteria
+intended to support shared decision-making about phar-
+macologic therapy with adults 65 years old and older in
+all ambulatory, acute, and institutionalized settings of
+care, except hospice and end-of-life care settings. The
+is to reduce older
+intention of the AGS Beers Criteria
+adults' exposure to PIMs by improving medication selec-
+tion; educate clinicians and patients; reduce adverse drug
+events; and serve as a tool for evaluating the quality of
+care, cost, and patterns of drug use in older adults. Others
+who utilize the criteria include healthcare consumers,
+researchers, pharmacy benefits managers, regulators, and
+policymakers. As with previous updates, the panel had
+discussions and debates in an effort to attain a balance
+between the multiple uses and users. We note that the
+criteria are a blunt instrument and that we are unable to
+delineate all specialized use cases and possible exceptions
+to the criteria.
+
+®
+
+The AGS and the panel remind users of the AGS Beers
+that the criteria are not to be used in a punitive
+Criteria
+manner. Prescribing for older adults is often a complex
+endeavor involving the consideration of many factors, par-
+ticularly the preferences and goals of the older person and
+their family. Deprescribing studies have demonstrated how
+critical patient and family input and buy-in can be to the
+success of discontinuing medications responsible for actual
+or potential harm or that provide little to no therapeutic
+value.3 Quality measures must be clearly defined, easily
+applied, and measured with limited information and, thus,
+although useful, cannot perfectly distinguish appropriate
+from inappropriate care. The panel's review of evidence at
+times identified subgroups of individuals who should be
+exempt from a given criterion or to whom a specific crite-
+rion should apply. Such a criterion may not be easily
+applied as a quality measure, particularly when such sub-
+groups cannot be easily identified through structured and
+readily accessible electronic data (e.g., when diagnoses, the
+purpose of prescribing, or laboratory measures such as kid-
+ney function are not available).
+
+including the rigor of the evidence review and synthesis
+process.4 These methods were adapted from the Grading
+of Recommendations Assessment, Development and
+Evaluation (GRADE) guidelines for clinical practice
+guideline development and are consistent with recom-
+mendations from the National Academy of Medicine.5,6
+
+Panel composition
+
+®
+
+The AGS Beers Criteria
+expert panel included 12 inter-
+professional members drawn from medicine, nursing,
+and pharmacy, 10 of whom had participated in the 2019
+update. Panelists had experience in different practice set-
+tings, including ambulatory care, home care, acute hos-
+pital care, skilled nursing facilities, and long-term care.
+In addition, the panel included ex-officio representa-
+tives from the Centers for Medicare & Medicaid Ser-
+vices, the National Committee for Quality Assurance,
+and the Pharmacy Quality Alliance. Potential conflicts
+of interest were disclosed at the beginning of the pro-
+cess and before each full panel call and are listed in the
+disclosures section of this paper. Panelists were recused
+from discussion in areas in which they had a potential
+conflict of interest.
+
+Literature review
+
+Literature searches were conducted in PubMed from
+June 1, 2017, to May 31, 2022. Search terms for each cri-
+terion included individual drugs, drug classes, specific
+conditions, and combinations thereof, each with a focus
+on “adverse drug events” and “adverse drug reactions,”
+as well as on any specific focus defined by the expert
+panel. Searches targeted controlled clinical trials, obser-
+vational studies, and systematic reviews and meta-
+analyses, with filters for human participants, 65 years old
+and older, and the English language. Clinical reviews
+and guidelines were also included to provide context.
+Case reports, case series, letters to the editor, and edito-
+rials were excluded.
+
+Searches identified 33,965 references; 7352 abstracts
+were sent to panelists for review, of which 1574 references
+were selected for full-text review. Among these, 451 manu-
+scripts were abstracted into evidence tables, and an addi-
+tional 148 were included as background reports.
+
+METHODS
+
+Development process
+
+Methods used for the 2023 update of the AGS Beers
+Criteria
+were similar to those used in the 2019 update,
+
+®
+
+The full panel convened for a series of conference calls
+between December 2020 and November 2022. Between
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAGS 2023 BEERS CRITERIA
+
+®
+
+2055
+
+the full panel calls, work was conducted via email. In
+addition, the panel was divided into four workgroups,
+each assigned a subset of the criteria, with each work-
+group leading the review and synthesis of evidence for its
+subset of the criteria.
+
+®
+
+The panel began its work using an anonymous Delphi
+. Using a
+process to review the 2019 AGS Beers Criteria
+5-point Likert scale with anchors of “strongly disagree”
+and “strongly agree,” criteria receiving three or more panel
+votes of “unsure” or below were brought back for group
+discussion and flagged for the individual workgroups to
+review for possible updating. Of note, during the full pro-
+cess, all legacy criteria were reviewed for accuracy and
+appropriateness. Panelists also provided input about drugs
+to be explored further for possible addition.
+
+To guide the evidence selection, review, and synthesis
+process, each workgroup reviewed and updated work-
+sheets created for the 2019 criteria that identified a priori
+which clinical outcomes,
+indications, and comparison
+groups were most relevant when considering the evi-
+dence for each criterion, that is, the “desired evidence”
+for reviewing each criterion. These discussions were not
+considered binding but provided guidance for keeping
+the evidence review and synthesis focused on what was
+most clinically relevant.
+
+Each workgroup reviewed abstracts from the litera-
+ture searches for the criteria in its purview and collec-
+tively selected a subset for full-text review. This selection
+process considered the methodologic quality of each
+study, its relevance to older adults, and its concordance
+with the desired evidence noted above. After reviewing
+the full text of each selected article, the workgroup then
+decided by consensus which papers represented the best
+available evidence, based on a balance of these same
+three key considerations (methodologic quality, relevance
+to older adults, and concordance with desired evidence).
+Special emphasis was placed on selecting systematic
+reviews and meta-analyses when available because
+resource constraints precluded the panel from conducting
+these types of comprehensive analyses. In general, a
+study was considered relevant to older adults if the mean
+or median age of participants was at least 65 years, and
+especially relevant if most or all participants were older
+than this age threshold.
+
+identified markers
+
+Papers comprising the best available evidence were
+abstracted into evidence tables. These tables summarized
+the design, study population, and findings of each study,
+quality
+and
+highlighted by the GRADE criteria for clinical trials and
+observational studies and by the AMSTAR criteria for
+systematic reviews and meta-analyses.10–12 Each work-
+group then synthesized evidence for each criterion from
+the 2017–2022 literature reviews informed by GRADE
+
+of methodologic
+
+guidelines and the American College of Physicians' evi-
+dence grading framework (Table 1).7,10
+
+Using evidence from the 2017–2022 literature review,
+findings from the previous AGS-led 2012, 2015, and 2019
+updates, and clinical
+judgment, each workgroup pre-
+sented to the full panel their findings and suggestions for
+changes (or no change) to the criteria, with ensuing dis-
+cussion. For most criteria, a consensus emerged: to leave
+an existing criterion from the 2019 update unchanged, to
+modify it, to remove it entirely, or to add a new criterion.
+Possible modifications included which drug(s) to include,
+the recommendation, the rationale, the quality of evi-
+dence, and the strength of the recommendation. As noted
+in the GRADE guidelines, the strength of recommenda-
+tion ratings incorporate a variety of considerations,
+including expert opinion and clinical judgment and con-
+text, and thus do not always align with the quality of evi-
+dence ratings.
+
+After proposed changes to the criteria were drafted, a
+second anonymous Delphi process was used to ascertain
+panel consensus on the changes, using the same 5-point
+Likert scale as was previously used. As a general rule, cri-
+teria receiving three or more panel votes of “unsure” or
+disagreement were brought back for group discussion to
+reach a consensus decision. Final edits after a public
+comment period were approved through the assent of
+panel members.
+
+®
+
+In addition to changes made based on available evi-
+dence, the panel decided on several modifications to
+improve the clarity and usability of
+the AGS Beers
+. The panel changed the order and wording of
+Criteria
+certain criteria, recommendations, and rationale state-
+ments to improve clarity, avoid possible misinterpreta-
+tions, and maintain consistency of formatting. The order
+of drugs and categories listed in Table 2 was also modi-
+fied for similar reasons. To enhance usability, where fea-
+sible we have listed individual drugs that belong to a
+specified drug class, not including agents that are rarely
+or never used in the United States (as defined using the
+methods described immediately below). Note that when
+such drug class labels are used, the general intent is that
+the criteria apply to all drugs within that class except
+when specified otherwise.
+
+To simplify and thereby increase usability, the panel
+also voted to omit from key reference tables a number of
+medications included in previous iterations of the criteria
+that have low or zero usage in the U.S. Drugs that were
+moved off the main tables due to low or absent use in the
+United States are shown in Table 8. We defined low use
+as <4000 U.S. Medicare beneficiaries aged 65 years or
+older receiving the drug in 2020 based on data from
+Medicare Part D Public Use Files (with the <4000 thresh-
+olds representing approximately <0.01% of Medicare
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2056
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+beneficiaries). Based on group consensus,
+the panel
+decided to retain an explicit listing of certain drugs in key
+reference tables despite having <4000 mentions in these
+files, based on over-the-counter availability and concerns
+that these drugs are still being used commonly enough to
+pose a population risk, including in settings not ascer-
+tainable through Medicare Part D data. Table 8 also
+includes a number of PIMs that are no longer available
+in the United States because there is no current manufac-
+turer, they have been removed from the market, or avail-
+able dosage forms limit use to specific uses outside the
+scope of the criteria. These changes should not be inter-
+preted as condoning the use of these medications—they
+are still considered potentially inappropriate in alignment
+®5 criteria—but were
+with the 2019 AGS Beers Criteria
+
+®
+
+moved off the main tables to “declutter” the 2023 AGS
+Beers Criteria
+and not distract from information on
+commonly used medications
+in the United States.
+Because medications included in the criteria reflect the
+U.S. context, clinicians in other countries should consider
+adaptations that may be warranted due to differing pat-
+terns of medication approval and use.
+
+The initial draft of the 2023 AGS Beers Criteria
+
+was
+reviewed by the AGS Executive Committee, the Chairs/
+Vice Chairs of the AGS Clinical Practice and Models of
+Care Committee (CPMC), the AGS Ethnogeriatrics Com-
+mittee, and the AGS Quality & Performance Measure-
+ment Committee (QPMC) and subsequently released for
+public comment via the AGS website. The availability of
+the criteria for public comment was communicated via
+
+®
+
+T A B L E 1 Designations of quality of evidence and strength of recommendations.
+
+Quality of evidence
+Quality of evidence ratings for each criterion are based on a synthetic assessment of 2 complementary approaches to evaluating the quality of
+evidence.
+
+ACP-based approach7
+
+GRADE-based approach5
+
+High-quality
+evidence
+
+“Evidence…obtained from 1 or more well-designed and
+well-executed randomized, controlled trials (RCTs)
+that yield consistent and directly applicable results.
+This also means that further research is very unlikely
+to change our confidence in the estimate of effect.”
+
+Moderate-quality
+
+“Evidence…obtained from RCTs with important
+
+evidence
+
+Low-quality
+evidence
+
+limitations…. In addition, evidence from well-designed
+controlled trials without randomization, well-designed
+cohort or case–control analytic studies, and multiple
+time series with or without intervention are in this
+category. Moderate-quality evidence also means that
+further research will probably have an important
+effect on our confidence in the estimate of effect and
+may change the estimate.”
+
+“Evidence obtained from observational studies would
+
+typically be rated as low quality because of the risk for
+bias. Low-quality evidence means that further research
+is very likely to have an important effect on our
+confidence in the estimate of effect and will probably
+change the estimate. However, the quality of evidence
+may be rated as moderate or even high, depending on
+circumstances under which evidence is obtained from
+observational studies.”
+
+Consider the following 5 factors for the studies that
+comprise the best-available evidence for a given
+criterion:
+
+1. Risk of bias: Severity of threats to studies' internal
+validity (eg, randomized vs observational design,
+the potential for confounding, bias in
+measurement, etc)
+
+2. Inconsistency: Do different studies provide similar
+
+or different estimates of effect size?
+
+3. Indirectness: How relevant are the studies to the
+
+clinical question at hand (eg, nature of the study of
+population, comparison group, type of outcomes
+measured, etc)?
+
+4. Imprecision: Precision of estimates of effect
+5. Publication bias: Risk of bias because of selective
+
+publication of results
+
+Overall quality of evidence that supports a given criterion: high, moderate, low.
+
+(cid:2)(cid:3)(cid:2)(cid:3)(cid:2)(cid:3)(cid:2)(cid:3)(cid:2)
+
+Strength of recommendation
+Strength of recommendation ratings for each criterion are based on synthetic integration of the quality of evidence, the frequency and severity
+of potential adverse events and their relationship to potential benefits, and clinical judgment.
+
+Strong
+
+Weak
+
+Harms, adverse events, and risks clearly outweigh the benefits.
+
+Harms, adverse events, and risks may not outweigh the benefits.
+
+Source: Adapted from Qaseem et al.,7 Guyatt et al.,8 Andrews et al.9
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 2
+
+2023 American Geriatrics Society Beers Criteria
+
+®
+
+for potentially inappropriate medication use in older adults.
+
+Organ system, therapeutic
+category, drug(s)a
+
+Antihistamines
+
+Rationale
+
+Recommendation
+
+Quality of
+evidenceb
+
+Strength of
+recommendationb
+
+First-generation antihistamines
+
+Highly anticholinergic; clearance reduced with
+
+Avoid
+
+Moderate
+
+Strong
+
+Brompheniramine
+Chlorpheniramine
+Cyproheptadine
+Dimenhydrinate
+Diphenhydramine (oral)
+Doxylamine
+Hydroxyzine
+Meclizine
+Promethazine
+Triprolidine
+
+Anti-infective
+
+Nitrofurantoin
+
+advanced age, and tolerance develops when used
+as hypnotic; risk of confusion, dry mouth,
+constipation, and other anticholinergic effects or
+toxicity. Cumulative exposure to anticholinergic
+drugs is associated with an increased risk of falls,
+delirium, and dementia, even in younger adults.
+Consider total anticholinergic burden during
+regular medication reviews and be cautious in
+“young-old” as well as “old-old” adults.
+
+Use of diphenhydramine in situations such as
+
+acute treatment of severe allergic reactions may
+be appropriate.
+
+
+Potential for pulmonary toxicity, hepatoxicity,
+and peripheral neuropathy, especially with
+long-term use; safer alternatives available.
+
+Avoid in individuals with CrCl <30 mL/
+min or for long-term suppression.
+
+Low
+
+Strong
+
+A
+G
+S
+
+2
+0
+2
+3
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+
+Cardiovascular and antithrombotics
+
+Aspirin for primary prevention of
+
+Risk of major bleeding from aspirin increases
+
+Avoid initiating aspirin for primary
+
+High
+
+Strong
+
+cardiovascular disease
+
+markedly in older age. Studies suggest a lack of
+net benefit and potential for net harm when
+initiated for primary prevention in older adults.
+There is less evidence about stopping aspirin
+among long-term users, although similar
+principles for initiation may apply.
+
+Note: Aspirin is generally indicated for secondary
+prevention in older adults with established
+cardiovascular disease.
+
+Warfarin for the treatment of
+
+Compared with DOACs, warfarin has higher
+
+nonvalvular atrial fibrillation or
+venous thromboembolism (VTE)
+
+risks of major bleeding (particularly
+intracranial bleeding) and similar or lower
+effectiveness for the treatment of nonvalvular
+atrial fibrillation and VTE. DOACs are thus the
+preferred choice for anticoagulation for most
+people with these conditions.
+
+prevention of cardiovascular disease.
+Consider deprescribing aspirin in older
+adults already taking it for primary
+prevention.
+
+Avoid starting warfarin as initial therapy
+for the treatment of nonvalvular atrial
+fibrillation or VTE unless alternative
+options (i.e., DOACs) are
+contraindicated or there are substantial
+barriers to their use.
+
+For older adults who have been using
+
+warfarin long-term, it may be reasonable
+to continue this medication, particularly
+among those with well-controlled INRs
+(i.e., >70% time in the therapeutic range)
+and no adverse effects.
+
+High
+
+Strong
+
+2
+0
+5
+7
+
+(Continues)
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 2
+
+(Continued)
+
+Organ system, therapeutic
+category, drug(s)a
+
+Rivaroxaban for long-term treatment of
+
+nonvalvular atrial fibrillation or
+venous thromboembolism (VTE)
+
+Rationale
+
+Recommendation
+
+Quality of
+evidenceb
+
+Strength of
+recommendationb
+
+See also criteria on rivaroxaban (Table 2)
+and dabigatran (Table 4) and footnote
+regarding choice among DOACs.
+
+Avoid for long-term treatment of atrial
+fibrillation or VTE in favor of safer
+anticoagulant alternatives.
+
+See also criteria on warfarin (Table 2) and
+
+dabigatran (Table 4) and footnote
+regarding the choice between warfarin
+and DOACs and among DOACs.
+
+Moderate
+
+Strong
+
+At doses used for long-term treatment of VTE or
+nonvalvular atrial fibrillation, rivaroxaban
+appears to have a higher risk of major bleeding
+and GI bleeding in older adults than other
+DOACs, particularly apixaban.c
+
+Rivaroxaban may be reasonable in special
+
+situations, for example when once-daily dosing
+is necessary to facilitate medication adherence.
+All DOACs confer a lower risk of intracranial
+hemorrhage than warfarin.c
+
+Dipyridamole, oral short-acting (does
+
+May cause orthostatic hypotension; more effective
+
+Avoid
+
+Moderate
+
+Strong
+
+not apply to extended-release
+combination with aspirin)
+
+Non-selective peripheral alpha-1
+blockers for the treatment of
+hypertension
+Doxazosin
+Prazosin
+Terazosin
+
+alternatives available; IV form acceptable for use in
+cardiac stress testing.
+
+High risk of orthostatic hypotension and
+
+Avoid use as an antihypertensive.
+
+Moderate
+
+Strong
+
+associated harms, especially in older adults; not
+recommended as routine treatment for
+hypertension; alternative agents have superior
+risk/benefit profile.
+
+Central alpha-agonists for the treatment
+
+High risk of adverse CNS effects; may cause
+
+Avoid clonidine as first-line treatment for
+
+Low
+
+Strong
+
+of hypertension
+Clonidine
+Guanfacine
+
+bradycardia and orthostatic hypotension; not
+recommended as routine treatment for
+hypertension.
+
+hypertension.
+
+Avoid other central alpha-agonists for the
+
+treatment of hypertension.
+
+Nifedipine, immediate release
+
+Potential for hypotension; risk of precipitating
+
+Avoid
+
+myocardial ischemia.
+
+Amiodarone
+
+Effective for maintaining sinus rhythm but has
+
+Avoid as first-line therapy for atrial
+
+High
+
+High
+
+Strong
+
+Strong
+
+greater toxicities than other antiarrhythmics used
+in atrial fibrillation; may be reasonable first-line
+therapy in patients with concomitant heart
+failure or substantial left ventricular hypertrophy
+if rhythm control is preferred over rate control.
+
+fibrillation unless the patient has heart
+failure or substantial left ventricular
+hypertrophy.
+
+Dronedarone
+
+Worse outcomes in people who have permanent
+
+Avoid in individuals with permanent atrial
+
+High
+
+Strong
+
+atrial fibrillation or severe or recently
+decompensated heart failure. In some
+circumstances, worse outcomes have also been
+reported in people with HFrEF (e.g., left
+ventricular ejection fraction ≤35%) who have
+milder symptoms (NYHA class I or II).
+
+fibrillation or severe or recently
+decompensated heart failure. Use caution
+in patients with HFrEF with less severe
+symptoms (NYHA class I or II).
+
+2
+0
+5
+8
+
+B
+Y
+T
+H
+E
+2
+0
+2
+3
+A
+M
+E
+R
+I
+C
+A
+N
+G
+E
+R
+I
+A
+T
+R
+I
+C
+S
+
+S
+O
+C
+I
+E
+T
+Y
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+U
+P
+D
+A
+T
+E
+E
+X
+P
+E
+R
+T
+P
+A
+N
+E
+L
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 2
+
+(Continued)
+
+Organ system, therapeutic
+category, drug(s)a
+
+Digoxin for first-line treatment of atrial
+
+fibrillation or heart failure
+
+Rationale
+
+Recommendation
+
+Quality of
+evidenceb
+
+Strength of
+recommendationb
+
+Avoid this rate control agent as first-line
+
+Atrial fibrillation;
+
+Strong
+
+therapy for atrial fibrillation.
+Avoid as first-line therapy for heart
+
+failure. See rationale for caution about
+withdrawal in long-term users with
+HFrEF.
+
+If used for atrial fibrillation or heart
+
+failure, avoid dosages >0.125 mg/day.
+
+heart failure: low
+Dosage > 0.125 mg/
+day: moderate
+
+Use in atrial fibrillation: should not be used as a
+first-line agent because there are safer and
+more effective alternatives for rate control.
+
+Use in heart failure: evidence for benefits and harms
+of digoxin is conflicting and of lower quality; most
+(but not all) evidence concerns use in HFrEF.
+There is strong evidence for other agents as first-
+line therapy to reduce hospitalizations and
+mortality in adults with HFrEF. In heart failure,
+higher dosages are not associated with additional
+benefits and may increase the risk of toxicity. Use
+caution in discontinuing digoxin among current
+users with HFrEF, given limited evidence
+suggesting worse clinical outcomes after
+discontinuation.
+
+Decreased renal clearance of digoxin may lead to
+an increased risk of toxic effects; further dose
+reduction may be necessary for those with
+Stage 4 or 5 chronic kidney disease.
+
+A
+G
+S
+
+2
+0
+2
+3
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+
+Central nervous system
+
+Antidepressants with strong
+
+Highly anticholinergic, sedating, and cause
+
+Avoid
+
+High
+
+Strong
+
+orthostatic hypotension; the safety profile of
+low-dose doxepin (≤6 mg/day) is comparable to
+that of placebo.
+
+anticholinergic activity, alone or in
+combination
+Amitriptyline
+Amoxapine
+Clomipramine
+Desipramine
+Doxepin >6 mg/day
+Imipramine
+Nortriptyline
+Paroxetine
+
+Antiparkinsonian agents with strong
+
+Not recommended for prevention or treatment of
+
+Avoid
+
+Moderate
+
+Strong
+
+anticholinergic activity
+
+Benztropine (oral)
+Trihexyphenidyl
+
+Antipsychotics, first- (typical) and
+second- (atypical) generation
+Aripiprazole
+Haloperidol
+Olanzapine
+Quetiapine
+Risperidone
+Othersd
+
+extrapyramidal symptoms due to
+antipsychotics; more effective agents available
+for the treatment of Parkinson disease.
+
+Increased risk of stroke and greater rate of
+
+Avoid, except in FDA-approved
+
+Moderate
+
+Strong
+
+cognitive decline and mortality in persons with
+dementia. Additional evidence suggests an
+association of increased risk between
+antipsychotic medication and mortality
+independent of dementia.
+
+indications such as schizophrenia,
+bipolar disorder, Parkinson disease
+psychosis (see Table 3), adjunctive
+treatment of major depressive disorder,
+or for short-term use as an antiemetic.
+
+2
+0
+5
+9
+
+(Continues)
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 2
+
+(Continued)
+
+Organ system, therapeutic
+category, drug(s)a
+
+Rationale
+
+Recommendation
+
+Quality of
+evidenceb
+
+Strength of
+recommendationb
+
+Avoid antipsychotics for behavioral problems of
+dementia or delirium unless documented
+nonpharmacologic options (e.g., behavioral
+interventions) have failed and/or the patient is
+threatening substantial harm to self or others.
+If used, periodic deprescribing attempts should
+be considered to assess ongoing need and/or
+the lowest effective dose.
+
+High rate of physical dependence, tolerance to
+sleep benefits, greater risk of overdose at low
+dosages.
+
+The use of benzodiazepines exposes users to risks
+of abuse, misuse, and addiction. Concomitant
+use of opioids may result in profound sedation,
+respiratory depression, coma, and death.
+
+Older adults have increased sensitivity to
+
+benzodiazepines and decreased metabolism of
+long-acting agents; the continued use of
+benzodiazepines may lead to clinically
+significant physical dependence. In general, all
+benzodiazepines increase the risk of cognitive
+impairment, delirium, falls, fractures, and
+motor vehicle crashes in older adults.
+
+May be appropriate for seizure disorders, rapid
+
+eye movement sleep behavior disorder,
+benzodiazepine withdrawal, ethanol
+withdrawal, severe generalized anxiety
+disorder, and periprocedural anesthesia.
+
+Nonbenzodiazepine benzodiazepine receptor
+agonist hypnotics (“Z-drugs”) have adverse
+events similar to those of benzodiazepines in
+older adults (e.g., delirium, falls, fractures,
+increased emergency room visits/
+hospitalizations, motor vehicle crashes);
+minimal improvement in sleep latency and
+duration.
+
+Barbiturates
+Butalbital
+Phenobarbital
+Primidone
+
+Benzodiazepines
+Alprazolam
+Chlordiazepoxide (alone or in
+combination with amitriptyline or
+clidinium)
+Clobazam
+Clonazepam
+Clorazepate
+Diazepam
+Estazolam
+Lorazepam
+Midazolam
+Oxazepam
+Temazepam
+Triazolam
+
+Nonbenzodiazepine benzodiazepine
+
+receptor agonist hypnotics (“Z-drugs”)
+Eszopiclone
+Zaleplon
+Zolpidem
+
+Avoid
+
+Avoid
+
+High
+
+Strong
+
+Moderate
+
+Strong
+
+Avoid
+
+Moderate
+
+Strong
+
+Meprobamate
+
+High rate of physical dependence; very sedating.
+
+Ergoloid mesylates (dehydrogenated
+
+Lack of efficacy.
+
+ergot alkaloids)
+
+Avoid
+
+Avoid
+
+Moderate
+
+High
+
+Strong
+
+Strong
+
+2
+0
+6
+0
+
+B
+Y
+T
+H
+E
+2
+0
+2
+3
+A
+M
+E
+R
+I
+C
+A
+N
+G
+E
+R
+I
+A
+T
+R
+I
+C
+S
+
+S
+O
+C
+I
+E
+T
+Y
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+U
+P
+D
+A
+T
+E
+E
+X
+P
+E
+R
+T
+P
+A
+N
+E
+L
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 2
+
+(Continued)
+
+Organ system, therapeutic
+category, drug(s)a
+
+Endocrine
+
+Androgens
+
+Methyltestosterone
+Testosterone
+
+Estrogens with or without progestins
+(includes natural and synthetic estrogen
+
+preparations)
+
+Insulin, sliding scale (insulin regimens
+containing only short- or rapid-acting
+insulin dosed according to current
+blood glucose levels without
+concurrent use of basal or long-acting
+insulin)
+
+Sulfonylureas (all, including short- and
+
+longer-acting)
+Gliclazide
+Glimepiride
+Glipizide
+Glyburide (Glibenclamide)
+
+A
+G
+S
+
+2
+0
+2
+3
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+
+Rationale
+
+Recommendation
+
+Quality of
+evidenceb
+
+Strength of
+recommendationb
+
+Potential for cardiac problems; potential risks in
+
+Avoid unless indicated for confirmed
+
+Moderate
+
+Weak
+
+men with prostate cancer.
+
+hypogonadism with clinical symptoms.
+
+Evidence of carcinogenic potential (breast and
+endometrium); lack of cardioprotective effect
+and cognitive protection in older women.
+For women who start HRT at age 60 and older,
+the risks of HRT are greater than the benefits,
+as HRT is linked to a higher risk of heart
+disease, stroke, blood clots, and dementia.
+Evidence indicates that vaginal estrogens for the
+
+treatment of vaginal dryness are safe and
+effective; women with a history of breast cancer
+who do not respond to nonhormonal therapies
+are advised to discuss the risks and benefits of
+low-dose vaginal estrogen (e.g., dosages of
+estradiol <25 mcg twice weekly) with their
+healthcare provider.
+
+Do not initiate systemic estrogen (e.g., oral
+
+tablets or transdermal patches).
+Consider deprescribing among older
+women already using this medication.
+
+Vaginal cream or vaginal tablets:
+
+acceptable to use low-dose intravaginal
+estrogen for the management of
+dyspareunia, recurrent lower urinary
+tract infections, and other vaginal
+symptoms.
+
+Oral and patch: high
+Vaginal cream or
+vaginal tablets:
+moderate
+
+Oral and patch:
+
+strong
+
+Topical vaginal
+
+cream or tablets:
+weak
+
+Higher risk of hypoglycemia without
+
+Avoid
+
+Moderate
+
+Strong
+
+improvement in hyperglycemia management
+regardless of care setting. Avoid insulin
+regimens that include only short- or rapid-
+acting insulin dosed according to current blood
+glucose levels without concurrent use of basal
+or long-acting insulin. This recommendation
+does not apply to regimens that contain basal
+insulin or long-acting insulin.
+
+Sulfonylureas have a higher risk of cardiovascular
+events, all-cause mortality, and hypoglycemia
+than alternative agents. Sulfonylureas may
+increase the risk of cardiovascular death and
+ischemic stroke.
+
+Among sulfonylureas, long-acting agents (e.g.,
+
+glyburide, glimepiride) confer a higher risk of
+prolonged hypoglycemia than short-acting
+agents (e.g., glipizide).
+
+Avoid sulfonylureas as first- or second-line
+monotherapy or add-on therapy unless
+there are substantial barriers to the use
+of safer and more effective agents.
+
+If a sulfonylurea is used, choose short-
+
+acting agents (e.g., glipizide) over long-
+acting agents (e.g., glyburide,
+glimepiride).
+
+Hypoglycemia: High
+
+Strong
+
+CV events and all-
+cause mortality:
+Moderate
+
+CV death and
+
+ischemic stroke:
+Low
+
+Desiccated thyroid
+
+Concerns about cardiac effects; safer alternatives
+
+Avoid
+
+Low
+
+Strong
+
+available.
+
+(Continues)
+
+2
+0
+6
+1
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 2
+
+(Continued)
+
+Organ system, therapeutic
+category, drug(s)a
+
+Rationale
+
+Recommendation
+
+Megestrol
+
+Minimal effect on weight; increases the risk of
+
+Avoid
+
+thrombotic events and possibly death in older
+adults.
+
+Quality of
+evidenceb
+
+Moderate
+
+Growth hormone
+
+Impact on body composition is small and
+
+Avoid, except for patients rigorously
+
+High
+
+associated with edema, arthralgia, carpal
+tunnel syndrome, gynecomastia, and impaired
+fasting glucose.
+
+diagnosed by evidence-based criteria
+with growth hormone deficiency due to
+an established etiology.
+
+Strength of
+recommendationb
+
+Strong
+
+Strong
+
+Gastrointestinal
+
+Proton-pump inhibitors
+
+Dexlansoprazole
+Esomeprazole
+Lansoprazole
+Omeprazole
+Pantoprazole
+Rabeprazole
+
+Risk of C. difficile infection, pneumonia, GI
+malignancies, bone loss, and fractures.
+
+Avoid scheduled use for >8 weeks unless
+
+C. difficile, bone loss,
+
+Strong
+
+for high-risk patients (e.g., oral
+corticosteroids or chronic NSAID use),
+erosive esophagitis, Barrett's esophagitis,
+pathologic hypersecretory condition, or
+demonstrated need for maintenance
+treatment (e.g., because of failure of
+drug discontinuation trial or
+H2-receptor antagonists).
+
+and fractures:
+High
+
+Pneumonia and GI
+malignancies:
+Moderate
+
+Metoclopramide
+
+Can cause extrapyramidal effects, including
+
+Avoid, unless for gastroparesis with a
+
+Moderate
+
+Strong
+
+tardive dyskinesia; the risk may be greater in
+frail older adults and with prolonged exposure.
+
+duration of use not to exceed 12 weeks
+except in rare cases.
+
+GI antispasmodics with strong
+
+Highly anticholinergic, uncertain effectiveness.
+
+Avoid
+
+Moderate
+
+Strong
+
+anticholinergic activity
+Atropine (excludes ophthalmic)
+Clidinium-chlordiazepoxide
+Dicyclomine
+Hyoscyamine
+Scopolamine
+
+Mineral oil, given orally
+
+Potential for aspiration and adverse effects; safer
+
+Avoid
+
+Moderate
+
+Strong
+
+Genitourinary
+
+Desmopressin
+
+Pain medications
+
+alternatives available.
+
+High risk of hyponatremia; safer alternative
+treatments for nocturia (including non-
+pharmacologic).
+
+Avoid for treatment of nocturia or
+
+Moderate
+
+Strong
+
+nocturnal polyuria.
+
+Non-COX-2-selective NSAIDs, oral:
+
+Increased risk of GI bleeding or peptic ulcer
+
+Avoid chronic use unless other
+
+Moderate
+
+Strong
+
+Aspirin >325 mg/day
+Diclofenac
+Diflunisal
+Etodolac
+Flurbiprofen
+
+disease in high-risk groups, including those
+>75 years old or taking oral or parenteral
+corticosteroids, anticoagulants, or antiplatelet
+agents; use of proton-pump inhibitor or
+misoprostol reduces but does not eliminate
+
+alternatives are not effective and the
+patient can take a gastroprotective agent
+(proton-pump inhibitor or misoprostol).
+
+Avoid short-term scheduled use in
+
+combination with oral or parenteral
+
+2
+0
+6
+2
+
+B
+Y
+T
+H
+E
+2
+0
+2
+3
+A
+M
+E
+R
+I
+C
+A
+N
+G
+E
+R
+I
+A
+T
+R
+I
+C
+S
+
+S
+O
+C
+I
+E
+T
+Y
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+U
+P
+D
+A
+T
+E
+E
+X
+P
+E
+R
+T
+P
+A
+N
+E
+L
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 2
+
+(Continued)
+
+Organ system, therapeutic
+category, drug(s)a
+
+Ibuprofen
+Indomethacin
+Ketorolac
+Meloxicam
+Nabumetone
+Naproxen
+Oxaprozin
+Piroxicam
+Sulindac
+
+Indomethacin
+Ketorolac (oral and parenteral)
+
+Meperidine
+
+Rationale
+
+Recommendation
+
+Quality of
+evidenceb
+
+Strength of
+recommendationb
+
+risk. Upper GI ulcers, gross bleeding, or
+perforation caused by NSAIDs occur in (cid:3)1% of
+patients treated for 3–6 months and in (cid:3)2%–4%
+of patients treated for 1 year; these trends
+continue with longer duration of use. Also can
+increase blood pressure and induce kidney
+injury. Risks are dose-related.
+
+corticosteroids, anticoagulants, or
+antiplatelet agents unless other
+alternatives are not effective and the
+patient can take a gastroprotective agent
+(proton-pump inhibitor or misoprostol).
+
+Increased risk of GI bleeding/peptic ulcer disease
+and acute kidney injury in older adults. Of all
+the NSAIDs, indomethacin has the most
+adverse effects, including a higher risk of
+adverse CNS effects.
+
+Oral analgesic not effective in dosages commonly
+used; may have a higher risk of neurotoxicity,
+including delirium, than other opioids; safer
+alternatives available.
+
+Avoid
+
+Avoid
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+Skeletal muscle relaxants
+
+Muscle relaxants typically used to treat
+
+Avoid
+
+Moderate
+
+Strong
+
+Carisoprodol
+Chlorzoxazone
+Cyclobenzaprine
+Metaxalone
+Methocarbamol
+Orphenadrine
+
+musculoskeletal complaints are poorly tolerated
+by older adults due to anticholinergic adverse
+effects, sedation, and increased risk of fractures;
+effectiveness at dosages tolerated by older adults
+is questionable.
+
+This criterion does not apply to skeletal muscle
+
+relaxants typically used for the management of
+spasticity (i.e., baclofen and tizanidine)
+although these drugs can also cause substantial
+adverse effects.
+
+Abbreviations: CNS, central nervous system; COX, cyclooxygenase; CrCl, creatinine clearance; CV, cardiovascular; DOACs, direct oral anticoagulants; GI, gastrointestinal; HFrEF, heart failure with
+reduced ejection fraction; HRT, hormone replacement therapy; INR, international normalized ratio; NSAIDs, nonsteroidal anti-inflammatory drugs; NYHA, New York Heart Association; SIADH,
+syndrome of inappropriate antidiuretic hormone secretion; VTE, venous thromboembolism.
+aUnder each drug class, drugs commonly used in the United States are listed, except in cases where doing so is infeasible due to space considerations. Unless stated otherwise, all drugs within a stated drug
+class are considered potentially inappropriate in the context of the criterion in which they appear, even if not listed in this table.
+bQuality of evidence and strength of recommendation ratings apply to all drugs and recommendations within each criterion unless stated otherwise.
+cWhen selecting among DOACs and choosing a dose, pay special consideration to kidney function (see Table 6), indication, and body weight.
+dAntipsychotics used in the United States include: First-generation (“typical”)—chlorpromazine, fluphenazine, haloperidol, perphenazine; Second-generation (“atypical”)—aripiprazole, brexpiprazole,
+cariprazine, clozapine, lurasidone, olanzapine, paliperidone, pimavanserin, quetiapine, risperidone, ziprasidone. This list does not include antipsychotics rarely or never used in the U.S. among older
+adults.
+
+A
+G
+S
+
+2
+0
+2
+3
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+
+2
+0
+6
+3
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2064
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+in MyAGSOnline,
+
+listserv and notices
+
+AGS' regular communication channels for reaching the
+public. AGS members were also encouraged to submit
+comments with multiple posts included on the weekly
+member
+the
+society's online member community. AGS also made out-
+reach to 47 organizations to alert them to the public com-
+ment period and with a request that they provide expert,
+external review. Fifty-eight total comment forms were
+submitted comprising more than 200 comments and sug-
+gestions; the expert panel reviewed these and modified
+the criteria and accompanying text based on the strength
+of the evidence supporting each recommended change
+and clinical judgment. The AGS Executive Committee
+and CPMC Chair and Vice Chair reviewed the resulting
+. The Criteria went
+draft of the 2023 AGS Beers Criteria
+through peer review by the Journal of the American Geri-
+atrics Society (JAGS).
+
+®
+
+R E S U L T S
+
+Noteworthy changes to PIMS for older
+adults
+
+®
+
+The drugs and drug class criteria included in the 2023
+are listed in Tables 2–6. To enhance
+AGS Beers Criteria
+clarity, a special box that summarizes the criteria for anti-
+coagulants (warfarin, rivaroxaban, and dabigatran) has
+been added (Box 1). Table 7 is a list of drugs with strong
+anticholinergic properties referred to in Tables 2, 3, and 5.
+Table 8 is a list of drugs from the 2019 AGS Beers Criteria
+that the panel still considers to be PIMs (unless specified
+otherwise) but which are now moved off of Tables 2–7 on
+
+®
+
+account of having low usage in the United States, not
+being currently available in the United States, or for other
+reasons. A summary of modifications and additions to the
+criteria is shown in Tables 9 and 10. Online supplemental
+Appendix S1 contains a list of drugs removed from the
+AGS Beers Criteria
+
+since the 2012 update.
+In Table 2, the rationale for anticholinergic drugs to
+avoid has been expanded to recognize the risks associated
+with concurrent use (cumulative anticholinergic burden)
+and is also recognized in Tables 3 and 5. The criterion for
+the use of aspirin for the primary prevention of cardiovas-
+cular disease has been revised and moved from the “use
+with caution” table (Table 4) to Table 2, with the new
+recommendation being to avoid initiating aspirin for the
+primary prevention of cardiovascular disease in older
+adults (in agreement with the U.S. Preventive Services
+Task Force's recommendation).13 For older adults who
+are already taking aspirin for primary prevention, the
+panel recommends deprescribing be considered, pending
+any new data on this issue.
+
+length,
+
+Changes to the criteria involving anticoagulation
+were discussed at
+including the proposed
+changes, the supporting literature, and ramifications. The
+recommendation for rivaroxaban has changed from “use
+with caution” to “avoid” for long-term treatment of non-
+valvular atrial fibrillation and venous thromboembolism
+(VTE), with the rationale being that observational studies
+and network meta-analyses find that this drug confers a
+higher risk of major and gastrointestinal bleeding in
+older adults than other direct-acting oral anticoagulants
+(DOACs), particularly apixaban, but also dabigatran. The
+panel recognizes there may be circumstances when rivar-
+oxaban may be a reasonable choice, including for other
+
+BOX 1 Synthesis of anticoagulation recommendations.
+
+Explanation
+
+This criterion summarizes recommendations for warfarin
+
+Recommendation
+Warfarin: Avoid starting warfarin as initial therapy for the
+
+(Table 2), rivaroxaban (Table 2), and dabigatran
+(Table 4)—anticoagulants to avoid or to use with caution.
+A “use with caution” recommendation reflects less concern
+and/or less clear evidence than an “avoid”
+recommendation. See individual criteria on these
+medications for more information about anticoagulant-
+related recommendations.
+
+treatment of venous thromboembolism (VTE) or nonvalvular
+atrial fibrillation unless alternative options (e.g., DOACs) are
+contraindicated or there are substantial barriers to their use.
+For older adults who have been using warfarin long-term, it
+may be reasonable to continue this medication, particularly
+among those with well-controlled INRs (i.e., >70% time in the
+therapeutic range) and no adverse effects.
+
+When selecting among DOACs and choosing a dosage, pay
+special consideration to kidney function (see Table 6),
+indication, and body weight.
+
+Rivaroxaban: Avoid rivaroxaban for long-term treatment of
+nonvalvular atrial fibrillation or VTE in favor of safer
+anticoagulant alternatives.
+
+Dabigatran: Use caution in selecting dabigatran over other
+
+DOACs (e.g., apixaban) for long-term treatment of nonvalvular
+atrial fibrillation or VTE.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 3
+exacerbate the disease or syndrome.
+
+2023 American Geriatrics Society Beers Criteria
+
+®
+
+for potentially inappropriate medication use in older adults due to drug–disease or drug–syndrome interactions that may
+
+Disease or syndrome
+
+Drug(s)a
+
+Rationale
+
+Recommendation
+
+Quality of evidenceb
+
+Strength of
+recommendationb
+
+Cardiovascular
+
+Heart failure
+
+Cilostazol
+
+Potential to promote fluid retention and/or
+
+Avoid:
+
+Cilostazol,
+
+Strong
+
+A
+G
+S
+
+2
+0
+2
+3
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+
+Dextromethorphan-quinidine
+
+Nondihydropyridine calcium channel
+
+blockers (CCBs)
+Diltiazem
+Verapamil
+
+Dronedarone
+
+NSAIDs and COX-2 inhibitors
+Thiazolidinediones
+Pioglitazone
+
+exacerbate heart failure (NSAIDs and COX-2
+inhibitors, non-dihydropyridine CCBs,
+thiazolidinediones); potential to increase mortality
+in older adults with heart failure (cilostazol and
+dronedarone); concerns about QT prolongation
+(dextromethorphan-quinidine).
+
+Note: This is not a comprehensive list of medications
+
+to avoid in patients with heart failure.
+
+dextromethorphan-
+quinidine, COX-2
+inhibitors: Low
+
+Non-dihydropyridine
+CCBs, NSAIDs:
+Moderate
+
+Dronedarone,
+
+thiazolidenediones:
+High
+
+Cilostazol
+Dextromethorphan-quinidine
+-------------------------------
+Avoid in heart failure with
+reduced ejection fraction:
+
+Nondihydropyridine calcium
+channel blockers (CCBs)
+Diltiazem
+Verapamil
+
+-------------------------------
+Use with caution in patients with
+
+heart failure who are
+asymptomatic; avoid in
+patients with symptomatic
+heart failure:
+
+Dronedarone
+
+NSAIDs and COX-2 inhibitors
+
+Thiazolidinediones
+Pioglitazone
+
+Syncope
+
+Antipsychotics (selected)
+
+Antipsychotics listed and tertiary TCAs increase the
+
+Avoid
+
+High
+
+risk of orthostatic hypotension.
+
+AChEIs cause bradycardia and should be avoided in
+
+older adults whose syncope may be due to
+bradycardia.
+
+Non-selective peripheral alpha-1 blockers cause
+
+orthostatic blood pressure changes and should be
+avoided in older adults whose syncope may be due
+to orthostatic hypotension.
+
+Chlorpromazine
+Olanzapine
+
+Cholinesterase inhibitors (AChEIs)
+
+Donepezil
+Galantamine
+Rivastigmine
+
+Non-selective peripheral alpha-1
+
+blockers
+Doxazosin
+Prazosin
+Terazosin
+
+Tertiary tricyclic antidepressants
+
+(TCAs)
+Amitriptyline
+Clomipramine
+Doxepin
+Imipramine
+
+Antipsychotics, non-
+selective peripheral
+alpha-1 blockers:
+Weak
+
+AChEIs, tertiary TCAs:
+
+Strong
+
+(Continues)
+
+2
+0
+6
+5
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 3
+
+(Continued)
+
+Disease or syndrome
+
+Drug(s)a
+
+Rationale
+
+Recommendation
+
+Quality of evidenceb
+
+Strength of
+recommendationb
+
+Central nervous system
+
+Delirium
+
+Anticholinergics (see Table 7)
+
+Antipsychoticsc
+
+Benzodiazepines
+
+Corticosteroids (oral and parenteral)d
+
+H2-receptor antagonists
+
+Cimetidine
+Famotidine
+Nizatidine
+
+Nonbenzodiazepine benzodiazepine
+receptor agonist hypnotics (“Z-
+drugs”)
+Eszopiclone
+Zaleplon
+Zolpidem
+
+Opioids
+
+Avoid in older adults with or at high risk of delirium
+because of the potential of inducing or worsening
+delirium.
+
+Avoid, except in situations listed
+under the rationale statement.
+
+H2-receptor antagonists:
+
+Strong
+
+Low
+
+All others: Moderate
+
+Antipsychotics: avoid for behavioral problems of
+
+dementia or delirium unless nonpharmacologic
+options (eg, behavioral interventions) have failed
+or are not possible and the older adult is
+threatening substantial harm to self or others. If
+used, periodic deprescribing attempts should be
+considered to assess ongoing need and/or the
+lowest effective dose.
+
+Corticosteroids: if needed, use the lowest possible
+dose for the shortest duration and monitor for
+delirium.
+
+Opioids: emerging data highlights an association
+
+between opioid administration and delirium. For
+older adults with pain, use a balanced approach,
+including the use of validated pain assessment
+tools and multimodal strategies that include
+nondrug approaches to minimize opioid use.
+
+Dementia or cognitive
+
+Anticholinergics (see Table 7)
+
+Avoid because of adverse CNS effects. See criteria on
+
+Avoid
+
+Moderate
+
+Strong
+
+impairment
+
+Antipsychotics, chronic use or
+persistent as-needed usec
+
+Benzodiazepines
+
+Nonbenzodiazepine benzodiazepine
+receptor agonist hypnotics (“Z-
+drugs”)
+Eszopiclone
+Zaleplon
+Zolpidem
+
+individual drugs for additional information.
+
+Antipsychotics: increased risk of stroke and greater
+rate of cognitive decline and mortality in people
+with dementia. Avoid antipsychotics for
+behavioral problems of dementia or delirium
+unless documented nonpharmacologic options
+(e.g., behavioral interventions) have failed and/or
+the patient is threatening substantial harm to self
+or others. If used, periodic deprescribing attempts
+should be considered to assess ongoing need
+and/or the lowest effective dose.
+
+History of falls or
+
+Anticholinergics (see Table 7)
+
+May cause ataxia, impaired psychomotor function,
+
+Avoid unless safer alternatives are
+
+Antidepressants, opioids:
+
+Strong
+
+fractures
+
+Antidepressants (selected classes)
+
+SNRIs
+SSRIs
+Tricyclic antidepressants (TCAs)
+
+Antiepileptics
+
+Antipsychoticsc
+
+Benzodiazepines
+
+syncope, or additional falls.
+
+not available.
+
+Antidepressants (selected classes): evidence for risk
+of falls and fractures is mixed; newer evidence
+suggests that SNRIs may increase falls risk.
+Benzodiazepines: shorter-acting ones are not safer
+
+than long-acting ones.
+
+If one of the drugs must be used, consider reducing
+the use of other CNS-active medications that
+increase the risk of falls and fractures
+
+Antiepileptics: avoid except for
+seizures and mood disorders.
+
+Opioids: avoid except for pain
+
+management in the setting of
+severe acute pain.
+
+Moderate
+
+All others: High
+
+2
+0
+6
+6
+
+B
+Y
+T
+H
+E
+2
+0
+2
+3
+A
+M
+E
+R
+I
+C
+A
+N
+G
+E
+R
+I
+A
+T
+R
+I
+C
+S
+
+S
+O
+C
+I
+E
+T
+Y
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+U
+P
+D
+A
+T
+E
+E
+X
+P
+E
+R
+T
+P
+A
+N
+E
+L
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 3
+
+(Continued)
+
+Disease or syndrome
+
+Drug(s)a
+
+Rationale
+
+Recommendation
+
+Quality of evidenceb
+
+Strength of
+recommendationb
+
+History of falls and
+fractures, cont'd
+
+Nonbenzodiazepine benzodiazepine
+receptor agonist hypnotics (“Z-
+drugs”)
+Eszopiclone
+Zaleplon
+Zolpidem
+
+(i.e., anticholinergics, selected antidepressants,
+antiepileptics, antipsychotics, sedative/hypnotics
+including benzodiazepines and,
+nonbenzodiazepine benzodiazepine receptor
+agonist hypnotics, opioids) and implement other
+strategies to reduce fall risk.
+
+Opioids
+
+Parkinson disease
+
+Antiemetics
+
+Dopamine-receptor antagonists with the potential to
+
+Avoid
+
+Moderate
+
+Strong
+
+Metoclopramide
+Prochlorperazine
+Promethazine
+
+Antipsychotics (except clozapine,
+pimavanserin, and quetiapine)
+
+worsen parkinsonian symptoms
+
+Exceptions: clozapine, pimavanserin, and quetiapine
+
+appear to be less likely to precipitate the
+worsening of Parkinson disease than other
+antipsychotics.
+
+Gastrointestinal
+
+History of gastric or
+duodenal ulcers
+
+Aspirin
+Non-COX-2 selective NSAIDs
+
+May exacerbate existing ulcers or cause
+
+Avoid unless other alternatives
+
+Moderate
+
+Strong
+
+new/additional ulcers
+
+are not effective and the patient
+can take a gastroprotective
+agent (i.e., proton-pump
+inhibitor or misoprostol).
+
+Kidney/urinary tract
+
+Urinary incontinence
+
+Non-selective peripheral alpha-1
+
+Aggravation of incontinence (alpha-1 blockers),
+
+(all types) in women
+
+blockerse
+Doxazosin
+Prazosin
+Terazosin
+
+Estrogen, oral and transdermal
+
+(excludes intravaginal estrogen)
+
+lack of efficacy (oral estrogen)
+
+Avoid in women
+See also recommendation on
+
+estrogen (Table 2)
+
+Non-selective peripheral
+
+Non-selective
+
+alpha-1 blockers:
+Moderate
+Estrogen: High
+
+peripheral alpha-1
+blockers: Strong
+
+Estrogen: Strong
+
+Lower urinary tract
+symptoms, benign
+prostatic hyperplasia
+
+Strongly anticholinergic drugs, except
+
+May decrease urinary flow and cause urinary
+
+Avoid in men
+
+Moderate
+
+Strong
+
+antimuscarinics for urinary
+incontinence (see Table 7)
+
+retention
+
+Abbreviations: AChEI, acetylcholinesterase inhibitor; CCBs, calcium channel blockers; CNS, central nervous system; COPD, chronic obstructive pulmonary disease; COX, cyclooxygenase; CrCl, creatinine clearance;
+NSAIDs, nonsteroidal anti-inflammatory drugs; SNRIs, serotonin-norepinephrine reuptake inhibitors; SSRIs, selective serotonin reuptake inhibitors; TCAs, tricyclic antidepressants.
+aUnder each drug class, drugs commonly used in the United States are listed, except in cases where doing so is infeasible due to space considerations. Unless stated otherwise, all drugs within a stated drug class are
+considered potentially inappropriate in the context of the criterion in which they appear, even if not listed in this table.
+bQuality of evidence and strength of recommendation ratings apply to all drugs and recommendations within each criterion unless stated otherwise.
+cMay be required to treat concurrent schizophrenia, bipolar disorder, and other selected mental health and neuropsychiatric conditions but should be prescribed in the lowest effective dose and for the shortest
+possible duration.
+dExcludes inhaled and topical forms. Oral and parenteral corticosteroids may be required for conditions such as exacerbation of COPD but should be prescribed in the lowest effective dose and for the shortest possible
+duration.
+eData are limited for selective peripheral alpha-1 blockers (e.g., tamsulosin, silodosin, and others) but may apply as well.
+
+A
+G
+S
+
+2
+0
+2
+3
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+
+2
+0
+6
+7
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2068
+
+T A B L E 4
+older adultsa.
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+2023 American Geriatrics Society Beers Criteria
+
+®
+
+for potentially inappropriate medications: drugs to be used with caution in
+
+Drug(s)b
+
+Rationale
+
+Recommendation
+
+Quality of
+evidencec
+
+Strength of
+recommendationc
+
+Dabigatran for long-term
+
+treatment of nonvalvular
+atrial fibrillation or venous
+thromboembolism (VTE)
+
+Prasugrel
+Ticagrelor
+
+Increased risk of GI bleeding compared
+with warfarin (based on head-to-head
+clinical trials) and of GI bleeding and
+major bleeding compared with apixaban
+(based on observational studies and
+meta-analyses) in older adults when
+used for long-term treatment of
+nonvalvular atrial fibrillation or VTE.
+
+Both increase the risk of major bleeding in
+older adults compared with clopidogrel,
+especially among those 75 years old and
+older. However, this risk may be offset
+by cardiovascular benefits in select
+patients.
+
+Use caution in selecting
+
+Moderate
+
+Strong
+
+dabigatran over other DOACs
+(e.g., apixaban) for long-term
+treatment of nonvalvular
+atrial fibrillation or VTE.
+
+See also criteria on warfarin
+and rivaroxaban (Table 2)
+and footnoted regarding
+choice among DOACs.
+
+Use with caution, particularly
+in adults 75 years old and
+older.
+
+If prasugrel is used, consider a
+lower dose (5 mg) for those
+75 years old and older.
+
+Moderate
+
+Strong
+
+Antidepressants (selected)
+
+May exacerbate or cause SIADH or
+
+Use with caution
+
+Moderate
+
+Strong
+
+hyponatremia; monitor sodium levels
+closely when starting or changing
+dosages in older adults.
+
+Mirtazipine
+SNRIs
+SSRIs
+TCAs
+
+Antiepileptics (selected)
+
+Carbamazepine
+Oxcarbazepine
+
+Antipsychotics
+Diuretics
+Tramadol
+
+Dextromethorphan-
+
+Limited efficacy in patients with
+
+Use with caution
+
+Moderate
+
+Strong
+
+quinidine
+
+Trimethoprim-
+
+sulfamethoxazole
+
+Sodium-glucose co-
+
+transporter-2 (SGLT2)
+inhibitors
+Canigliflozin
+Dapagliflozin
+Emplaglifozin
+Ertuglifozin
+
+behavioral symptoms of dementia (does
+not apply to the treatment of
+pseudobulbar affect). May increase the
+risk of falls and concerns with clinically
+significant drug interactions and with
+use in those with heart failure (see
+Table 3).
+
+Increased risk of hyperkalemia when used
+concurrently with an ACEI, ARB, or
+ARNI in presence of decreased CrCl.
+
+Use with caution in patients on
+ACEI, ARB, or ARNI and
+decreased CrCl.
+
+Low
+
+Strong
+
+Older adults may be at increased risk of
+urogenital infections, particularly
+women in the first month of treatment.
+An increased risk of euglycemic diabetic
+ketoacidosis has also been seen in older
+adults.
+
+Use with caution.
+Monitor patients for urogenital
+infections and ketoacidosis.
+
+Moderate Weak
+
+Abbreviations: ACEI, angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; ARNI, angiotensin receptor-neprilysin inhibitor;
+CrCl, creatinine clearance; DOAC, direct oral anticoagulant; GI, gastrointestinal; SIADH, syndrome of inappropriate antidiuretic hormone secretion;
+SGLT2, sodium glucose co-transporter-2; SNRIs, serotonin-norepinephrine reuptake inhibitors; SSRIs, selective serotonin reuptake inhibitors; TCAs,
+tricyclic antidepressants; VTE, venous thromboembolism.
+a“Use with caution” recommendations reflect concern about the balance of benefits and harms of medication compared with alternatives in the
+situation when those concerns do not rise to the level of “avoid” recommendations in other Tables because of limited evidence, a lesser degree of
+potential harm compared with alternative therapies, and/or extenuating clinical circumstances.
+bUnder each drug class, drugs commonly used in the United States are listed, except in cases where doing so is infeasible due to space considerations.
+Unless stated otherwise, all drugs within a stated drug class are considered potentially inappropriate in the context of the criterion in which they
+appear, even if not listed in this table.
+cQuality of evidence and strength of recommendation ratings apply to all drugs and recommendations within each criterion unless stated otherwise.
+dWhen selecting among DOACs and choosing a dosage, pay special consideration to kidney function (see Table 6), indication, and body weight.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAGS 2023 BEERS CRITERIA
+
+®
+
+2069
+
+clinical conditions and in special circumstances such as
+when a once-daily DOAC is necessary to facilitate medi-
+cation adherence, and that all DOACs have a lower risk
+of intracranial hemorrhage than warfarin.
+
+with
+
+atrial
+
+those
+
+unless
+
+well-controlled
+
+Warfarin has been added to Table 2 as a medication
+to be avoided when starting initial therapy for VTE or
+nonvalvular
+alternatives
+fibrillation
+(e.g., DOACs) are contraindicated or there are substantial
+barriers to the use of an alternative. The distinction
+between starting warfarin as initial therapy versus main-
+taining warfarin among current long-term users (espe-
+cially
+international
+normalized ratio [INR] levels) reflects different evidence
+for these scenarios as well as considerations of shared
+decision-making. The AGS is concerned that there are
+significant barriers to the use of newer alternatives
+including high out-of-pocket drug costs and formulary
+restrictions. These barriers could lead to inequitable
+access to DOACs that may be safer for older adults. We
+urge policymakers,
+insurers, and organizations in the
+pharmaceutical supply chain to ensure that out-of-pocket
+costs and access restrictions are not a barrier to safe and
+effective anticoagulation for all of us as we age. AGS and
+the expert panel recognize that cost and access will con-
+tinue to be a factor in individualized decision-making
+between warfarin and DOACs and among different
+DOACs until payment policies are enacted that support
+equitable access for all individuals regardless of their eco-
+nomic and insurance status. The recommendation for
+dabigatran remains as “use with caution” for the long-
+term treatment of nonvalvular atrial fibrillation and VTE
+(Table 4) because of evidence suggesting an increased
+risk of gastrointestinal and major bleeding compared
+with alternatives such as apixaban.
+
+Another change from the 2019 criteria pertains to the
+initiation and continuation of estrogen in postmeno-
+pausal women. The initiation of oral and transdermal
+estrogen is to be avoided in older women; topical vaginal
+estrogen remains appropriate for its major indications of
+symptomatic vaginal atrophy or urinary tract infection
+prophylaxis. Deprescribing should be considered for older
+women already using nonvaginal estrogen replacement.
+The recommendation for sulfonylureas has been expanded
+to avoid all sulfonylureas as first- or second-line monother-
+apy or add on-therapy in recognition of their association
+with a higher risk of cardiovascular events, all-cause mor-
+tality, and hypoglycemia than alternative choices. Here the
+panel recognizes there may be substantial barriers to or
+pressures opposing the recommendation, including finan-
+cial ones, with similar considerations as those discussed
+above for anticoagulants. If a sulfonylurea must be used,
+then a short-acting agent is preferred because of the higher
+risk of prolonged hypoglycemia with longer-acting
+
+sulfonylureas (e.g., glimepiride, chlorpropramide, or glybur-
+ide, which is also known as glibenclamide).
+
+Changes to the criteria involving PIMs exacerbating
+specific drug diseases and drug syndromes (Table 3) are
+relatively minimal. The combination of dextromethor-
+phan/quinidine was added to the list of drugs to avoid
+in patients with heart failure. In the criterion of PIMs
+to avoid in older adults with a history of falls or frac-
+tures, the level of evidence for antidepressants has been
+lowered to “moderate.” Modifications and clarifications
+were made to the criteria for delirium, dementia, and
+Parkinson disease, including adding opioids to the list
+of drugs that can exacerbate delirium. The update con-
+tinues to stress the need to avoid antipsychotics and
+other medications for behavioral problems of dementia
+and delirium as their use is frequently associated with
+harm and increased during and after pandemic
+lockdowns.14–16 The use of behavioral
+interventions
+and search for modifiable triggers for behavior14,17
+remains the preferred management strategy and should
+be clearly documented in the health record. The use of
+antipsychotics and other medications listed in these cri-
+teria should be a last resort in collaboration and with
+the use of shared decision-making with older adults
+evidence-based
+and
+approaches for behavior in persons with dementia are
+now available including the Describe, Investigate, Cre-
+ate, Evaluate (DICE) approach and others.18,19 We
+do not
+remind readers that the AGS Beers Criteria
+apply to care in hospice and at the end of life, in which
+setting decision-making about these and other drugs
+may require other considerations.
+
+partners. Many
+
+their
+
+care
+
+®
+
+As mentioned above, the criteria for aspirin and rivar-
+oxaban have been moved from Table 4 to Table 2. Tica-
+grelor has been added to the criterion about prasugrel,
+advising that it be used with caution, particularly among
+adults 75 years old and older because of concerns of
+major bleeding. A new criterion was added advising that
+sodium-glucose co-transporter-2 (SGLT2) inhibitors be
+used with caution because of the increased risk of uro-
+genital infection and euglycemic diabetic ketoacidosis,
+and recommends monitoring early during treatment. Of
+note, the panel recognizes the value of SGLT2-inhibitors
+but also wishes to emphasize that patients taking these
+drugs should be monitored actively for possible adverse
+effects.
+
+The panel worked to clarify and consolidate the clini-
+cally important drug–drug interactions (Table 5), most
+notably the use of multiple agents with anticholinergic
+activity, the concurrent use of ≥3 CNS-active drugs from
+specific therapeutic categories (which now include skele-
+tal muscle relaxants), and the addition of SSRIs to the list
+of warfarin drug–drug interactions.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 5
+
+2023 American Geriatrics Society Beers Criteria
+
+®
+
+for potentially clinically important drug–drug interactions that should be avoided in older adults.
+
+Object drug or class
+
+Interacting drug or
+class
+
+Risk rationale
+
+Recommendation
+
+RAS inhibitors (ACEIs,
+
+Another RAS inhibitor
+
+Increased risk of hyperkalemia.
+
+ARBs, ARNIs, aliskiren)
+or potassium-sparing
+diuretics (amiloride,
+triamterene)
+
+or a potassium-
+sparing diuretic
+
+Avoid routinely using 2 or more RAS
+inhibitors, or a RAS inhibitor and
+potassium-sparing diuretic,
+concurrently in those with chronic
+kidney disease Stage 3a or higher.
+
+Quality of
+evidencea
+
+Strength of
+recommendationa
+
+Moderate
+
+Strong
+
+Opioids
+
+Opioids
+
+Benzodiazepines
+
+Increased risk of overdose and adverse
+
+Avoid
+
+Moderate
+
+Strong
+
+Gabapentin
+Pregabalin
+
+events.
+
+Increased risk of severe sedation-related
+adverse events, including respiratory
+depression and death.
+
+Avoid; exceptions are when
+
+Moderate
+
+Strong
+
+transitioning from opioid therapy to
+gabapentin or pregabalin, or when
+using gabapentinoids to reduce opioid
+dose, although caution should be
+used in all circumstances.
+
+Anticholinergic
+
+Anticholinergic
+
+Use of more than one medication with
+
+Avoid; minimize the number of
+
+Moderate
+
+Strong
+
+Antiepileptics (including
+
+gabapentinoids)
+
+Antidepressants (TCAs,
+SSRIs, and SNRIs)
+
+Antipsychotics
+
+Benzodiazepines
+
+Nonbenzodiazepine
+
+benzodiazepine receptor
+agonist hypnotics (i.e.,
+“Z-drugs”)
+
+Opioids
+
+Skeletal muscle relaxants
+
+Lithium
+
+Any combination of ≥3
+of these CNS-active
+drugs
+
+anticholinergic properties increases the
+risk of cognitive decline, delirium, and
+falls or fractures.
+
+Increased risk of falls and of fracture with
+the concurrent use of ≥3 CNS-active
+agents (antiepileptics including
+gabapentinoids, antidepressants,
+antipsychotics, benzodiazepines,
+nonbenzodiazepine benzodiazepine
+receptor agonist hypnotics, opioids, and
+skeletal muscle relaxants).
+
+anticholinergic drugs (Table 7).
+
+Avoid concurrent use of ≥3 CNS-active
+drugs (among types as listed at left);
+minimize the number of CNS-active
+drugs.
+
+High
+
+Strong
+
+ACEIs
+
+ARBs
+
+ARNIs
+
+Increased risk of lithium toxicity.
+
+Avoid; monitor lithium concentrations.
+
+Moderate
+
+Strong
+
+Lithium
+
+Loop diuretics
+
+Increased risk of lithium toxicity.
+
+Avoid; monitor lithium concentrations.
+
+Moderate
+
+Non-selective peripheral
+
+Loop diuretics
+
+Increased risk of urinary incontinence in
+
+Avoid in older women, unless
+
+Moderate
+
+Strong
+
+Strong
+
+alpha-1 blockersb
+
+Phenytoin
+
+Trimethoprim-
+
+sulfamethoxazole
+
+older women.
+
+conditions warrant both drugs.
+
+Increased risk of phenytoin toxicity
+
+Avoid
+
+Moderate
+
+Strong
+
+2
+0
+7
+0
+
+B
+Y
+T
+H
+E
+2
+0
+2
+3
+A
+M
+E
+R
+I
+C
+A
+N
+G
+E
+R
+I
+A
+T
+R
+I
+C
+S
+
+S
+O
+C
+I
+E
+T
+Y
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+U
+P
+D
+A
+T
+E
+E
+X
+P
+E
+R
+T
+P
+A
+N
+E
+L
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseT A B L E 5
+
+(Continued)
+
+Object drug or class
+
+Interacting drug or
+class
+
+Theophylline
+
+Theophylline
+
+Warfarin
+
+Cimetidine
+
+Ciprofloxacin
+
+Amiodarone
+
+Ciprofloxacin
+
+Macrolides (excluding
+
+azithromycin)
+
+Trimethoprim-
+
+sulfamethoxazole
+
+SSRIs
+
+Risk rationale
+
+Recommendation
+
+Increased risk of theophylline toxicity
+
+Increased risk of theophylline toxicity
+
+Avoid
+
+Avoid
+
+Increased risk of bleeding.
+
+Avoid when possible; if used together,
+
+Moderate
+
+monitor INR closely.
+
+Quality of
+evidencea
+
+Strength of
+recommendationa
+
+Moderate
+
+Moderate
+
+Strong
+
+Strong
+
+Strong
+
+Note: This table is not a comprehensive list of all drug–drug interactions relevant for older adults.
+Abbreviations: ACEIs, angiotensin-converting enzyme inhibitors; ARBs, angiotensin receptor blockers; ARNIs, angiotensin receptor-neprilysin inhibitors; CNS, central nervous system; INR, international normalized
+ratio; NSAIDs, nonsteroidal anti-inflammatory drugs; RAS, renin-angiotensin system; SNRIs = serotonin-norepinephrine reuptake inhibitors; SSRIs, selective serotonin reuptake inhibitors; TCAs, tricyclic
+antidepressants.
+aQuality of evidence and strength of recommendation ratings apply to all drugs and recommendations within each criterion unless stated otherwise.
+bData are limited for selective peripheral alpha-1 blockers (e.g., tamsulosin, silodosin, and others) but may apply as well.
+
+“
+A
+v
+o
+i
+d
+”
+
+t
+h
+r
+o
+u
+g
+h
+
+r
+e
+c
+o
+g
+n
+i
+t
+i
+o
+n
+
+o
+f
+
+i
+t
+s
+
+p
+o
+t
+e
+n
+t
+i
+a
+l
+
+h
+a
+r
+m
+
+s
+
+a
+n
+d
+
+c
+o
+n
+s
+i
+d
+e
+r
+a
+t
+i
+o
+n
+
+o
+f
+
+d
+o
+n
+e
+
+s
+o
+
+t
+h
+r
+o
+u
+g
+h
+
+s
+h
+a
+r
+e
+d
+
+d
+e
+c
+i
+s
+i
+o
+n
+-
+m
+a
+k
+i
+n
+g
+
+t
+h
+a
+t
+
+i
+
+n
+c
+l
+
+u
+d
+e
+s
+
+t
+h
+e
+
+e
+x
+p
+e
+r
+t
+
+p
+a
+n
+e
+l
+'
+s
+
+i
+
+n
+t
+e
+n
+t
+
+t
+h
+a
+t
+
+w
+h
+e
+n
+
+a
+
+P
+I
+M
+
+i
+s
+
+c
+h
+o
+s
+e
+n
+
+,
+
+i
+t
+
+d
+i
+c
+a
+t
+i
+o
+n
+
+u
+n
+l
+e
+s
+s
+
+s
+p
+e
+c
+i
+f
+i
+e
+d
+
+i
+
+n
+
+t
+h
+e
+
+m
+e
+d
+i
+c
+a
+t
+i
+o
+n
+s
+
+'
+
+l
+a
+b
+e
+l
+.
+
+I
+t
+
+i
+s
+
+i
+s
+
+m
+e
+a
+n
+n
+g
+
+i
+
+.
+
+“
+A
+v
+o
+i
+d
+”
+
+i
+s
+
+n
+o
+t
+
+d
+e
+f
+i
+n
+e
+d
+
+a
+s
+
+a
+n
+
+a
+b
+s
+o
+l
+
+u
+t
+e
+
+c
+o
+n
+t
+r
+a
+i
+n
+-
+
+i
+
+n
+
+t
+h
+e
+
+2
+0
+2
+3
+
+A
+G
+S
+
+B
+e
+e
+r
+s
+
+C
+r
+i
+t
+e
+r
+i
+a
+
+h
+a
+s
+
+t
+h
+e
+
+s
+a
+m
+e
+
+I
+n
+t
+e
+r
+p
+r
+e
+t
+i
+n
+g
+r
+e
+c
+o
+m
+m
+e
+n
+d
+a
+t
+i
+o
+n
+s
+
+c
+o
+m
+e
+.
+
+T
+h
+u
+s
+,
+
+P
+I
+M
+
+s
+
+“
+w
+o
+u
+l
+d
+
+b
+e
+
+c
+h
+o
+s
+e
+n
+
+i
+
+n
+f
+r
+e
+q
+u
+e
+n
+t
+l
+y
+
+a
+l
+t
+e
+r
+n
+a
+t
+i
+v
+e
+
+d
+i
+d
+
+n
+o
+t
+
+a
+c
+h
+i
+e
+v
+e
+
+t
+h
+e
+
+d
+e
+s
+i
+r
+e
+d
+
+t
+h
+e
+r
+a
+p
+e
+u
+t
+i
+c
+
+o
+u
+t
+-
+
+s
+t
+a
+n
+c
+e
+s
+
+i
+
+n
+c
+l
+u
+d
+e
+
+(
+b
+u
+t
+
+a
+r
+e
+
+n
+o
+t
+
+l
+i
+
+m
+
+i
+t
+e
+d
+
+t
+o
+)
+
+w
+h
+e
+n
+
+a
+
+s
+a
+f
+e
+r
+
+e
+x
+c
+e
+p
+t
+
+u
+n
+d
+e
+r
+
+u
+n
+u
+s
+u
+a
+l
+
+c
+i
+r
+c
+u
+m
+
+s
+t
+a
+n
+c
+e
+s
+.
+
+”
+1
+
+S
+u
+c
+h
+
+c
+i
+r
+c
+u
+m
+
+-
+
+d
+a
+t
+i
+o
+n
+
+,
+
+m
+e
+a
+n
+
+i
+
+n
+g
+
+“
+
+t
+h
+e
+
+m
+e
+d
+i
+c
+a
+t
+i
+o
+n
+
+s
+h
+o
+u
+
+l
+d
+
+b
+e
+
+a
+v
+o
+i
+d
+e
+d
+
+T
+h
+e
+
+o
+r
+i
+g
+i
+n
+a
+l
+
+B
+e
+e
+r
+s
+C
+r
+i
+t
+e
+r
+i
+a
+
+u
+s
+e
+d
+
+“
+a
+v
+o
+i
+d
+”
+
+a
+s
+
+a
+
+r
+e
+c
+o
+m
+m
+e
+n
+-
+
+e
+x
+p
+l
+a
+i
+n
+e
+d
+
+b
+e
+l
+o
+w
+
+.
+
+s
+t
+a
+n
+d
+
+t
+h
+e
+
+c
+r
+i
+t
+e
+r
+i
+a
+s
+
+'
+
+s
+t
+r
+e
+n
+g
+t
+h
+s
+
+a
+n
+d
+
+l
+i
+
+m
+
+i
+t
+a
+t
+i
+o
+n
+s
+.
+
+T
+h
+e
+s
+e
+
+a
+r
+e
+
+p
+r
+a
+c
+t
+i
+c
+e
+,
+
+u
+s
+e
+
+b
+e
+s
+t
+
+p
+r
+a
+c
+t
+i
+c
+e
+s
+
+f
+o
+r
+
+d
+e
+p
+r
+e
+s
+c
+r
+i
+b
+i
+n
+g
+,
+
+a
+n
+d
+
+u
+n
+d
+e
+r
+-
+
+i
+
+n
+t
+e
+r
+p
+r
+e
+t
+
+t
+h
+e
+
+r
+e
+c
+o
+m
+m
+e
+n
+d
+a
+t
+i
+o
+n
+s
+,
+
+a
+p
+p
+l
+y
+
+t
+h
+e
+m
+
+t
+o
+
+p
+o
+l
+i
+c
+y
+
+a
+n
+d
+
+r
+e
+a
+d
+e
+r
+s
+
+t
+o
+
+u
+n
+d
+e
+r
+s
+t
+a
+n
+d
+
+a
+n
+d
+
+a
+p
+p
+l
+y
+
+t
+h
+e
+
+g
+u
+i
+d
+a
+n
+c
+e
+
+o
+n
+
+h
+o
+w
+
+t
+o
+
+i
+
+n
+t
+e
+n
+t
+
+o
+f
+
+t
+h
+e
+
+c
+r
+i
+t
+e
+r
+i
+a
+
+.
+
+I
+n
+
+a
+d
+d
+i
+t
+i
+o
+n
+
+,
+
+w
+e
+
+s
+t
+r
+o
+n
+g
+l
+y
+
+e
+n
+c
+o
+u
+r
+a
+g
+e
+
+T
+h
+e
+
+i
+
+n
+t
+r
+o
+d
+u
+c
+t
+o
+r
+y
+
+s
+e
+c
+t
+i
+o
+n
+
+o
+f
+
+t
+h
+i
+s
+
+a
+r
+t
+i
+c
+l
+e
+
+d
+e
+s
+c
+r
+i
+b
+e
+s
+
+t
+h
+e
+
+l
+o
+n
+g
+e
+r
+-
+a
+c
+t
+i
+n
+g
+
+o
+n
+e
+s
+)
+.
+
+s
+h
+o
+r
+t
+e
+r
+-
+a
+c
+t
+i
+n
+g
+
+o
+n
+e
+s
+
+p
+o
+s
+e
+
+l
+e
+s
+s
+
+r
+i
+s
+k
+
+o
+f
+
+h
+y
+p
+o
+g
+l
+y
+c
+e
+m
+i
+a
+
+t
+h
+a
+n
+
+t
+h
+e
+r
+a
+p
+y
+,
+
+w
+h
+
+i
+l
+e
+
+s
+t
+i
+l
+l
+
+a
+d
+v
+i
+s
+i
+n
+g
+
+t
+h
+a
+t
+
+i
+f
+
+a
+
+s
+u
+l
+f
+o
+n
+y
+l
+u
+r
+e
+a
+
+i
+s
+
+u
+s
+e
+d
+
+,
+
+c
+l
+a
+s
+s
+
+(
+i
+n
+
+p
+a
+r
+t
+i
+c
+u
+l
+a
+r
+,
+
+a
+v
+o
+i
+d
+i
+n
+g
+
+t
+h
+e
+m
+a
+s
+
+f
+i
+r
+s
+t
+-
+
+o
+r
+
+s
+e
+c
+o
+n
+d
+-
+l
+i
+
+n
+e
+
+s
+u
+l
+f
+o
+n
+y
+l
+u
+r
+e
+a
+s
+
+b
+u
+t
+
+n
+o
+w
+
+i
+
+n
+c
+l
+u
+d
+e
+s
+
+a
+l
+l
+
+m
+e
+d
+i
+c
+a
+t
+i
+o
+n
+s
+
+i
+
+n
+
+t
+h
+i
+s
+
+f
+o
+n
+y
+l
+u
+r
+e
+a
+s
+,
+
+w
+h
+i
+c
+h
+
+p
+r
+e
+v
+i
+o
+u
+s
+l
+y
+
+f
+o
+c
+u
+s
+e
+d
+
+o
+n
+
+l
+o
+n
+g
+-
+a
+c
+t
+i
+n
+g
+
+l
+a
+n
+t
+s
+
+a
+n
+d
+
+e
+x
+p
+a
+n
+d
+i
+n
+g
+
+t
+h
+e
+
+“
+a
+v
+o
+i
+d
+”
+
+r
+e
+c
+o
+m
+m
+e
+n
+d
+a
+t
+i
+o
+n
+f
+o
+r
+
+s
+u
+l
+-
+
+s
+e
+r
+i
+e
+s
+
+o
+f
+
+n
+e
+w
+
+a
+n
+d
+
+r
+e
+v
+i
+s
+e
+d
+
+c
+r
+i
+t
+e
+r
+i
+a
+
+r
+e
+g
+a
+r
+d
+i
+n
+g
+
+a
+n
+t
+i
+c
+o
+a
+g
+u
+-
+
+t
+h
+e
+m
+o
+s
+t
+n
+o
+t
+a
+b
+l
+e
+
+u
+p
+d
+a
+t
+e
+s
+
+f
+r
+o
+m
+
+t
+h
+e
+
+2
+0
+1
+9
+
+c
+r
+i
+t
+e
+r
+i
+a
+
+i
+
+n
+c
+l
+
+u
+d
+e
+
+a
+
+D
+I
+S
+C
+U
+S
+S
+I
+O
+N
+
+e
+m
+e
+r
+g
+i
+n
+g
+
+d
+a
+t
+a
+
+a
+b
+o
+u
+t
+
+t
+h
+e
+i
+r
+
+h
+a
+r
+m
+
+s
+
+a
+n
+d
+
+b
+e
+n
+e
+f
+i
+t
+s
+.
+
+S
+o
+m
+e
+
+o
+f
+
+t
+h
+e
+
+c
+h
+a
+n
+g
+i
+n
+g
+
+l
+a
+n
+d
+s
+c
+a
+p
+e
+
+o
+f
+
+a
+v
+a
+i
+l
+a
+b
+l
+e
+
+m
+e
+d
+i
+c
+a
+t
+i
+o
+n
+s
+
+a
+n
+d
+
+T
+h
+e
+
+A
+G
+S
+
+B
+e
+e
+r
+s
+
+C
+r
+i
+t
+e
+r
+i
+a
+
+®
+
+c
+o
+n
+t
+i
+n
+u
+e
+s
+
+t
+o
+
+e
+v
+o
+l
+v
+e
+
+t
+o
+
+a
+d
+d
+r
+e
+s
+s
+
+s
+i
+s
+t
+e
+n
+c
+y
+
+o
+f
+p
+r
+e
+s
+e
+n
+t
+a
+t
+i
+o
+n
+
+.
+
+<
+3
+0
+m
+L
+/
+m
+n
+w
+a
+s
+
+i
+
+m
+o
+v
+e
+d
+
+f
+r
+o
+m
+T
+a
+b
+l
+e
+
+3
+
+t
+o
+T
+a
+b
+l
+e
+
+6
+
+f
+o
+r
+
+c
+o
+n
+-
+
+i
+
+F
+n
+a
+l
+l
+y
+,
+
+t
+h
+e
+
+u
+s
+e
+
+o
+f
+
+N
+S
+A
+I
+D
+s
+
+b
+y
+
+p
+a
+t
+i
+e
+n
+t
+s
+
+w
+
+i
+t
+h
+
+a
+
+C
+r
+C
+
+l
+
+o
+f
+
+t
+h
+e
+
+i
+
+n
+c
+r
+e
+a
+s
+e
+d
+
+r
+i
+s
+k
+
+f
+o
+r
+
+e
+n
+c
+e
+p
+h
+a
+l
+o
+p
+a
+t
+h
+y
+
+i
+
+n
+
+o
+l
+d
+e
+r
+
+a
+d
+u
+
+l
+t
+s
+.
+
+t
+i
+o
+n
+
+t
+o
+
+a
+v
+o
+i
+d
+
+i
+t
+s
+
+u
+s
+e
+w
+h
+e
+n
+
+e
+G
+F
+R
+
+i
+s
+<
+6
+0
+m
+L
+/
+m
+n
+
+i
+
+b
+e
+c
+a
+u
+s
+e
+
+u
+c
+t
+
+l
+a
+b
+e
+l
+.
+
+B
+a
+c
+l
+o
+f
+e
+n
+
+h
+a
+s
+
+b
+e
+e
+n
+
+a
+d
+d
+e
+d
+w
+
+i
+t
+h
+
+a
+
+r
+e
+c
+o
+m
+m
+e
+n
+d
+a
+-
+
+i
+s
+
+b
+a
+s
+e
+d
+
+o
+n
+
+i
+
+n
+d
+i
+c
+a
+t
+i
+o
+n
+
+;
+
+t
+h
+u
+s
+,
+
+t
+h
+e
+
+c
+r
+i
+t
+e
+r
+i
+a
+
+r
+e
+f
+e
+r
+
+t
+o
+
+t
+h
+e
+
+p
+r
+o
+d
+-
+
+a
+b
+a
+n
+s
+
+'
+
+d
+o
+s
+i
+n
+g
+
+i
+
+n
+
+r
+e
+d
+u
+c
+e
+d
+
+k
+i
+d
+n
+e
+y
+
+f
+u
+n
+c
+t
+i
+o
+n
+
+i
+s
+
+v
+a
+r
+i
+a
+b
+l
+e
+
+a
+n
+d
+
+s
+a
+f
+e
+u
+s
+e
+
+i
+
+n
+p
+a
+t
+i
+e
+n
+t
+s
+w
+
+i
+t
+h
+e
+n
+d
+-
+s
+t
+a
+g
+e
+
+r
+e
+n
+a
+l
+
+d
+i
+s
+e
+a
+s
+e
+.
+
+R
+i
+v
+a
+r
+o
+x
+-
+
+f
+o
+r
+
+a
+p
+i
+x
+a
+b
+a
+n
+
+h
+a
+s
+
+b
+e
+e
+n
+
+r
+e
+m
+o
+v
+e
+d
+
+g
+i
+v
+e
+n
+
+t
+h
+e
+
+e
+v
+i
+d
+e
+n
+c
+e
+
+f
+o
+r
+
+i
+t
+s
+
+v
+a
+r
+y
+i
+n
+g
+
+l
+e
+v
+e
+l
+s
+
+o
+f
+
+k
+i
+d
+n
+e
+y
+
+f
+u
+n
+c
+t
+i
+o
+n
+
+(
+T
+a
+b
+l
+e
+
+6
+)
+.
+
+T
+h
+e
+
+c
+r
+i
+t
+e
+r
+i
+o
+n
+
+t
+i
+o
+n
+w
+h
+e
+n
+
+u
+p
+d
+a
+t
+i
+n
+g
+
+d
+r
+u
+g
+s
+
+t
+o
+
+a
+v
+o
+i
+d
+
+o
+r
+
+r
+e
+d
+u
+c
+e
+
+d
+o
+s
+e
+s
+w
+
+i
+t
+h
+
+T
+h
+e
+
+a
+n
+t
+i
+c
+o
+a
+g
+u
+l
+a
+n
+t
+s
+
+a
+l
+s
+o
+
+i
+
+d
+o
+m
+n
+a
+t
+e
+d
+
+t
+h
+e
+
+p
+a
+n
+e
+l
+'
+s
+
+a
+t
+t
+e
+n
+-
+
+s
+u
+c
+h
+c
+a
+r
+e
+f
+u
+l
+
+c
+o
+n
+s
+i
+d
+e
+r
+a
+t
+i
+o
+n
+s
+
+o
+f
+
+b
+e
+n
+e
+f
+i
+t
+
+a
+n
+d
+
+r
+i
+s
+k
+”
+1
+
+.
+
+®
+
+A
+G
+S
+
+2
+0
+2
+3
+B
+E
+E
+R
+S
+C
+R
+I
+T
+E
+R
+I
+A
+®
+
+2
+0
+7
+1
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2072
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+T A B L E 6
+varying levels of kidney function in older adults.
+
+2023 American Geriatrics Society Beers Criteria
+
+®
+
+for medications that should be avoided or have their dosage reduced with
+
+CrCl (mL/min)
+at which action
+is required
+
+Rationale
+
+Recommendation
+
+Quality of
+evidence
+
+Strength of
+recommendation
+
+Drug
+
+Anti-infective
+
+Ciprofloxacin
+
+<30
+
+Increased risk of CNS
+
+Nitrofurantoin
+
+<30
+
+effects (e.g., seizures,
+confusion) and tendon
+rupture.
+
+Potential for pulmonary
+toxicity, hepatoxicity,
+and peripheral
+neuropathy, especially
+with long-term use. (See
+also Table 2).
+
+Moderate
+
+Strong
+
+Dosages used to treat
+common infections
+typically require
+reduction when CrCl
+<30 mL/min.
+
+Avoid if CrCl <30 mL/
+
+Low
+
+Strong
+
+min
+
+Trimethoprim-
+
+<30
+
+Increased risk of
+
+Reduce dosage if CrCl is
+
+Moderate
+
+Strong
+
+sulfamethoxazole
+
+15–29 mL/min.
+
+Avoid if CrCl <15 mL/
+
+min.
+
+worsening of kidney
+function and
+hyperkalemia; risk of
+hyperkalemia especially
+prominent with
+concurrent use of an
+ACE, ARB, or ARNI.
+
+Cardiovascular and antithrombotics
+
+Amiloride
+
+Dabigatran
+
+<30
+
+<30
+
+Hyperkalemia and
+hyponatremia
+
+Avoid
+
+Moderate
+
+Strong
+
+Lack of evidence for
+
+Avoid when CrCl
+
+Moderate
+
+Strong
+
+Dofetilide
+
+<60
+
+Edoxaban
+
+15–50
+<15 or > 95
+
+Enoxaparin
+
+Fondaparinux
+
+Rivaroxaban
+
+<30
+
+<30
+
+<50
+
+efficacy and safety in
+individuals with a CrCl
+<30 mL/min. Label
+dose for patients with
+CrCl 15–30 mL/min
+based on
+pharmacokinetic data.
+
+QTc prolongation and
+torsades de pointes.
+
+<30 mL/min; dose
+adjustment is advised
+when CrCl >30 mL/min
+in the presence of drug–
+drug interactions.
+
+Reduce dose if CrCl is 20–
+
+Moderate
+
+Strong
+
+59 mL/min.
+
+Avoid if CrCl <20 mL/
+
+min.
+
+Lack of evidence of
+
+Reduce dose if CrCl is 15–
+
+Moderate
+
+Strong
+
+efficacy or safety in
+patients with CrCl
+<30 mL/min.
+
+50 mL/min.
+Avoid if CrCl <15
+or > 95 mL/min.
+
+Increased risk of bleeding
+
+Reduce dose
+
+Increased risk of bleeding
+
+Avoid
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+Lack of efficacy or safety
+evidence in people with
+CrCl <15 mL/min;
+limited evidence for
+CrCl 15–30 mL/min.
+
+Avoid if CrCl <15 mL/
+
+Moderate
+
+Strong
+
+min.
+
+Reduce the dose if CrCl is
+
+15–50 mL/min
+following manufacturer
+dosing
+recommendations based
+on indication-specific
+dosing.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAGS 2023 BEERS CRITERIA
+
+®
+
+T A B L E 6
+
+(Continued)
+
+Drug
+
+CrCl (mL/min)
+at which action
+is required
+
+Spironolactone
+
+Triamterene
+
+<30
+
+<30
+
+Rationale
+
+Hyperkalemia
+
+Hyperkalemia and
+hyponatremia
+
+Central nervous system and analgesics
+
+Baclofen
+
+eGFR <60
+
+Increased risk of
+
+2073
+
+Recommendation
+
+Quality of
+evidence
+
+Strength of
+recommendation
+
+Avoid
+
+Avoid
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+Avoid baclofen in older
+adults with impaired
+kidney function (eGFR
+<60 mL/min). When
+baclofen cannot be
+avoided, use the lowest
+effective dose and
+monitor for signs of
+CNS toxicity, including
+altered mental status.
+
+Avoid
+
+Moderate Weak
+
+Reduce dose
+
+Reduce dose
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+encephalopathy
+requiring hospitalization
+in older adults with
+eGFR <60 mL/min or
+who require chronic
+dialysis.
+
+Increased GI adverse
+effects (nausea,
+diarrhea)
+
+CNS adverse effects
+
+CNS adverse effects
+
+May increase the risk of
+
+Avoid
+
+acute kidney injury and
+a further decline in
+kidney function
+
+CNS adverse effects
+
+Reduce dose
+
+Moderate
+
+Strong
+
+CNS adverse effects
+
+Immediate release: reduce
+
+Low
+
+Weak
+
+dose
+
+Extended-release: avoid
+
+Mental status changes
+
+Reduce dose
+
+Mental status changes
+
+Reduce dose
+
+Mental status changes
+
+Reduce dose
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+Moderate
+
+Strong
+
+GI, neuromuscular, and
+bone marrow toxicity
+
+Reduce dose; monitor for
+
+Moderate
+
+Strong
+
+adverse effects.
+
+Loss of effectiveness
+
+Avoid
+
+Moderate
+
+Strong
+
+Duloxetine
+
+<30
+
+Gabapentin
+
+Levetiracetam
+
+NSAIDs (non-
+
+selective, COX-2
+selective, and
+nonacetylated
+salicylates, oral and
+parenteral)a
+
+Pregabalin
+
+Tramadol
+
+Gastrointestinal
+
+Cimetidine
+
+Famotidine
+
+Nizatidine
+
+Hyperuricemia
+
+Colchicine
+
+Probenecid
+
+<60
+≤80
+
+< 30
+
+<60
+
+<30
+
+<50
+
+<50
+
+<50
+
+<30
+
+<30
+
+Note: This table is not a comprehensive list of all drugs that should be avoided or dose-adjusted in older adults with renal impairment.
+Abbreviations: ACEI, angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; ARNI, angiotensin receptor-neprilysin inhibitor; CNS,
+central nervous system; CrCl, creatinine clearance; eGFR, estimated glomerular filtration rate; GI, gastrointestinal.
+aNSAIDs include: Non-selective: diclofenac, diflunisal, etodolac, flurbiprofen, ibuprofen, indomethacin, ketorolac, meloxicam, nabumetone, naproxen,
+oxaprozin, piroxicam, sulindac; COX-2 selective: celecoxib; Nonacetylated salicylates: diflunisal, magnesium salicylate. This list does not include NSAIDs rarely
+or never used in the U.S. among older adults.
+
+the older person's preferences and goals of care. As in
+previous updates to the AGS Beers Criteria
+, the panel
+has included caveats about when choosing a PIM may be
+reasonable, for example, a benzodiazepine for alcohol
+withdrawal.
+
+®
+
+The panel also deliberated about and recognizes that
+clinicians and older adults may face substantial financial
+pressures to use PIMs—such as when a safer treatment
+option incurs substantially higher out-of-pocket costs—
+and that drug affordability is an important consideration
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2074
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+T A B L E 7 Drugs with strong anticholinergic properties.
+
+Antidepressants
+Amitriptyline
+Amoxapine
+Clomipramine
+Desipramine
+Doxepin (>6 mg/day)
+Imipramine
+Nortriptyline
+Paroxetine
+Antiemetics
+
+Prochlorperazine
+Promethazine
+
+Antihistamines (first-generation)
+
+Brompheniramine
+Chlorpheniramine
+Cyproheptadine
+Dimenhydrinate
+Diphenhydramine
+Doxylamine
+Hydroxyzine
+Meclizine
+Promethazine
+Triprolidine
+
+Antimuscarinics (urinary incontinence)a
+
+Darifenacin
+Fesoterodine
+Flavoxate
+Oxybutynin
+Solifenacin
+Tolterodine
+Trospium
+
+Antiparkinsonian agents
+
+Benztropine
+Trihexyphenidyl
+
+Antipsychotics
+
+Chlorpromazine
+Clozapine
+Olanzapine
+Perphenazine
+Antispasmodics
+
+Atropine
+Clidinium-chlordiazepoxide
+Dicyclomine
+Homatropine
+Hyoscyamine
+Scopolamine
+
+Skeletal muscle relaxants
+
+Cyclobenzaprine
+Orphenadrine
+
+Note: This table is not a comprehensive list of all medications with
+anticholinergic properties.
+aData on whether certain bladder antimuscarinics confer greater
+adverse cognitive effects than others lack consistent quality.
+Oxybutynin has the best evidence for adverse cognitive effects.
+However, caution is warranted for all bladder antimuscarinics
+given their potential anticholinergic effects.20
+
+for many older adults and their caregivers. In general,
+the panel did not account for drug costs to different
+stakeholders when making decisions about which PIMs
+to include in the criteria. However, costs of care may play
+an important role in shared decision-making, and the
+panel strongly encourages policymakers and health plans
+to ensure that safer alternatives to PIMs are affordable so
+that access to safe, appropriate treatment is not limited
+and inequities are not exacerbated. In addition to drug
+costs, costs of avoidable drug-related harms should be
+considered as well.
+
+While most of the criteria (i.e., those listed in Tables 2,
+3, 5, and 6) generally use the “avoid” recommendation
+noted above, Table 4 comprises drugs to “use with cau-
+tion.” The intent of this “use with caution” table is to high-
+light drugs that raise some cause for concern but not to the
+level of an “avoid” recommendation. This can occur
+because the evidence for the concern is limited or lacks
+consistency, the degree of harm relative to alternative ther-
+apies is not high enough to warrant an “avoid” recommen-
+dation, or extenuating clinical circumstances are often
+present. The panel encourages clinicians to recognize the
+potential harms of these medications and, as the moniker
+states, to use them with caution. We also remind readers
+due to
+that drugs removed from the AGS Beers Criteria
+low usage or unavailability in the United States (Table 8)
+are still considered potentially inappropriate per recom-
+mendations of the 2019 AGS Beers Criteria
+
+update.
+
+®
+
+®
+
+Unless specified otherwise, the criteria are designed
+to apply to adults 65 years old and older. The panel recog-
+nizes that drug-related harms are typically more pro-
+nounced in the “old-old” than in the “young-old” and in
+persons with complex multimorbidity and frailty. Thus,
+two older adults of the same age can have markedly dif-
+ferent risks of drug-related harm. Certain criteria include
+a specific age cutoff; these are provided when the evi-
+dence is specific to that age group. However, for most cri-
+teria, the evidence base is insufficient to set a specific age
+threshold for applying the criteria or to set a threshold
+for other factors that can increase the risk of medication-
+related harms (e.g., functional and cognitive status, the
+burden of multimorbidity, and polypharmacy). We
+encourage clinicians to use common sense in applying
+the criteria in clinical practice.
+
+For some criteria, the panel distinguished between initi-
+ating a medication versus continuing one already in long-
+standing use. Such distinctions were considered by the
+panel in cases when the evidence suggested differential risk
+of harm in these two scenarios, when the evidence primar-
+ily addressed initiation rather than a continuation, and/or
+when other professional society recommendations made
+this distinction. In a number of these criteria, the criteria
+recommend avoiding initiating the drug in nonusers and
+considering deprescribing among current users.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAGS 2023 BEERS CRITERIA
+
+®
+
+2075
+
+T A B L E 8 Medications/criteria removed since 2019 American Geriatrics Society Beers Criteria
+
+®a.
+
+Medication/Criterion
+
+Reason for removalb
+
+Independent of diagnosis or condition (Table 2)
+
+Carbinoxaminec
+
+Clemastinec
+
+Dextrobromphiniraminec
+
+Dexchlorpheniraminec
+
+Pyrilaminec
+
+Belladonna alkaloidsc
+
+Methscopolaminec
+
+Propanthelinec
+
+Guanabenz
+
+Methyldopa
+
+Low use
+
+Low use
+
+Not on the U.S. market
+
+Low use
+
+Not on the U.S. market
+
+Not on the U.S. market
+
+Low use
+
+Not on the U.S. market
+
+Not on the U.S. market
+
+Not on the U.S. market
+
+Reserpine (>0.1 mg/day)
+
+Not on the U.S. market
+
+Disopyramidec
+
+Protriptylinec
+
+Trimipraminec
+
+Amobarbital
+
+Butobarbital
+
+Mephobarbital
+
+Pentobarbital
+
+Secobarbital
+
+Flurazepam
+
+Quazepam
+
+Isoxsuprine
+
+Chlorpropamide
+
+Fenoprofen
+
+Ketoprofen
+
+Meclofenamate
+
+Mefenamic acid
+
+Tolmetin
+
+Low use
+
+Low use
+
+Low use
+
+Low use, available only as an injection
+
+Low use
+
+Not on the U.S. market
+
+Not on the U.S. market
+
+Not on the U.S. market
+
+Low use
+
+Low use
+
+Not on the U.S. market
+
+Not on the U.S. market
+
+Low use
+
+Low use
+
+Low use
+
+Low use
+
+Not on the U.S. market
+
+Considering disease and syndrome interactions (Table 3)
+
+Heart failure
+
+Rosiglitazone
+
+Syncope
+
+Thioridazinec
+
+Delirium
+
+Meperidine
+
+Not on the U.S. market
+
+Low use
+
+Specific mention of meperidine was removed from this criterion because it is subsumed
+
+under the general category of opioids, which was added to this criterion.
+
+Ranitidine
+
+Removed from the U.S. market
+
+Clinically important drug–drug interactions (Table 5)
+
+Corticosteroids, oral or
+parenteral + NSAIDs
+
+Warfarin + NSAIDs
+
+Incorporated into oral NSAIDs criterion in Table 2
+
+Incorporated into oral NSAID criterion in Table 2 (i.e, recommendation to avoid short-term
+
+regular, scheduled use of NSAIDs in older adults taking an anticoagulant)
+
+(Continues)
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2076
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+T A B L E 8
+
+(Continued)
+
+Medication/Criterion
+
+Reason for removalb
+
+Medications that should be avoided or have their dosage reduced with reduced kidney function (Table 6)
+
+Apixaban in patients with
+
+Emerging evidence and clinical experience supporting safe use at lower
+
+CrCl <25 mL/min
+
+levels of renal function.
+
+Ranitidine
+
+Removed from the U.S. market
+
+Drugs with strong anticholinergic properties (Table 7)
+
+Loxapine
+
+Trifluoperazone
+
+Low use
+
+Low use
+
+Abbreviations: CrCl, creatinine clearance; NSAIDs, nonsteroidal anti-inflammatory drugs.
+aDrugs removed from Tables 2–6 on account of low usage or unavailability in the U.S. are still considered potentially inappropriate per recommendations in the
+2019 AGS Beers Criteria
+bNot on the U.S. market = no product is currently marketed in the U.S. (although a product could be marketed in the future); this is not the same as being
+removed from the U.S. market.
+cRemoved from Table 7 as well.
+
+®4 update. Enhanced attention to these drugs may be necessary for countries outside the U.S., where they may be more widely used.
+
+T A B L E 9 Medications/criteria added since 2019 American Geriatrics Society Beers Criteria
+
+®
+
+.
+
+Medication/Criterion
+
+Reason for addition
+
+Independent of diagnosis or condition (Table 2)
+
+Warfarin
+
+Emerging data and changes in national recommendations/expert guidance
+
+Considering disease and syndrome interactions (Table 3)
+
+Heart failure
+
+Dextromethorphan-quinidine
+
+Supported by package insert
+
+Delirium
+
+Opioids
+
+History of falls or fractures
+
+Anticholinergics
+
+Use with caution (Table 4)
+
+Ticagrelor
+
+Sodium-glucose co-transporter-2 (SGLT2) inhibitors
+Clinically important drug–drug interactions (Table 5)
+
+Emerging data
+
+Emerging data and consistency across recommendations
+
+Emerging data
+
+Emerging data and clinical concern
+
+Skeletal muscle relaxants added to any combination
+
+Concern for adverse effects when used in combination with
+
+of ≥3 of these CNS-active drugs
+
+Lithium + ARBs and ARNIs
+Warfarin + SSRIs
+
+other CNS-active drugs
+
+Supported by data and reference sources
+
+Supported by data
+
+Medications that should be avoided or have their dosage reduced with reduced kidney function (Table 6)
+
+Baclofen
+
+Data supporting concern
+
+Note: The updated version of the criteria includes specific lists of drugs that were not included in prior versions. These lists are meant to enhance clarity and
+searchability, and unless stated otherwise do not change the intent of the prior version of the criteria.
+Abbreviations: ARBs, angiotensin receptor blockers; ARNIs, angiotensin receptor-neprilysin inhibitors; CNS, central nervous system; SSRIs, selective serotonin
+reuptake inhibitors.
+
+Applying the criteria to policy and practice
+
+The panel continues to be aware of and discuss the con-
+troversies and misinformation about the proper interpre-
+. As such, the panel
+tation of the AGS Beers Criteria
+advises users of the criteria to read and use guidance
+from companion articles written to accompany the 2015
+that advise patients,
+and 2019 AGS Beers Criteria
+
+®
+
+®
+
+providers, and health systems on how to use (and not
+®
+use) the AGS Beers Criteria
+, as these recommendations
+are applicable to the 2023 update.21,22 Key recommenda-
+tions from those articles are summarized in Table 11.
+Certain clarifications to items in the table and additional
+considerations that arose during the 2023 update panel
+discussion merit special note. First, as noted above, differ-
+ent older adults may have markedly different risks of
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAGS 2023 BEERS CRITERIA
+
+®
+
+2077
+
+T A B L E 1 0 Medications/criteria modified since 2019 American Geriatrics Society Beers Criteria
+
+®
+.
+
+Medication/Criterion
+
+Modification
+
+Independent of diagnosis or condition (Table 2)
+
+Aspirin
+
+Rivaroxaban
+
+Dronedarone
+
+Digoxin
+
+Antidepressants with strong
+anticholinergic activity
+
+Antipsychotics
+
+Benzodiazepines
+
+Androgens
+
+Estrogens, systemic
+
+Sulfonylureas
+
+Moved from Table 4 to Table 2 on basis of new evidence.
+
+Moved from Table 4 to Table 2 on basis of accumulating evidence
+
+Clarified to reflect data about potential risks in people with non-severe forms of
+
+heart failure
+
+Added statement clarifying that caution should be used discontinuing digoxin among
+
+current users with HFrEF.
+
+Clarified that this criterion refers to antidepressants with strong anticholinergic
+
+activity
+
+Updated language to reflect new evidence and enhance clarity
+
+Clarified language
+
+Clarified that androgens pose potential risks but are not firmly contraindicated in
+
+men with a history of prostate cancer.
+
+Provided additional information, supported by data
+
+Expanded criterion from long-acting sulfonylureas to all sulfonylureas given data
+
+supporting adverse outcomes for all sulfonylureas.
+
+Proton pump inhibitors
+
+NSAIDs, oral
+
+Noted additional adverse outcomes in the rationale statement given supporting data.
+Clarified application in high-risk scenarios for short-term use (i.e., including drug–
+
+drug interactions such as with warfarin)
+
+Skeletal muscle relaxants
+
+Clarified language to differentiate skeletal muscle relaxants typically used for
+
+musculoskeletal complaints from those used to treat spasticity.
+
+Considering disease and syndrome interactions (Table 3)
+Syncope—TCAs
+Amitriptyline
+Clomipramine
+Doxepin
+Imipramine
+
+Clarified that the tertiary TCAs referenced by this criterion include those listed here.
+
+Dementia
+
+Antipsychotics
+
+Delirium
+
+History of falls or fracture Antidepressants
+
+Modified language to reflect data and enhance clarity
+
+Updated rationale to comment on opioids and enhance clarity
+Level of evidence lowered from “high” to “moderate” based on evidence; updated
+
+rationale to reflect new evidence and enhance clarity.
+
+Parkinson disease
+
+Rationale shortened for clarity.
+
+Urinary incontinence in women
+
+Modified language to enhance clarity
+
+Use with caution (Table 4)
+
+Prasugrel
+
+Adding dosing consideration, supported by American College of Cardiology/
+
+American Heart Association guidelines.
+
+Dextromethorphan-quinidine
+
+Added heart failure concerns, supported by package insert.
+
+Trimethoprim-sulfamethoxazole
+
+Added ARNIs for completeness (given that they contain ARBs).
+
+Clinically important drug–drug interactions (Table 5)
+
+Opioid + benzodiazepine
+Anticholinergic + anticholinergic
+Use of ≥3 CNS active agents
+
+Modified to include risk for adverse effects; supported by data.
+
+Modified to recognize specific adverse events.
+Clarified classes of medications of concern; level of evidence raised to “high.”
+
+Warfarin
+
+Consolidated interacting drugs into a list versus reporting as separate lines for each
+
+interaction.
+
+(Continues)
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2078
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+T A B L E 1 0
+
+(Continued)
+
+Medication/Criterion
+
+Modification
+
+Medications that should be avoided or have their dosage reduced with reduced kidney function (Table 6)
+
+Nitrofurantoin
+
+Existing recommendations from Table 2 are duplicated in Table 6 to enhance clarity
+
+and usability.
+
+Trimethoprim-sulfamethoxazole
+
+Added clarifying language to support clinical usability.
+
+Rivaroxaban
+
+NSAIDs
+
+Clarified CrCl cutoffs per available evidence and package insert.
+
+Moved this criterion from Table 3 for greater consistency; clarified language.
+
+Abbreviations: ARB, angiotensin receptor blocker; ARNI, angiotensin receptor-neprilysin inhibitor; CNS, central nervous system; CrCl, creatinine clearance.
+aIn addition to the changes listed above, a number of formatting and other changes were made to enhance clarity and usability without changing the meaning
+of the criteria. This includes specific lists of drugs that were not included in prior versions; these lists are meant to enhance clarity and searchability, and unless
+stated otherwise do not change the intent of the prior version of the criteria.
+
+experiencing severe medication-related harms, with
+advanced age, cognitive and physical impairment, multi-
+morbid burden, frailty, renal impairment, and a high
+degree of polypharmacy each conferring risk. A person's
+underlying risk of experiencing drug-related harms
+should inform decisions about using drugs in the criteria.
+Second, close attention to the recommendations is essen-
+tial to avoid misinterpretation; many criteria note excep-
+tions and other considerations and should not be overly
+simplified as “avoid in everyone over age 65.” Third, the
+risk of harm arises not just from drugs considered in isola-
+tion but from how multiple drugs affect an older adult
+when given together. Thus, evaluations of medication
+appropriateness should be made in the context of the total-
+ity of a person's medication regimen and their goals of care.
+is not simply
+Fourth, the intent of the AGS Beers Criteria
+to swap out a better drug in place of a worse one. In many
+cases, nonpharmacologic treatments (or no treatment at
+all) may be preferable. Finally, the panel affirms the impor-
+tance of shared decision-making in selecting and changing
+treatment regimens. There may be situations in which ini-
+tiating or continuing a drug on the criteria is reasonable
+because it is consistent with an older person's stated prefer-
+ences, values, and treatment goals.
+
+®
+
+T A B L E 1 1
+systems, and payors should use the AGS Beers Criteria
+
+Principles for how patients, clinicians, health
+
+®
+.
+
+Medications in the AGS Beers Criteria
+
+®
+
+are potentially
+
+inappropriate, not definitely inappropriate.
+
+Read the rationale and recommendations statements for each
+
+criterion. The caveats and guidance listed there are
+important.
+
+Understand why medications are included in the AGS Beers
+
+®
+
+Criteria
+accordingly.
+
+and adjust your approach to those medications
+
+Optimal application of the AGS Beers Criteria
+
+involves
+identifying PIMs and, when appropriate, offering safer
+nonpharmacologic and pharmacologic therapies.
+
+®
+
+The AGS Beers Criteria
+
+®
+
+should be a starting point for a
+
+comprehensive process of identifying and improving
+medication appropriateness and safety.
+
+Access to medications included in the AGS Beers Criteria
+
+®
+
+should not be excessively restricted by prior authorization
+and/or health plan coverage policies.
+
+®
+
+The AGS Beers Criteria
+
+are not equally applicable to all
+countries (because of cross-national differences in drug
+availability).
+
+Source: Adapted from Steinman et al.21,22
+
+Deprescribing
+
+®
+
+Successful deprescribing of medications on the AGS
+involves much more than a clinician sim-
+Beers Criteria
+ply telling an older person to stop taking a medication.
+Communication gaps and misunderstandings, patient
+reluctance and fear of stopping, coordination among mul-
+tiple clinicians, dosage tapering, withdrawal symptoms,
+and conveying stop orders to pharmacies are just some of
+the challenges that can arise. The panel encourages clini-
+cians to be aware of and develop skills to address these
+challenges. Useful resources include:
+
+• https://deprescribing.org/resources/—deprescribing
+
+resources, especially evidence-based guidelines and
+easy-to-use algorithms about when and how to stop
+common types of medications
+
+• https://www.deprescribingnetwork.ca/professionals—
+resources
+including
+for healthcare professionals,
+deprescribing-oriented patient handouts about medica-
+tions that are commonly inappropriate for older adults
+
+Systemic solutions are essential as well, for example
+increasing the adoption of the CancelRx Script Standard
+to communicate to pharmacies when a drug is stopped
+and should no longer be refilled.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAGS 2023 BEERS CRITERIA
+
+®
+
+Strengths and limitations
+
+®
+
+As with previous versions of the AGS Beers Criteria
+, this
+update is subject to the same limitations. First, the evi-
+dence available is often plagued by the small number of
+clinical trials in older adults or by the lack of inclusion of
+a sufficient number of older adults to conduct an age-
+specific analysis. The panel often relied on observational
+studies and meta-analyses for evidence of harm and
+whether the harm was more common or resulted in more
+serious outcomes in older adults.
+
+affected,
+
+disproportionately
+
+Second, the lack of diversity in study populations was
+another challenge to the panel. Inadequate enrollment of
+and
+underrepresented,
+understudied populations in clinical trials is a distress-
+ingly well-described phenomenon. In the evidence the
+panel reviewed, a seemingly larger number of studies
+identified were generated within a specific country, pos-
+sibly contributing to greater racial and ethnic homogene-
+ity among study participants. Even when more diverse
+populations were included in a study, there was often
+inadequate power to determine outcomes by specific
+groups. Third,
+the criteria include only medications
+available in the United States. Clinicians outside the
+United States, with access to different medications from
+the same drug class as those the criteria recommends
+avoiding, will need to adapt the criteria to their local con-
+text. Fourth, it is possible that our literature search did
+not identify all published evidence that would have been
+pertinent. Our search strategy did not include unpub-
+lished studies, papers not published in English, white
+papers, abstracts, technical reports, or other evidence
+published in the “gray literature.”
+
+Despite its limitations, the 2023 AGS Beers Criteria
+has its strengths. The panel and staff are highly experi-
+enced; most have participated in updating the criteria
+since 2012, and some since 2003. Their familiarity with
+the process and modified Delphi technique is an advan-
+tage. The panel also included ad hoc members from
+important stakeholders, namely the Centers for Medicare
+and Medicaid, the National Committee for Quality Assur-
+ance, and the Pharmacy Quality Alliance, who provided
+valuable insight and feedback throughout the process.
+Robust internal review and external public comment pro-
+cesses are additional strengths.
+
+®
+
+C O N C L U S IO N
+
+The 2023 update of the AGS Beers Criteria
+includes
+many modifications including a number of new and sig-
+nificantly modified criteria and many minor changes in for-
+matting and wording to enhance clarity and usability. To
+
+®
+
+2079
+
+®
+
+support clinicians in practice, the AGS has released the
+2023 AGS Beers Criteria
+App as well as a pocket card,
+both of which can be accessed via GeriatricsCareOnline.org.
+As with past updates, the AGS has also created a suite of
+public education materials that are available for free at
+HealthinAging.org, a resource created by the AGS Founda-
+tion for Health in Aging to bring the expertise of geriatrics
+to the public. It is the hope of the AGS and the 2023 AGS
+expert panel that the updated criteria will
+Beers Criteria
+be used as intended—to improve drug therapy and out-
+comes for all of us as we age by identifying and reducing
+prescribing of PIMs in older adults through a process of
+shared decision-making that focuses on goals of care.
+
+®
+
+A U T H O R C O N T R I B U T I O N S
+All panel members contributed to the concept and
+design, acquisition of subjects and/or data, analysis, and
+interpretation of data, and preparation of the manuscript.
+
+A C K N OW L E D G M E N T S
+the 2023 AGS Beers
+The decisions and content of
+are those of the AGS and the panel members
+Criteria
+and are not necessarily those of the U.S. government or
+the U.S. Department of Veterans Affairs.
+
+®
+
+Sue Radcliff, Independent Researcher from Denver,
+Colorado, provided research services. Jirong Yue provided
+additional research services. Susan E. Aiello, DVM, ELS,
+provided editorial services. Laura Banks, Aimee Cegelka,
+Elvy Ickowicz, MPH, and Mary Jordan Samuel provided
+additional research, technical, and administrative support.
+Thanks to the AGS Executive Committee and the Chairs/
+Vice Chairs of the AGS CPMC, Ethnogeriatrics, and QPMC
+Committees. The panel must also acknowledge the work of
+the late Mark H. Beers, MD, whose vision for a better qual-
+ity of care for older adults remains active through tools like
+the AGS Beers Criteria
+
+®
+.
+
+The following organizations with special interest and
+expertise in the appropriate use of medications in older
+adults provided peer review of a preliminary draft of this
+guideline: AMDA—The Society for Post-Acute and Long-
+Term Care Medicine, American Academy of Neurology,
+American Academy of Nursing, American Association of
+Clinical Endocrinologists, American College of Clinical
+Pharmacy, American College of Emergency Physicians,
+American Pharmacists Association, American Public
+Health Association, American Psychiatric Nurses Associ-
+ation, American Society of Anesthesiologists, American
+Society of Consultant Pharmacists, American Society of
+Health-System Pharmacists, American
+of
+Nephrology, American Urological Association, Centers
+for Medicare and Medicaid Systems, Gerontological
+Advanced Practice Nurses Association, National Council
+on Aging, National Committee on Quality Assurance,
+
+Society
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2080
+
+BY THE 2023 AMERICAN GERIATRICS SOCIETY BEERS CRITERIA
+
+®
+
+UPDATE EXPERT PANEL
+
+Nurses Improving Care for Healthsystem Elders, Phar-
+macy Quality Alliance, and Society of Urodynamics,
+Female Pelvic Medicine & Urogenital Reconstruction.
+
+F U N D I N G I N F O R M A T I O N
+There was no sponsor for this paper.
+
+C O N F L I C T O F I N T E R E S T S T A T E M E N T
+Drs. Brandt, Digmann, DuBeau, Dombrowski, Flanagan,
+George, Harrington, Hines, Hollmann, Laird, and Steinman
+had no conflicts to disclose. Dr. Beizer is a consultant to Lex-
+iComp, Inc., a Wolters-Kluwer company. Dr. Fick is a con-
+sultant for Precision Health Economics. Dr. Holmes receives
+grant funding from Blue Cross/Blue Shield for a study on
+deprescribing. Dr. Linnebur is a Committee Member for
+both the Colorado Access Pharmacy and Therapeutics Com-
+mittee and the CVS Pharmacy and Therapeutics Committee
+and has received honoraria from Springer Nature and Merck
+Manuals. Dr. Semla is a consultant to UnitedHealthcare and
+to LexiComp, Inc., a Wolters-Kluwer company; his spouse
+holds shares of Abbvie and Abbott stock.
+
+R EF E RE N C E S
+
+1. Beers MH, Ouslander JG, Rollingher I, et al. Explicit criteria
+for determining inappropriate medication use in nursing home
+residents. Arch Intern Med. 1991;151:1825-1832. doi:10.1001/
+archinte.1991.00400090107019
+
+2. Beers MH. Explicit criteria for determining potentially inappropriate
+medication use by the elderly: an update. Arch Intern Med. 1997;
+157:1531-1536. doi:10.1001/archinte.1997.00440350031003
+
+3. Green AR, Aschmann H, Boyd CM, Schoenborn N. Assessment
+of patient-preferred language to achieve goal-aligned depre-
+scribing in older adults. JAMA Netw Open. 2021;4(4):e212633.
+doi:10.1001/jamanetworkopen.2021.2633
+
+®
+
+®
+
+4. 2019 American Geriatrics Society Beers Criteria
+
+Update Expert
+Panel. American Geriatrics Society 2019 updated AGS Beers
+for potentially inappropriate medication use in older
+criteria
+adults. J Am Geriatr Soc. 2019;67(4):674-694. doi:10.1111/jgs.15767
+5. Guyatt G, Oxman AD, Akl EA, et al. GRADE guidelines:
+1. Introduction-GRADE evidence profiles and summary of
+findings tables. J Clin Epidemiol. 2011;64(4):383-394. doi:10.
+1016/j.jclinepi.2010.04.026
+
+6. Institute of Medicine (U.S.). Committee on standards for devel-
+oping trustworthy clinical practice guidelines. In: Graham R,
+Mancher M, Wolman DM, et al., eds. Clinical Practice Guide-
+lines We Can Trust. National Academies Press; 2011.
+
+7. Qaseem A, Snow V, Owens DK, Shekelle P, Clinical guidelines
+Committee of the American College of Physicians. The devel-
+opment of clinical practice guidelines and guidance statements
+of the American College of Physicians: summary of methods.
+Ann Intern Med. 2010;153(3):194-199. doi:10.7326/0003-4819-
+153-3-201008030-00010
+
+8. Guyatt G, Oxman AD, Sultan S, et al. GRADE guidelines: 11.
+Making an overall rating of confidence in effect estimates for a
+single outcome and for all outcomes. J Clin Epidemiol. 2013;
+66(2):151-157.
+
+9. Andrews JC, Schünemann HJ, Oxman AD, et al. GRADE
+guidelines: 15. Going from evidence to recommendation-
+determinants of a recommendation's direction and strength.
+J Clin Epidemiol. 2013;66(7):726-735.
+
+10. Balshem H, Helfand M, Schunemann HJ, et al. GRADE guide-
+lines: 3. Rating the quality of evidence. J Clin Epidemiol. 2011;
+64(4):401-406. doi:10.1016/j.jclinepi.2010.07.015
+
+11. Guyatt GH, Oxman AD, Vist G, et al. GRADE guidelines: 4. Rat-
+ing the quality of evidence-study limitations (risk of bias). J Clin
+Epidemiol. 2011;64(4):407-415. doi:10.1016/j.jclinepi.2010.07.017
+12. Shea BJ, Grimshaw JM, Wells GA, et al. Development of
+AMSTAR: a measurement tool to assess the methodological
+quality of systematic reviews. BMC Med Res Methodol. 2007;7:
+10. doi:10.1186/1471-2288-7-10
+
+13. Davidson KW, Mangion CM, Barry MJ, et al. Aspirin use to pre-
+vent cardiovascular disease US preventive services task force rec-
+ommendation statement. JAMA. 2022;326(16):1577-1584.
+
+14. Kales HC, Gritlin LN, Lyketsos CG. When less is more, but still
+not enough: why focusing on limiting antipsychotics in people
+with dementia is the wrong policy imperative. J Am Med Dir
+Assoc. 2019;20(9):1074-1079. doi:10.1016/j.jamda.2019.05.022
+15. Marcantonio ER. Old habits die hard: antipsychotics for treat-
+ment of delirium. Ann Intern Med. 2019;171(7):516-517. doi:10.
+7326/M19-2624
+
+16. Inouye SK. The importance of delirium and delirium preven-
+tion in older adults during lockdown. JAMA. 2021;325(17):
+1779-1780. doi:10.1001/jama.2021.2211
+
+17. Nursing Home Toolkit: Promoting positive behavioral health. The
+Commonwealth Fund and The John A. Hartford Foundation.
+http://www.nursinghometoolkit.com Accessed October 31, 2022.
+
+18. Gitlin LN, Kales HC, Lyketsos CG. Nonpharmacologic man-
+agement of behavioral symptoms in dementia. JAMA. 2012;
+308(19):2020-2029. doi:10.1001/jama.2012.36918
+
+19. Gitlin LN, Winter L, Dennis MP, Hodgson N, Hauck WW. Tar-
+geting and managing behavioral symptoms in individuals with
+dementia: a randomized trial of a nonpharmacological inter-
+vention. J Am Geriatr Soc. 2010;58(8):1465-1474. doi:10.1111/j.
+1532-5415.2010.02971.x
+
+20. Dengler KL, High RA, Moga DC, et al. Overactive bladder and
+cognitive impairment: the American Urogynecologic Society and
+pelvic floor disorders research foundation state-of-the-science
+conference summary report. Urogynecology (Hagerstown). 2023;
+29(1S Suppl 1):S1-S19. doi:10.1097/SPV.0000000000001272 Epub
+2022 Oct 22. PMID: 36548636.
+
+21. Steinman MA, Fick DM. Using wisely: a reminder on the proper
+. J Am Ger-
+
+use of the American Geriatrics Society Beers criteria
+iatr Soc. 2019;67(4):644-646. doi:10.1001/jama.2022.4983
+
+®
+
+22. Steinman MA, Beizer JL, DuBeau CE, et al. How to use the
+American Geriatrics Society 2015 Beers Criteria—a guide for
+patients, clinicians, health systems, and payors. J Am Geriatr
+Soc. 2015;63:e1-e7. doi:10.1111/jgs.13701
+
+SU PP O R TI N G I N F O RMA TI O N
+Additional supporting information can be found online
+in the Supporting Information section at the end of this
+article.
+
+Appendix S1. Supporting information.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAGS 2023 BEERS CRITERIA
+
+®
+
+2081
+
+®
+
+How to cite this article: By the 2023 American
+Update Expert
+Geriatrics Society Beers Criteria
+Panel. American Geriatrics Society 2023 updated
+for potentially inappropriate
+AGS Beers Criteria
+medication use in older adults. J Am Geriatr Soc.
+2023;71(7):2052‐2081. doi:10.1111/jgs.18372
+
+®
+
+A P P END I X A : PANEL MEMBERS AND
+AFFILIATIONS
+
+®
+
+The following individuals were members of the AGS Panel
+: (co-
+convened to update the 2023 AGS Beers Criteria
+chair) Todd P. Semla, PharmD, MS, BCPG, FCCP, AGSF,
+Northwestern University Feinberg School of Medicine,
+Chicago, IL; (co-chair) Michael Steinman, MD, University
+of California San Francisco and San Francisco Veterans
+Affairs Medical Center, San Francisco, CA; (co-chair)
+Judith Beizer, PharmD, BCGP, FASCP, AGSF, St. John's
+
+University, Queens, NY; Nicole Brandt, PharmD, MBA,
+BCPP, BCGP, FASCP, University of Maryland, Baltimore,
+MD; Rachel Digmann, PharmD, Pharmacy Quality
+Alliance, Alexandria, VA (nonvoting member); Robert
+Dombrowski, PharmD, Centers for Medicare and Medic-
+aid Services, Baltimore, MD (nonvoting member); Cather-
+ine E. DuBeau, MD, Dartmouth-Hitchcock Medical
+Center, Lebanon, NH; Donna M. Fick, PhD, RN, FGSA,
+AGSF, FAAN, College of Nursing and Medicine, The
+Pennsylvania State University, University Park, PA; Nina
+Flanagan, PhD, GNP-BC, APHM-BC, Binghamton Univer-
+sity, Vestal, NY; Claudene George, MD, MS, RPh, Monte-
+fiore Medical Center, The Bronx, NY; Rachel Harrington,
+for Quality Assurance,
+PhD, National Committee
+Washington, DC (nonvoting member); Peter Hollmann,
+MD, AGSF, Brown Medicine, Providence, RI; Holly
+Holmes, MD, MS,AGSF, McGovern Medical School at UT
+Health, Houston, TX; Rosemary Laird, MD, MHSA, AGSF,
+Winter Park Memorial Hospital, Winter Park, FL; and
+Sunny Linnebur, PharmD, FCCP, BCPS, BCGP, FASCP,
+University of Colorado, Aurora, CO.
+
+ 15325415, 2023, 7, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372 by Health Research Board, Wiley Online Library on [23/08/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
