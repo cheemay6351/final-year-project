@@ -1,7 +1,6 @@
 import PyPDF2
 
 # select the pages to rotate while leave the other pages the same
-
 rotate_pages = [5, 6, 7, 8, 9, 10, 11, 12, 14, 15]
 unrotate_pages = [13, 16, 17]
 

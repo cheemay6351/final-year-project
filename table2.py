@@ -20,21 +20,21 @@ try:
         table_df = table.df
 
         if table_df.shape[1] > 5:
-            # Trim the DataFrame to 5 columns
+            # trim the DataFrame to 5 columns
             table_df = table_df.iloc[:, :5]
 
-        # Remove rows with "Table 2 (Contd.)" in the first column
+        # remove rows with "Table 2 (Contd.)" in the first column
         table_df = table_df[~table_df.iloc[:, 0].str.contains(pattern, case=False, na=False, regex=False)]
 
-        # Initialize a variable to track the previous row index
+        # initialize a variable to track the previous row index
         prev_row_index = None
 
-        # Iterate through the rows and check for specified keywords
+        # iterate through the rows and check for specified keywords
         for index, row in table_df.iterrows():
             has_keyword = any(keyword in cell for keyword in keywords for cell in row)
 
             if has_keyword or (prev_row_index is not None and prev_row_index == index - 1):
-                # Delete the current row and the one above it
+                # delete the current row and the one above it
                 table_df = table_df.drop(index)
                 if prev_row_index is not None:
                     table_df = table_df.drop(prev_row_index)
@@ -42,22 +42,22 @@ try:
             elif has_keyword:
                 prev_row_index = index
 
-        # Reset the index after deleting rows
+        # reset the index after deleting rows
         table_df = table_df.reset_index(drop=True)
 
-        # Extract only the word 'Strong' from the last column using a regular expression
+        # extract only the word 'Strong' from the last column using a regular expression
         table_df.iloc[:, -1] = table_df.iloc[:, -1].str.extract(r'(Strong)', flags=re.IGNORECASE, expand=False)
 
-        # Replace NaN values with an empty string or any other desired placeholder
+        # replace NaN values with an empty string or any other desired placeholder
         table_df.iloc[:, -1] = table_df.iloc[:, -1].fillna('')
 
-    #Append the processed DataFrame to the list
+    # append the processed DataFrame to the list
         full_table.append(table_df)
 
-    # Concatenate all DataFrames in the list after processing all tables
+    # concatenate all DataFrames in the list after processing all tables
     final_result = pd.concat(full_table, ignore_index=True)
 
-    # Optionally, you can rename the columns here if needed
+    # could name the coloumns
     # final_result.columns = ['Organ System, Therapeutic Category, Drug(s)', 'Rationale', 'Recommendation', 'Quality of Evidence', 'Strength of Recommendation']
 
     print(final_result)

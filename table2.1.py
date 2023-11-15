@@ -29,13 +29,13 @@ file_path = 'J American Geriatrics Society - 2019 - .txt'
 # for _ in range(2396):
 #     text = file.readline()
 
-# Function to extract the word 6 spaces away from the leftmost side
+# function to extract the word 6 spaces away from the leftmost side
 def extract_word(line):
-    # Split the line by spaces
+    # split the line by spaces
     words = line.split()
 
     if len(words) > 6:
-        return words[6]  # Word 6 spaces away from the leftmost side
+        return words[6]  # word 6 spaces away from the leftmost side
     else:
         return None
 
@@ -78,12 +78,12 @@ with open(file_path, "r", encoding="utf-8") as file:
         if line_number == 2409:
             lines = file.readlines()
 
-            # Check if the specified line number is within the range of lines
+            # check if the specified line number is within the range of lines
             if line_number >= 0 and line_number < len(lines):
-                # Extract the desired line
+                # extract the desired line
                 line_to_read = lines[line_number]
 
-                # Extract the word 6 spaces away from the leftmost side
+                # extract the word 6 spaces away from the leftmost side
                 extracted_word = extract_word(line_to_read)
 
 print(extracted_word)

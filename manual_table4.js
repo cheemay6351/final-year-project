@@ -1,12 +1,13 @@
 var MongoClient = require("mongodb").MongoClient;
-var connect = require("./connect"); //url from connect module
+var connect = require("./connect"); // url from connect module
 var client = new MongoClient(connect.database.url, {
     useUnifiedTopology: true,
 });
 
-var dbName = "Beers_Criteria"; //Database name
+var dbName = "Beers_Criteria"; // database name
 
-//2023 American Geriatrics Society Beers Criteria® for potentially inappropriate medications: drugs to be used with caution in older adults.
+// used javascript at as initial language for manual insertion of data
+// 2023 American Geriatrics Society Beers Criteria® for potentially inappropriate medications: drugs to be used with caution in older adults.
 async function insertMed(db) {
     var collection = db.collection('Table4');
     var userObjects1 = [
@@ -75,7 +76,7 @@ async function insertMed(db) {
         console.log("Medications List Created!");
     } catch (err) {
         console.error("Failed to insert document:", err);
-        throw err; // Propagate the error
+        throw err; //  propagate the error
     }
 }
 
@@ -83,7 +84,7 @@ async function main() {
     try {
         await client.connect();
         console.log("Connected successfully to server");
-        var db = client.db(dbName); //Use this database
+        var db = client.db(dbName); // use this database
 
         await insertMed(db);
     } catch (err) {

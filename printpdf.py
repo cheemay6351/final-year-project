@@ -1,6 +1,6 @@
 import PyPDF2
 
-# define page ranges and their corresponding output file names
+# define page ranges and name output file names for each table
 page_ranges = [
     (1, 5, "table_2.pdf"),
     (6, 8, "table_3.pdf"),
