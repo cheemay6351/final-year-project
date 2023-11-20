@@ -1,68 +1,68 @@
-import os
-import camelot
-import pandas as pd
 import re
 
-# current progress: table 2
+def read_and_print(file_path, start_line, end_line):
+    with open(file_path, 'r', encoding="utf-8") as file:
+        lines = file.readlines()
 
-try:
-    folderName = "beers_pdfs2019"
-    fileName = "table_2.pdf"
+        # list of keywords that are unnecessary
+        keywords = ['Organ System, Therapeutic Category, Drug(s)', 'Rationale', 'Recommendation', 'Quality of', 'Evidence', 'Strength of', 'Table 2  (Contd.)', '(Continued)']
 
-    pdf_file = os.path.join(folderName, fileName)
+        # ensure start_line and end_line are within bounds
+        if start_line < 0 or start_line >= len(lines) or end_line < start_line or end_line >= len(lines):
+            print("Invalid start or end line values.")
+            return
 
-    full_table = []
+        # remove lines that begin with any character and have no indentations
+        lines = [line for line in lines[start_line:end_line + 1] if not line.strip() or line.lstrip()[0] != line[0]]
 
-    tables = camelot.read_pdf(pdf_file, pages='all', flavor='stream', row_tol=10, split_text=True, debug=True)
+        # remove lines that contains any of the listed keywords
+        new_lines = [line for line in lines[start_line:end_line + 1] if not any(keyword in line for keyword in keywords)]
 
-    pattern = r"Table 2 \(Contd\.\)"
-    keywords = ['Organ', 'System', 'Therapeutic', 'Category', 'Drug(s)', 'Rationale', 'Recommendation', 'Quality of', 'Evidence', 'Strength of', 'Recommendation']
+        # remove lines that are blank or empty
+        new2_lines = [line for line in new_lines if line.strip()]
 
-    for table in tables:
-        table_df = table.df
+        # remove lines that contains any single character
+        filtered_lines = [line for line in new2_lines if len(line.strip()) > 1]
 
-        if table_df.shape[1] > 5:
-            # trim the DataFrame to 5 columns
-            table_df = table_df.iloc[:, :5]
+        # print the selected lines
+        for line in filtered_lines:
+            print(line, end='')
 
-        # remove rows with "Table 2 (Contd.)" in the first column
-        table_df = table_df[~table_df.iloc[:, 0].str.contains(pattern, case=False, na=False, regex=False)]
+        # return the selected lines as a list
+        return filtered_lines
 
-        # initialize a variable to track the previous row index
-        prev_row_index = None
+file_path = 'table_2.txt'
+start_line = 11 # playing with start line number; 11
+end_line = 915 # end line number; 915
+table = read_and_print(file_path, start_line, end_line)
 
-        # iterate through the rows and check for specified keywords
-        for index, row in table_df.iterrows():
-            has_keyword = any(keyword in cell for keyword in keywords for cell in row)
+# def read_and_print(file_path, start_line):
+#     with open(file_path, 'r', encoding="utf-8") as file:
+#         lines = file.readlines()
 
-            if has_keyword or (prev_row_index is not None and prev_row_index == index - 1):
-                # delete the current row and the one above it
-                table_df = table_df.drop(index)
-                if prev_row_index is not None:
-                    table_df = table_df.drop(prev_row_index)
-                prev_row_index = None
-            elif has_keyword:
-                prev_row_index = index
+#         # Ensure start_line is within bounds
+#         if start_line < 0 or start_line >= len(lines):
+#             print("Start line is out of bounds.")
+#             return
 
-        # reset the index after deleting rows
-        table_df = table_df.reset_index(drop=True)
+#         # Iterate over lines starting from the specified line
+#         first_line = lines[start_line]
+#         all_lines = ''
+#         for i in range(start_line, len(lines)):
+#             line = lines[i+1]
 
-        # extract only the word 'Strong' from the last column using a regular expression
-        table_df.iloc[:, -1] = table_df.iloc[:, -1].str.extract(r'(Strong)', flags=re.IGNORECASE, expand=False)
+#             # Check if the line starts with 6 spaces
+#             if line.startswith("      ") and line[6:7] != " ":  # Adjust the number of spaces as needed
+#                 break  # Stop when a line with 6 spaces indent is detected
+            
+#             all_lines += line
+        
+#         table = first_line + all_lines
+#         return table
 
-        # replace NaN values with an empty string or any other desired placeholder
-        table_df.iloc[:, -1] = table_df.iloc[:, -1].fillna('')
+# # Example usage
+# file_path = 'table_2.txt'
+# start_line = 22  # Replace with the desired starting line
+# table = read_and_print(file_path, start_line)
 
-    # append the processed DataFrame to the list
-        full_table.append(table_df)
-
-    # concatenate all DataFrames in the list after processing all tables
-    final_result = pd.concat(full_table, ignore_index=True)
-
-    # could name the coloumns
-    # final_result.columns = ['Organ System, Therapeutic Category, Drug(s)', 'Rationale', 'Recommendation', 'Quality of Evidence', 'Strength of Recommendation']
-
-    print(final_result)
-
-except Exception as e:
-    print(f"Error occurred: {str(e)}")
+# print(table)
