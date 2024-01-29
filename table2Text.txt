@@ -1,0 +1,226 @@
+      Anticholinergics                                                                                                                                                                                                 S 
+         First-generation antihistamines                     Highly anticholinergic; clearance reduced with advanced         Avoid                                          Moderate               Strong              E 
+            Brompheniramine                                  age, and tolerance develops when used as hypnotic; risk                                                                                                   R 
+            Carbinoxamine                                    of confusion, dry mouth, constipation, and other                                                                                                          C 
+            Chlorpheniramine                                 anticholinergic effects or toxicity                                                                                                                       I 
+            Clemastine                                       Use of diphenhydramine in situations such as acute 
+            Cyproheptadine                                   treatment of severe allergic reaction may be appropriate.                                                                                                 A 
+            Dexbrompheniramine                                                                                                                                                                                         U 
+            Dexchlorpheniramine                                                                                                                                                                                        D 
+            Dimenhydrinate                                                                                                                                                                                             T 
+            Diphenhydramine (oral)                                                                                                                                                                                     E 
+            Doxylamine                                                                                                                                                                                                 P 
+            Hydroxyzine                                                                                                                                                                                                R 
+            Meclizine                                                                                                                                                                                                  P 
+            Promethazine                                                                                                                                                                                               N 
+            Pyrilamine                                                                                                                                                                                                 L 
+           Triprolidine 
+         Antiparkinsonian agents                             Not recommended for prevention or treatment of                  Avoid                                          Moderate               Strong 
+            Benztropine (oral)                               extrapyramidal symptoms with antipsychotics; more 
+           Trihexyphenidyl                                   effective agents available for treatment of Parkinson 
+                                                             disease 
+         Antispasmodics                                      Highly anticholinergic, uncertain effectiveness                 Avoid                                           Moderate              Strong 
+           Atropine (excludes ophthalmic) 
+            Belladonna alkaloids 
+            Clidinium-chlordiazepoxide 
+            Dicyclomine Homatropine 
+              (excludes opthalmic) 
+            Hyoscyamine 
+            Methscopolamine 
+            Propantheline 
+            Scopolamine 
+      Antithrombotics 
+         Dipyridamole, oral short acting (does               May cause orthostatic hypotension; more effective               Avoid                                          Moderate               Strong 
+         not apply to the extended-release                   alternatives available; IV form acceptable for use in                                                                                                     R 
+         combination with aspirin)                           cardiac stress testing                                                                                                                                    L 
+      Anti-infective 
+         Nitrofurantoin                                      Potential for pulmonary toxicity, hepatoxicity, and             Avoid in individuals with creatinine               Low                Strong              – 
+                                                             peripheral neuropathy, especially with long-term use;           clearance <30 mL/min or for long-term                                                     O 
+                                                             safer alternatives available                                    suppression                                                                               . 
+       Cardiovascular                                                                                                                                                                                                 , 
+         Peripheral alpha-1 blockers for treatment           High risk of orthostatic hypotension and associated             Avoid use as an antihypertensive               Moderate               Strong              O 
+         of hypertension                                     harms, especially in older adults; not recommended as                                                                                                     4 
+            Doxazosin                                        routine treatment for hypertension; alternative agents 
+            Prazosin                                         have superior risk/beneﬁt proﬁle 
+           Terazosin 
+         Central alpha-agonists                                                                                              Avoid as ﬁrst-line antihypertensive                Low                Strong              S 
+          Clonidine for ﬁrst-line treatment                     High risk of adverse CNS effects; may cause bradycardia             Avoid other CNS alpha-agonists as                   Low                  Strong               L 
+                                                                and orthostatic hypotension; not recommended as routine                                                                                                           0 
+         of hypertension                                                                                                            listed                                                                                        1 
+                                                                treatment for hypertension                                                                                                                                        – 
+         Other CNS alpha-agonists 
+            Guanabenz                                                                                                                                                                                                             O 
+            Guanfacine 
+            Methyldopa                                                                                                                                                                                                           , 
+            Reserpine (>0.1 mg/day)                                                                                                                                                                                               O 
+          Disopyramide                                          May induce heart failure in older adults because of potent          Avoid                                               Low                  Strong               4 
+                                                                negative inotropic action; strongly anticholinergic; other 
+                                                                antiarrhythmic drugs preferred 
+          Dronedarone                                           Worse outcomes have been reported in patients taking                Avoid in individuals with permanent                 High                 Strong 
+                                                                dronedarone who have permanent atrial ﬁbrillation or                atrial ﬁbrillation or severe or recently 
+                                                                severe or recently decompensated heart failure.                     decompensated heart failure 
+          Digoxin for ﬁrst-line treatment of atrial             Use in atrial ﬁbrillation: should not be used as a ﬁrst-line        Avoid this rate control agent as ﬁrst-       Atrial ﬁbrillation:    Atrial ﬁbrillation: 
+         ﬁbrillation or of heart failure                        agent in atrial ﬁbrillation, because there are safer and            line therapy for atrial ﬁbrillation                  low                 strong 
+                                                                more effective alternatives for rate control supported by 
+                                                                                                                                    Avoid as ﬁrst-line therapy for heart           Heart failure:        Heart failure: 
+                                                                high-quality evidence. 
+                                                                                                                                    failure                                              low                 strong 
+                                                                Use in heart failure: evidence for beneﬁts and harms of 
+                                                                digoxin is conﬂicting and of lower quality; most but not all        If used for atrial ﬁbrillation or heart           Dosage                Dosage 
+                                                                of the evidence concerns use in HFrEF. There is strong              failure, avoid dosages >0.125 mg/day          >0.125 mg/day:        >0.125 mg/day: 
+                                                                evidence for other agents as ﬁrst-line therapy to reduce                                                             moderate                strong 
+                                                                hospitalizations and mortality in adults with HFrEF. In 
+                                                                heart failure, higher dosages are not associated with 
+                                                                additional beneﬁt and may increase risk of toxicity. 
+                                                                Decreased renal clearance of digoxin may lead to                                                                                                                  2 
+                                                                increased risk of toxic effects; further dose reduction may                                                                                                       1 
+                                                                be necessary in those with stage 4 or 5 chronic kidney                                                                                                            A 
+                                                                disease.                                                                                                                                                          S 
+          Nifedipine, immediate release                         Potential for hypotension; risk of precipitating myocardial         Avoid                                               High                 Strong               E 
+                                                                ischemia 
+         Amiodarone                                             Effective for maintaining sinus rhythm but has greater              Avoid as ﬁrst-line therapy for atrial               High                 Strong               C 
+                                                                toxicities than other antiarrhythmics used in atrial                ﬁbrillation unless patient has heart                                                          T 
+                                                                ﬁbrillation; may be reasonable ﬁrst-line therapy in patients        failure or substantial left ventricular                                                       R 
+                                                                with concomitant heart failure or substantial left                  hypertrophy                                                                                    ® 
+                                                                ventricular hypertrophy if rhythm control is preferred over                                                                                                       P 
+                                                                rate control 
+       Central nervous system                                                                                                                                                                                                     E 
+         Antidepressants, alone or in combination               Highly anticholinergic, sedating, and cause orthostatic             Avoid                                               High                 Strong 
+            Amitriptyline                                       hypotension; safety proﬁle of low-dose doxepin                                                                                                                    E 
+            Amoxapine                                           (≤6 mg/day) comparable to that of placebo                                                                                                                         T 
+            Clomipramine                                                                                                                                                                                                          A 
+            Desipramine                                                                                                                                                                                                           E 
+            Doxepin >6 mg/day                                                                                                                                                                                                     L 
+            Imipramine 
+            Nortriptyline                                                                                                                                                                                              G 
+            Paroxetine                                                                                                                                                                                                 B 
+            Protriptyline                                                                                                                                                                                              R 
+           Trimipramine 
+         Antipsychotics, ﬁrst (conventional) and             Increased risk of cerebrovascular accident (stroke) and         Avoid, except in schizophrenia or               Moderate              Strong              I 
+         second (atypical) generation                        greater rate of cognitive decline and mortality in persons      bipolar disorder, or for short-term use                                                   E 
+                                                             with dementia                                                   as antiemetic during chemotherapy                                                         A 
+                                                             Avoid antipsychotics for behavioral problems of dementia or                                                                                               U 
+                                                             delirium unless nonpharmacological options (eg, behavioral                                                                                                D 
+                                                             interventions) have failed or are not possible and the older                                                                                              T 
+                                                             adult is threatening substantial harm to self or others                                                                                                   E 
+         Barbiturates                                        High rate of physical dependence, tolerance to sleep            Avoid                                             High                Strong              P 
+           Amobarbital                                       beneﬁts, greater risk of overdose at low dosages                                                                                                          R 
+            Butabarbital 
+            Butalbital 
+            Mephobarbital                                                                                                                                                                                              L 
+            Pentobarbital 
+            Phenobarbital 
+            Secobarbital 
+         Benzodiazepines                                     Older adults have increased sensitivity to                      Avoid                                          Moderate               Strong 
+         Short and intermediate acting:                      benzodiazepines and decreased metabolism of long- 
+           Alprazolam                                        acting agents; in general, all benzodiazepines increase 
+            Estazolam                                        risk of cognitive impairment, delirium, falls, fractures, and 
+            Lorazepam                                        motor vehicle crashes in older adults 
+            Oxazepam                                         May be appropriate for seizure disorders, rapid eye 
+           Temazepam                                         movement sleep behavior disorder, benzodiazepine 
+           Triazolam                                         withdrawal, ethanol withdrawal, severe generalized 
+         Long acting:                                        anxiety disorder, and periprocedural anesthesia 
+            Chlordiazepoxide (alone or in combination 
+           with amitriptyline or clidinium) 
+            Clonazepam 
+            Clorazepate 
+            Diazepam 
+            Flurazepam 
+            Quazepam                                                                                                                                                                                                   L 
+         Meprobamate                                         High rate of physical dependence; sedating                      Avoid                                           Moderate              Strong              0 
+         Nonbenzodiazepine, benzodiazepine                   Nonbenzodiazepine benzodiazepine receptor agonist               Avoid                                          Moderate               Strong              – 
+         receptor agonist hypnotics (ie, “Z-drugs”)          hypnotics (ie, Z drugs) have adverse events similar to                                                                                                    O 
+            Eszopiclone                                      those of benzodiazepines in older adults (eg, delirium,                                                                                                   . 
+           Zaleplon                                          falls, fractures); increased emergency room visits/                                                                                                      , 
+           Zolpidem                                          hospitalizations; motor vehicle crashes; minimal 
+                                                             improvement in sleep latency and duration                                                                                                                 4 
+         Ergoloid mesylates                                  Lack of efﬁcacy                                                 Avoid                                             High                Strong 
+         (dehydrogenated ergot alkaloids) 
+         Isoxsuprine                                                                                                                                                                                                   A 
+       Endocrine                                                                                                                                                                                                       S 
+          Androgens                                                 Potential for cardiac problems; contraindicated in men                  Avoid unless indicated for conﬁrmed                 Moderate                  Weak                 L 
+             Methyltestosterone                                     with prostate cancer                                                    hypogonadism with clinical symptoms                                                                 1 
+             Testosterone 
+          Desiccated thyroid                                        Concerns about cardiac effects; safer alternatives                      Avoid                                                  Low                   Strong                O 
+                                                                    available 
+          Estrogens with or without progestins                      Evidence of carcinogenic potential (breast and                          Avoid systemic estrogen (eg, oral and            Oral and patch:        Oral and patch:            , 
+                                                                    endometrium); lack of cardioprotective effect and                       topical patch)                                         high                  strong                O 
+                                                                    cognitive protection in older women                                                                                                                                         4 
+                                                                                                                                                                                             Vaginal cream          Topical vaginal 
+                                                                    Evidence indicates that vaginal estrogens for the treatment             Vaginal cream or vaginal tablets: 
+                                                                                                                                                                                                or vaginal         cream or tablets: 
+                                                                    of vaginal dryness are safe and effective; women with a                 acceptable to use low-dose 
+                                                                                                                                                                                                 tablets:                 weak 
+                                                                    history of breast cancer who do not respond to                          intravaginal estrogen for management 
+                                                                                                                                                                                                moderate 
+                                                                    nonhormonal therapies are advised to discuss the risks and              of dyspareunia, recurrent lower 
+                                                                    beneﬁts of low-dose vaginal estrogen (dosages of estradiol              urinary tract infections, and other 
+                                                                    <25 μg twice weekly) with their healthcare provider                     vaginal symptoms 
+          Growth hormone                                            Impact on body composition is small and associated with                 Avoid, except for patients rigorously                  High                  Strong 
+                                                                    edema, arthralgia, carpal tunnel syndrome,                              diagnosed by evidence-based criteria 
+                                                                    gynecomastia, impaired fasting glucose                                  with growth hormone deﬁciency due to 
+                                                                                                                                            an established etiology 
+          Insulin, sliding scale (insulin regimens                  Higher risk of hypoglycemia without improvement in                      Avoid                                               Moderate                 Strong 
+          containing only short- or rapid-acting insulin            hyperglycemia management regardless of care setting. 
+          dosed according to current blood glucose                  Avoid insulin regimens that include only short- or rapid- 
+          levels without concurrent use of basal or                 acting insulin dosed according to current blood glucose 
+          long-acting insulin)                                      levels without concurrent use of basal or long-acting 
+                                                                    insulin. This recommendation does not apply to regimens 
+                                                                    that contain basal insulin or long-acting insulin.                                                                                                                          2 
+          Megestrol                                                 Minimal effect on weight; increases risk of thrombotic                  Avoid                                               Moderate                 Strong                 1 
+                                                                    events and possibly death in older adults                                                                                                                                  A 
+          Sulfonylureas, long acting                                Chlorpropamide: prolonged half-life in older adults; can                Avoid                                                  High                  Strong                S 
+             Chlorpropamide                                         cause prolonged hypoglycemia; causes SIADH                                                                                                                                 E 
+             Glimepiride                                            Glimepiride and glyburide: higher risk of severe                                                                                                                           S 
+             Glyburide (also known as glibenclamide)                prolonged hypoglycemia in older adults                                                                                                                                     C 
+       Gastrointestinal                                                                                                                                                                                                                        T 
+          Metoclopramide                                            Can cause extrapyramidal effects, including tardive                     Avoid, unless for gastroparesis with                Moderate                 Strong                R 
+                                                                    dyskinesia; risk may be greater in frail older adults and               duration of use not to exceed 12 weeks                                                              ® 
+                                                                    with prolonged exposure                                                 except in rare cases                                                                               P 
+          Mineral oil, given orally                                 Potential for aspiration and adverse effects; safer                     Avoid                                               Moderate                 Strong                A 
+                                                                    alternatives available 
+          Proton-pump inhibitors                                    Risk of Clostridium difﬁcile infection and bone loss and                Avoid scheduled use for >8 weeks                       High                  Strong 
+                                                                    fractures                                                               unless for high-risk patients (eg, oral                                                            E 
+                                                                                                                                            corticosteroids or chronic NSAID use),                                                             T 
+                                                                                                                                            erosive esophagitis, Barrett esophagitis,                                                          A 
+                                                                                                                                            pathological hypersecretory condition, or                                                          E 
+                                                                                                                                            demonstrated need for maintenance                                                                  L 
+                                                                                                                                            treatment (eg, because of failure of drug 
+                                                                                                                                            discontinuation trial or H2-receptor                                                                6 
+                                                                                                                                            antagonists)                                                                                        1 
+       Pain medications                                                                                                                                                                                                            G 
+          Meperidine                                            Oral analgesic not effective in dosages commonly used;              Avoid                                             Moderate               Strong                B 
+                                                                may have higher risk of neurotoxicity, including delirium,                                                                                                         R 
+                                                                than other opioids; safer alternatives available 
+          Non–cyclooxygenase-selective NSAIDs, oral:            Increased risk of gastrointestinal bleeding or peptic ulcer         Avoid chronic use, unless other                   Moderate                Strong               I 
+            Aspirin >325 mg/day                                 disease in high-risk groups, including those >75 years or           alternatives are not effective and                                                             E 
+            Diclofenac                                          taking oral or parenteral corticosteroids, anticoagulants,          patient can take gastroprotective                                                              A 
+            Diﬂunisal                                           or antiplatelet agents; use of proton-pump inhibitor or             agent (proton-pump inhibitor or                                                                U 
+            Etodolac                                            misoprostol reduces but does not eliminate risk. Upper              misoprostol)                                                                                   D 
+            Fenoprofen                                          gastrointestinal ulcers, gross bleeding, or perforation                                                                                                            T 
+            Ibuprofen                                           caused by NSAIDs occur in ~1% of patients treated for                                                                                                              E 
+            Ketoprofen                                          3-6 months and in ~2%-4% of patients treated for 1 year;                                                                                                           P 
+            Meclofenamate                                       these trends continue with longer duration of use. Also                                                                                                            R 
+            Mefenamic acid                                      can increase blood pressure and induce kidney injury.                                                                                                              P 
+            Meloxicam                                           Risks are dose related. 
+            Nabumetone                                                                                                                                                                                                             L 
+            Naproxen 
+            Oxaprozin 
+            Piroxicam 
+            Sulindac 
+            Tolmetin 
+          Indomethacin                                          Increased  risk  of  gastrointestinal  bleeding/peptic  ulcer       Avoid                                             Moderate               Strong 
+          Ketorolac, includes parenteral                        disease  and  acute  kidney  injury  in  older  adults 
+                                                                Indomethacin is more likely than other NSAIDs to have 
+                                                                adverse CNS effects. Of all the NSAIDs, indomethacin 
+                                                                has the most adverse effects. 
+          Skeletal muscle relaxants                             Most muscle relaxants poorly tolerated by older adults              Avoid                                             Moderate               Strong 
+            Carisoprodol                                        because some have anticholinergic adverse effects, 
+            Chlorzoxazone                                       sedation, increased risk of fractures; effectiveness at 
+            Cyclobenzaprine                                     dosages tolerated by older adults questionable 
+            Metaxalone 
+            Methocarbamol 
+            Orphenadrine 
+       Genitourinary 
+          Desmopressin                                          High risk of hyponatremia; safer alternative treatments             Avoid for treatment of nocturia or                Moderate                Strong               L 
+                                                                                                                                    nocturnal polyuria                                                                             0 

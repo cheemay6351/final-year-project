@@ -13,25 +13,21 @@ current_line1 = ""
 TC_to_OS = {}
 OS_to_TC = {}
 with open("table2Text.txt", "r", encoding="utf-8") as file:
-    for line in file: # getting category list for category dictionary
-        #get OS 
+    #get OS
+    for line in file: # getting organ list for organ dictionary
         if line.startswith(" " * 6) and line[6:7] != " ": # if line starts with 6 spaces in and the space indent 6 or 7 is not a space
             # split the line into words
             words = line.strip().split()
             # concatenate words with more than one character and add to the organ list
-            #organ_list.append(' '.join(word for word in words if len(word) > 1))
+            organ_list.append(' '.join(word for word in words if len(word) > 1))
 
         elif line.startswith(" " * 7) and line[7:8] != " ": # if line starts with 7 spaces in and the space indent 7 or 8 is not a space
             # split the line into words
             words = line.strip().split()
             # concatenate words with more than one character and add to the organ list
-            #organ_list.append(' '.join(word for word in words if len(word) > 1)) 
-        current_OS = words
-        # OS_to_TC[current_OS] = [] #should be empty list
-        #print(current_OS)
+            organ_list.append(' '.join(word for word in words if len(word) > 1))
 
-        #get TC
-
+        # get TC
         # if line starts with 9 or 10 spaces in and NOT 11 spaces in
         if (line.startswith(" " * 9) or line.startswith(" " * 10)) and not line.startswith(" " * 11): 
             # in the case that the line is 9 spaces in and exactly 9 spaces, the character is lowercase or starts with '('
@@ -41,43 +37,22 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
             elif line.startswith(" " * 10) and current_line1 and (line[10:11].islower() or line[10:11] == '('):
                 current_line1 += " " + line[10:62].strip()
             else:
-                # Store the current line
+                # store the current line
                 if current_line1:
                     lines1.append(current_line1)
-                if(len(current_line1) > 0):
-                    # print("Current_OS =")
-                    # print(current_OS)
-                    # # print("Current_1 =")
-                    # print(current_line1)
-                    # print("\n")
-                    OS = current_OS[0]
-                    TC = "".join(current_line1)
-                    TC_to_OS[TC] = OS
-                    # OS_to_TC[OS].append(TC)
                 current_line1 = line[9:61].strip()
 
-    # Add the last line if it exists
+    # add the last line if it exists (this usually does include the last line)
     if current_line1:
         lines1.append(current_line1)
-    # print("Lines1 =")
-    # print(lines1)
-    # print("\n")
-    # Process the lines and create the organ_list
+
+    # process the lines and create the therapeutic category
     for line in lines1:
         words = line.split()
         #print(words)
         cat_list.append(' '.join(word for word in words if len(word) > 1))
-    
-
-    print("TC_to_OS")
-    for k, v in TC_to_OS.items():
-        print(v, k)
-
-
-    # Create the organ_dict
-    # cat_dict = {str(i): value for i, value in enumerate(cat_list)}
-    #print(cat_list)
-
+    print(cat_list)
+    print(organ_list)
 ######################################################################################################################################################
 
 lines2 = []
@@ -107,7 +82,7 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         words = line.split()
         drug_list.append(' '.join(word for word in words if len(word) > 1))
 
-    # Create the drug_dict
+    # Create the organ_dict
     drug_dict = {str(i): value for i, value in enumerate(drug_list)}
     #print(drug_list, len(drug_list))
 

@@ -1,5 +1,5 @@
 var MongoClient = require("mongodb").MongoClient;
-var connect = require("./connect"); // url from connect module
+var connect = require("../connect"); // url from connect module
 var client = new MongoClient(connect.database.url, {
     useUnifiedTopology: true,
 });

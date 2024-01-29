@@ -1,5 +1,4 @@
 # clean spaces in the beers critera's pdf file
-
 def remove_spaces(file_path):
     # read the file
     with open(file_path, 'r', encoding="utf-8") as file:
@@ -23,4 +22,3 @@ with open(text_file_path, "r", encoding="utf-8") as file:
 
 with open(cleaned_file_path, "w", encoding="utf-8") as file:
     file.write(cleaned_content)
-
