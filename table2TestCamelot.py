@@ -7,6 +7,8 @@ from pymongo import MongoClient
 from connect import database
 
 # current progress: table 2
+# first attempt at trying to extract table 2 of beers criteria using 'Camelot'
+# did not work as intended
 
 try:
 
