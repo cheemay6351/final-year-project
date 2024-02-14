@@ -402,20 +402,10 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         print('Failed to connect to MongoDB:', str(e))
 
 
-    # def print_documents(query={}):
-    #     try:
-    #         # Find documents based on the query
-    #         documents = collection.find(query)
-
-    #         # Print each document
-    #         for document in documents:
-    #             print(document)
-    #     except Exception as e:
-    #         print('Failed to retrieve documents from MongoDB:', str(e))
-
-    # if __name__ == "__main__":
-    #     # You can specify a query to filter documents, or leave it empty to retrieve all documents
-    #     query = {"field1": "value1"}
-
-    #     # Call the function to print documents from MongoDB
-    #     print_documents(query)
+    # listing = collection.find()
+    # with open('database_listing.txt', 'w', encoding="utf-8") as file:
+    #     # Iterate over the documents returned by the cursor
+    #     for document in listing:
+    #         # Write each document to the file
+    #         file.write(str(document) + '\n')
+    
