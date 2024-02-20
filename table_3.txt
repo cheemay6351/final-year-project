@@ -1,0 +1,884 @@
+﻿----------------------- Page 1-----------------------
+
+      Table 3. 2019 American Geriatrics Society Beers Criteria®  for Potentially Inappropriate Medication Use in Older Adults Due to Drug-Disease or Drug-Syndrome 
+                                                                                                                                                                                                                                 J 
+                                                                                     a 
+      Interactions That May Exacerbate the Disease or Syndrome                                                                                                                                                                    A 
+                                                                                                                                                                                                                                  G 
+                                                                                                                                                                                                                                  S 
+
+                                                                                                                                                                                                         Strength of 
+      Disease or Syndrome                             Drug(s)                                         Rationale                           Recommendation                Quality of Evidence          Recommendation 
+                                                                                                                                                                                                                                  A 
+                                                                                                                                                                                                                                  P 
+                                                                                                                                                                                                                                  R 
+                                                                                                                                                                                                                                  I 
+                                                                                                                                                                                                                                  L 
+      Cardiovascular 
+                                                                                                                                                                                                                                  2 
+      Heart failure               Avoid: Cilostazol                                Potential to promote ﬂuid retention              As noted, avoid                Cilostazol: low               Cilostazol: strong               0 
+                                                                                                                                                                                                                                  1 
+                                                                                   and/or exacerbate heart failure (NSAIDs          or use with caution                                                                           9 
+                                                                                                                                                                                                                                  – 
+                                                                                                                                                                                                                                  V 
+                                 Avoid in heart failure with reduced                                                                                               Nondihydropyridine            Nondihydropyridine 
+                                                                                                                                                                                                                                  O 
+                                                                                   and COX-2 inhibitors, nondihydropyridine 
+                                 ejection fraction:                                                                                                                CCBs: moderate                CCBs: strong 
+                                                                                                                                                                                                                                  L 
+                                                                                   CCBs, thiazolidinediones); potential to                                                                                                        . 
+                                    Nondihydropyridine CCBs (diltiazem,                                                                                                                                                           6 
+                                                                                   increase mortality in older adults with heart                                   NSAIDs: moderate              NSAIDs: strong                   7 
+                                 verapamil)                                                                                                                                                                                      , 
+                                                                                   failure (cilostazol and                                                                                                                        N 
+                                                                                                                                                                   COX-2 inhibitors: low         COX-2 inhibitors: strong         O 
+                                  Use with caution in patients with heart          dronedarone)                                                                                                                                   . 
+                                                                                                                                                                                                                                  4 
+                                 failure who are asymptomatic; avoid in                                                                                           Thiazolidinediones: high       Thiazolidinediones: 
+                                  patients with symptomatic heart failure:                                                                                                                       strong 
+                                  NSAIDs and COX-2 inhibitors 
+                                                                                                                                                                   Dronedarone: high             Dronedarone: strong 
+                                    Thiazolidinediones (pioglitazone, 
+                                  rosiglitazone) 
+
+                                  Dronedarone 
+      Syncope                    AChEIs                                            AChEIs cause bradycardia and should be           Avoid                         AChEIs, TCAs, and              AChEIs and TCAs: 
+                                                                                   avoided in older adults whose syncope                                          antipsychotics: high           strong 
+                                  Nonselective peripheral alpha-1 blockers 
+                                                                                   may be due to bradycardia. Nonselective 
+                                  (ie, doxazosin, prazosin, terazosin)                                                                                             Nonselective peripheral       Nonselective 
+                                                                                   peripheral alpha-1 blockers cause 
+                                                                                                                                                                  alpha-1 blockers: high         peripheral alpha-1 
+                                 Tertiary TCAs                                     orthostatic blood pressure changes and 
+                                                                                                                                                                                                 blockers and 
+                                                                                   should be avoided in older adults whose 
+                                 Antipsychotics:                                                                                                                                                 antipsychotics: weak 
+                                                                                   syncope may be due to orthostatic 
+                                    Chlorpromazine 
+                                                                                   hypotension. Tertiary TCAs and the 
+                                    Thioridazine 
+                                                                                   antipsychotics listed increase the risk of 
+                                    Olanzapine 
+                                                                                   orthostatic hypotension or bradycardia. 
+                                                                                                                                                                                                                                  2 
+      Central nervous system                                                                                                                                                                                                      0 
+                                                                                                                                                                                                                                  1 
+       Delirium                   Anticholinergics (see Table 7 and full           Avoid in older adults with or at high risk       Avoid                         H2-receptor antagonists:       Strong                           9 
+                                                                                                                                                                                                                                  A 
+                                 criteria available on www.                        of delirium because of potential of                                             low                                                            G 
+                                                                                                                                                                                                                                  S 
+                                 geriatricscareonline.org.)                        inducing or worsening delirium                                                                                                                 B 
+                                                                                                                                                                  All others: moderate                                            E 
+                                                                                                                                                                                                                                  E 
+                                                  b 
+                                                                                                                                                                                                                                  R 
+                                 Antipsychotics     Benzodiazepines 
+                                 Corticosteroids (oral and parenteral)c            Avoid antipsychotics for behavioral                                                                                                            S 
+                                                                                   problems of dementia and/or delirium                                                                                                           C 
+                                  H2-receptor antagonists                                                                                                                                                                         R 
+                                                                                                                                                                                                                                  I 
+                                                                                   unless nonpharmacological options (eg,                                                                                                         T 
+                                    Cimetidine                                                                                                                                                                                    E 
+                                                                                   behavioral interventions) have failed or                                                                                                       R 
+                                                                                                                                                                                                                                  I 
+                                                                                                                                                                                                                                  A 
+                                    Famotidine 
+                                                                                   are not possible and the older adult is                                                                                                         ® 
+                                                                                                                                                                                                                                  U 
+                                    Nizatidine 
+                                                                                   threatening substantial harm to self or                                                                                                        P 
+                                                                                                                                                                                                                                  D 
+                                    Ranitidine 
+                                                                                   others. Antipsychotics are associated                                                                                                          A 
+                                  Meperidine                                                                                                                                                                                      T 
+                                  Nonbenzodiazepine, benzodiazepine                with greater risk of cerebrovascular                                                                                                           E 
+                                                                                                                                                                                                                                  E 
+                                                                                                                                                                                                                                  X 
+                                                                                   accident (stroke) and mortality in 
+                                  receptor agonist hypnotics:                                                                                                                                                                     P 
+                                                                                   persons with dementia.                                                                                                                         E 
+                                 eszopiclone, zaleplon, zolpidem                                                                                                                                                                  R 
+                                                                                                                                                                                                                                  T 
+       Dementia or cognitive     Anticholinergics (see Table 7 and full            Avoid because of adverse CNS effects             Avoid                         Moderate                       Strong                           P 
+                                                                                                                                                                                                                                  A 
+      impairment                 criteria available on www.                                                                                                                                                                       N 
+                                                                                   Avoid antipsychotics for behavioral                                                                                                            E 
+                                 geriatricscareonline.org)                                                                                                                                                                        L 
+                                                                                   problems of dementia and/or delirium 
+                                  Benzodiazepines                                  unless nonpharmacological options (eg, 
+                                                                                   behavioral interventions) have failed or                                                                                                       6 
+                                  Nonbenzodiazepine, benzodiazepine                                                                                                                                                               8 
+                                                                                   are not possible and the older adult is                                                                                                        3 
+                                  receptor agonist hypnotics 
+
+                                                                                                                                                                                                           (Continued) 
+esneciL snommoC evitaerC elbacilppa eht yb denrevog era selcitra AO ;esu fo selur rof yrarbiL enilnO yeliW no )snoitidnoc-dna-smret/moc.yeliw.yrarbilenilno//:sptth( snoitidnoC dna smreT eht eeS .]3202/80/32[ no yrarbiL enilnO yeliW ,htoonyaM dnalerI fO ytisrevinU lanoitaN yb 76751.sgj/1111.01/iod/moc.yeliw.yrarbilenilno.slanruojsga//:sptth morf dedaolnwoD ,4 ,9102 ,51452351  
+
+----------------------- Page 2-----------------------
+
+                                                                                                                                                                                                                             6 
+                                                                                                                                                                                                                             8 
+       Table 3  (Contd.)                                                                                                                                                                                                     4 
+
+                                                                                                                                                                                                     Strength of 
+                                                                                                                                                                                                                             2 
+                                                                                                                                                                                                                             0 
+       Disease or Syndrome                           Drug(s)                                        Rationale                          Recommendation                Quality of Evidence          Recommendation             1 
+                                                                                                                                                                                                                             9 
+                                                                                                                                                                                                                             A 
+                                    Eszopiclone                                  threatening substantial harm to self or                                                                                                     G 
+                                                                                                                                                                                                                             S 
+                                    Zaleplon                                     others. Antipsychotics are associated                                                                                                       B 
+                                                                                                                                                                                                                             E 
+                                                                                                                                                                                                                             E 
+                                    Zolpidem                                     with greater risk of cerebrovascular                                                                                                        R 
+                                                                                                                                                                                                                             S 
+                                                                                                                                                                                                                             C 
+                                 Antipsychotics, chronic and as-needed           accident (stroke) and mortality in persons 
+                                                                                                                                                                                                                             R 
+                                     b 
+                                                                                                                                                                                                                             I 
+                                 use                                             with dementia. 
+                                                                                                                                                                                                                             T 
+       History of falls or       Antiepileptics                                  May cause ataxia, impaired psychomotor          Avoid unless safer            Opioids: moderate              Strong                         E 
+                                                                                                                                                                                                                             R 
+                                                                                                                                                                                                                             I 
+       fractures                                 b                               function, syncope, additional falls; shorter-   alternatives are not                                                                        A 
+                                 Antipsychotics    Benzodiazepines                                                                                             All others: high                                               ® 
+                                                                                 acting benzodiazepines are not safer than       available; avoid                                                                            U 
+                                 Nonbenzodiazepine, benzodiazepine                                                                                                                                                           P 
+                                                                                 long-acting ones.                               antiepileptics except for                                                                   D 
+                                 receptor agonist hypnotics                                                                                                                                                                  A 
+                                                                                                                                                                                                                             T 
+                                                                                                                                 seizure and mood 
+                                 Eszopiclone                                     If one of the drugs must be used, consider                                                                                                  E 
+                                                                                                                                                                                                                             E 
+                                                                                                                                 disorders 
+                                 Zaleplon                                        reducing use of other CNS-active                                                                                                            X 
+                                                                                                                                                                                                                             P 
+                                 Zolpidem                                        medications that increase risk of falls and     Opioids: avoid except for                                                                   E 
+                                                                                                                                                                                                                             R 
+                                                                                 fractures (ie, antiepileptics, opioid-receptor  pain management in the                                                                      T 
+                                 Antidepressants                                                                                                                                                                             P 
+                                                                                 agonists, antipsychotics, antidepressants,      setting of severe acute                                                                     A 
+                                                                                                                                                                                                                             N 
+                                    TCAs 
+                                                                                 nonbenzodiazepine and benzodiazepine            pain (eg, recent fractures                                                                  E 
+                                    SSRIs                                                                                                                                                                                    L 
+                                                                                 receptor agonist hypnotics, other               or joint replacement) 
+                                    SNRIs 
+                                                                                 sedatives/hypnotics) and implement other 
+                                 Opioids                                         strategies to reduce fall risk. Data for 
+                                                                                 antidepressants are mixed but no compelling 
+                                                                                 evidence that certain antidepressants confer 
+                                                                                 less fall risk than others. 
+       Parkinson disease         Antiemetics                                     Dopamine-receptor antagonists with              Avoid                         Moderate                      Strong 
+                                    Metoclopramide                               potential to worsen parkinsonian symptoms 
+                                    Prochlorperazine 
+                                                                                 Exceptions: 
+                                    Promethazine 
+                                                                                 Pimavanserin and clozapine appear to 
+                                 All antipsychotics (except quetiapine,          be less likely to precipitate worsening 
+                                 clozapine, pimavanserin)                        of Parkinson disease. Quetiapine has 
+                                                                                 only been studied in low-quality clinical 
+                                                                                 trials with efﬁcacy comparable to that 
+                                                                                 of placebo in ﬁve trials and to that of 
+                                                                                 clozapine in two others. 
+       Gastrointestinal 
+                                                                                                                                                                                                                             A 
+                                                                                                                                                                                                                             P 
+                                                                                                                                                                                                                             R 
+       History of gastric or     Aspirin >325 mg/day                             May exacerbate existing ulcers or               Avoid unless other             Moderate                      Strong 
+                                                                                                                                                                                                                             I 
+       duodenal ulcers           Non–COX-2–selective NSAIDs                      cause new/additional ulcers                     alternatives are not                                                                        L 
+                                                                                                                                                                                                                             2 
+                                                                                                                                 effective and patient can                                                                   0 
+                                                                                                                                                                                                                             1 
+                                                                                                                                                                                                                             9 
+                                                                                                                                 take gastroprotective                                                                       – 
+                                                                                                                                                                                                                             V 
+                                                                                                                                 agent (ie, proton-pump                                                                      O 
+                                                                                                                                                                                                                             L 
+                                                                                                                                 inhibitor or misoprostol)                                                                   . 
+                                                                                                                                                                                                                             6 
+                                                                                                                                                                                                                             7 
+       Kidney/urinary tract                                                                                                                                                                                                 , 
+                                                                                                                                                                                                                             N 
+                                                                                                                                                                                                                             O 
+       Chronic kidney            NSAIDs (non-COX and COX selective,              May increase risk of acute kidney               Avoid                         Moderate                      Strong 
+                                                                                                                                                                                                                             . 
+       disease stage 4 or        oral and parenteral, nonacetylated              injury and further decline of renal function                                                                                                4 
+       higher (creatinine        salicylates) 
+       clearance 
+                                                                                                                                                                                                                            J 
+       <30 mL/min)                                                                                                                                                                                                           A 
+                                                                                                                                                                                                                             G 
+                                                                                                                                                                                                                             S 
+
+esneciL snommoC evitaerC elbacilppa eht yb denrevog era selcitra AO ;esu fo selur rof yrarbiL enilnO yeliW no )snoitidnoc-dna-smret/moc.yeliw.yrarbilenilno//:sptth( snoitidnoC dna smreT eht eeS .]3202/80/32[ no yrarbiL enilnO yeliW ,htoonyaM dnalerI fO ytisrevinU lanoitaN yb 76751.sgj/1111.01/iod/moc.yeliw.yrarbilenilno.slanruojsga//:sptth morf dedaolnwoD ,4 ,9102 ,51452351  
+
+----------------------- Page 3-----------------------
+
+                                                                                                                                                                                                     
+                                                                                                                                                                                                   1 
+                                                                                                                                                                                                   5 
+                                                                                                                                                                                                   3 
+                                                                                                                                                                                                   2 
+                                                                                                                                              ®                                                    5 
+JAGS         APRIL 2019–VOL. 67, NO. 4                                                                       2019 AGS BEERS CRITERIA            UPDATE EXPERT PANEL                  685           4 
+                                                                                                                                                                                                   1 
+                                                                                                                                                                                                   5 
+                                                                                                                                                                                                  , 
+                                                                                                                                                                                                     
+                                                                                                                                                                                                   2 
+                                                                                                                                                                                                   0 
+                                                                                                                                                                                                   1 
+                                                                                                                                                                                                   9 
+                                                                                                                                                                                                  , 
+                                                                                                                                                                                                     
+                                                                                                                                                                                                   4 
+                                                               -                                                                                                                                  , 
+                                                                                e                                                                                                                    
+                                                                                                                                                                                                   D 
+                                                                     n                                    was lowered to 70 years or older from 80 years or older. This 
+                                                              n      i          v 
+                                                             i                  i                                                                                                                  o 
+                                                                                                                                                                                                   w 
+                                                                     h          t 
+                                                              n      t 
+                                                                     i          c                                                                                                                  n 
+                                                              o                                           criterion was also expanded to cover use of aspirin as primary                           l 
+                                                                                                                                                                                                   o 
+             n                                                                  e 
+                         1                                    t      w         f                                                                                                                   a 
+                                                                                                                                                                                                   d 
+             o            -                                   o                f 
+             i 
+             t                                                                                            prevention  of  colorectal  cancer.  Note  that  this  criterion  does                   e 
+                                                                                                                                                                                                   d 
+         f          g    a                                    r      e          e 
+                             g                                       s                                                                                                                               
+                                                                                                                                                                                                   f 
+          o  a                                                e                 t 
+                                                                                                                                                                                                   r 
+                    n    h                                    s 
+                                                                                                                                                                                                   o 
+             d               n                                       u          s 
+         h   n      o    p                                                      e                         not  apply  to  use  of  aspirin  for  secondary  prevention  of  either                 m 
+         t               l   o 
+                                                                                                                                                                                                     
+                    r        r                                 ,     g                                                                                                                             h 
+             e     t                                         I 
+                                                                                                                                                                                                   t 
+          g              a  t                                                   w 
+                                                                                                                                                                                                   t 
+                                                                     u 
+                                                                                                                                                                                                  p 
+          n         s    l                                   R       r          o                         disease. 
+                                                                                                                                                                                                   s 
+             m               s 
+                                                                               l 
+          e         :                                                                                                                                                                              : 
+                                                                                                                                                                                                   / 
+                                                                     d 
+                                                                                                                                                                                                   / 
+          r              a   :                               N 
+                                                                                                                                                                                                   a 
+         t   m      n    r                                                      e 
+                             s                               S       f                                 •  In   addition    to   the  existing    caution    about    dabigatran,      the         g 
+                                                                                                                                                                                                   s 
+         S   o      e    e   r                                                . h 
+                                                                     o          t                                                                                                                 j 
+                                                                                                                                                                                                   o 
+             c 
+                                                              ;              n 
+                                                                                                                                                                                                   u 
+             e      g    h   e              g 
+                                                                                                                                                                                                   r 
+                                                              g      s       o  n                         updated criteria highlight caution about use of rivaroxaban for 
+                                                                                                                                                                                                   n 
+                    o    p k                n                               i   i 
+                                                                                                                                                                                                   a 
+             R      r    i                                    u      n      t 
+                                                                                                                                                                                                   l 
+                             c              o                        r 
+                                                                                                                                                                                                   s 
+                   t     r                                    r 
+                                                                                                                                                                                                   . 
+                                            r                                a d                          treatment  of  venous  thromboembolism  or  atrial  ﬁbrillation  in 
+                                                                                                                                                                                                   o 
+                    s    e   o             t                 d       e       r 
+                                                                                                                                                                                                   n 
+                            l                                        t          e 
+                                                                                                                                                                                                   l 
+                                                                     t       u 
+                   E     P  b              S                                   b                                                                                                                   i 
+                                                                                                                                                                                                   n 
+                                                              y      a          i 
+                                                                            d   r                         adults 75 years or older.                                                                e 
+                                                              r      p                                                                                                                             l 
+                                                                                                                                                                                                   i 
+                                                                                                                                                                                                   b 
+                                                              o              e  c 
+                                                                                                                                                                                                   r 
+                                                                            l   s 
+                                                                                                                                                                                                   a 
+                                                              t      g      b   e                      •  Tramadol      was    added    to   the   list of   drugs   associated     with           r 
+                                                                                                                                                                                                  y 
+                                                              a      n      i   r 
+                                                                     i                                                                                                                             . 
+                                                                                                                                                                                                   w 
+                                                              m      t       s  p 
+                                                                                                                                                                                                   i 
+                                                                     a       s                            hyponatremia  or  syndrome  of  inappropriate  antidiuretic  hor-                        l 
+                                                                                                                                                                                                   e 
+             e                                                               o  e 
+                                                                                                                                                                                                  y 
+             c                                                m      u 
+                                                                     l                                                                                                                             . 
+                                                                                                                                                                                                   c 
+             n                                                a              p b 
+                             e                                       a                                    mone secretion. The chemotherapeutic agents carboplatin, cyclo-                          o 
+                                                                                                                                                                                                   m 
+             e           1   t                               ﬂ       v      t  d 
+                                                                             s 
+                                                                                                                                                                                                   / 
+                          -                                   n                l 
+                                                                                                                                                                                                   d 
+             d               a                               i       e       e 
+                                                                                                                                                                                                   o 
+             i           a   r                                 -            t   u                         phosphamide, cisplatin, and vincristine were removed from this 
+             v                                                                                                                                                                                     i 
+                                                                                                                                                                                                   / 
+                                                             i       )       r  o 
+                                                                                                                                                                                                   1 
+                         h   e                                t 
+                                                                                                                                                                                                   0 
+             E     h     p d                                          2      o h                                                                                                                   . 
+             f      g    l                                    n      (      h   s                         list because the panel thought the prescribing of these highly spe-                      1 
+                                                                                                                                                                                                   1 
+                   i         o                                a       ;      s 
+                                                                                                                                                                                                   1 
+             o           a                                           s          t 
+                                                                                                                                                                                                   1 
+                   h 
+                                                                     t 
+                                                                                                                                                                                                   / 
+             y           l   m                               l              d   u                         cialized drugs fell outside the scope of the criteria.                                  j 
+                                                                                                                                                                                                  g 
+             t      :                                         a      n         b 
+                                                                                                                                                                                                   s 
+             i           a   :              e                                n 
+                                                                                                                                                                                                   . 
+             l      n    r                                   d       e 
+                                                                                                                                                                                                   1 
+             a               s             t                 i       i       a  e                      •  Vasodilators  were  removed,  because  syncope  is  not  unique  to                      5 
+                    e    e   r                                       t          s 
+                                                                                                                                                                                                   7 
+                                            a                 o              e 
+                                                                                                                                                                                                   6 
+             u      g    h   e              r                 r      a       s  a 
+                                                                     p          e                                                                                                                  7 
+                                                                                                                                                                                                     
+             Q                              e                 e                                           older adults. 
+                                                                                                                                                                                                   b 
+                    o    p k                                  t              o  s 
+                                                                                                                                                                                                  y 
+                    r    i   c             d                  s             d   i 
+                                                                                                                                                                                                     
+                   t     r                                           d 
+                                                                                                                                                                                                   N 
+                    s    e   o              o                 n      n       e d                       •  The    combination      dextromethorphan/quinidine           was    added    to          a 
+                            l 
+                                                              o                                                                                                                                    t 
+                                                                                                                                                                                                   i 
+                                                                     a       v  y 
+                   E     P  b              M                                i   r                                                                                                                  o 
+                                                                                                                                                                                                   n 
+                                                              n      s      t 
+                                                                                a                         the  “use with caution” table on the basis of limited efﬁcacy in                         a 
+                                                                                                                                                                                                   l 
+                                                                             c 
+                                                                                                                                                                                                     
+                                                               ,     n 
+                                                                                                                                                                                                   U 
+                                                                             e  n 
+                                                                     a      f 
+                                                                                                                                                                                                   n 
+                                                             D       i      f   o                         patients with  behavioral  symptoms  of  dementia  without  pseu-                        i 
+                                                                                                                                                                                                   v 
+                                                             I       c       e 
+                                                                                                                                                                                                   e 
+                                                                     i          m 
+                                                             A                 l                                                                                                                   r 
+                                                                                                                                                                                                   s 
+                                                                     n      t 
+                                                                     i       s                            dobulbar affect while potentially increasing the risk of falls and                       i 
+                                                                                                                                                                                                   t 
+                                                             S                  u 
+                                                                                                                                                                                                  y 
+             n                                                       l    .  e 
+                                                                                p                                                                                                                    
+                                                                                                                                                                                                   O 
+             o                                               N       c   a 
+                                                                                                                                                                                                   f 
+             i                                                           t   w  e                         drug-drug interactions.                                                                    
+                                                                                                                                                                                                   I 
+             t                                                       y   a 
+                                                                                                                                                                                                   r 
+                                                              ;              o  v 
+                                                                                                                                                                                                   e 
+             a                                                e      b      l   i 
+                                                                                                                                                                                                   l 
+                                                                        d 
+                                                                                                                                                                                                   a 
+             d      n                                         s      s       e  t                      •  The  combination  trimethoprim-sulfamethoxazole  (TMP-SMX)                               n 
+                                                                                c 
+                                                                                                                                                                                                   d 
+             n                                                a          n  h 
+                                                                                                                                                                                                     
+                    e                                                g          u 
+                                                                                                                                                                                                   M 
+             e                                                n          o  t   r 
+                                            n                 e      u  i       t                         should  be  used  with  caution  by  patients  with  reduced  kidney                     a 
+                    m                                                r   t 
+                                                                                                                                                                                                  y 
+             m                                                g              n  s 
+                                                                                                                                                                                                   n 
+                    o                       e                        d   a  i 
+                                                                                                                                                                                                   o 
+                                                              y          z     b 
+                                                                                                                                                                                                   o 
+             m                                                x         i   d   o                         function  and  taking  an  angiotensin-converting  enzyme  inhibi-                       t 
+                    w                       m                           l 
+                                                                                                                                                                                                   h 
+             o                                                       n 
+                                                                        i    e 
+                                                                                                                                                                                                  , 
+                                                              o 
+                                                                                                                                                                                                     
+             c                                                       o   t      c 
+                                                                                                                                                                                                   W 
+             e      n                       n                 o      i   u  b   i                         tor  (ACEI)  or  angiotensin  receptor  blocker  (ARB)  because  of 
+                   i                       i                 l       t      i 
+                                                                                                                                                                                                   i 
+                                                                                                                                                                                                   l 
+                                                                             r  n 
+                                                                                                                                                                                                   e 
+             R                                                c      p 
+                                                                                                                                                                                                  y 
+                   d                       d                  y      i  d    c  o 
+                                                                     r       s                            an increased risk of hyperkalemia.                                                         
+                                                                                                                                                                                                   O 
+                   i                       i                  c      c   n   e  r 
+                                                                                                                                                                                                   n 
+                    o                       o                            a   r h 
+                                                                                                                                                                                                   l 
+                                                                     s 
+                                                                                                                                                                                                   i 
+                                                               ,                c 
+                                                                                                                                                                                                   n 
+                    v                       v                        e    ,  p 
+                                                                                                                                                                                                   e 
+                                                                     r   t     f 
+                                                             X           s                                                                                                                           
+                                                                                                                                                                                                   L 
+                   A                       A                         p       e  o 
+                                                                         o                                                                                                                         i 
+                                                                                                                                                                                                   b 
+                                                             O              b 
+                                                                                                                                                                                                   r 
+                                                                     f   c 
+                                                                                                                                                                                                   a 
+                                                                                n 
+                                                                                                                                                                                                   r 
+                                                             C       o    ,  d 
+                                                                                                                                                                                                  y 
+                                                                            l   o 
+                                                                                                                                                                                                     
+                                                                         e      i 
+                                                              ;          r   u  t                                                                                                                  o 
+                                                                                                                                                                                                   n 
+                                                                     n                          Drug-Drug Interactions 
+                                                                                                                                                                                                     
+                                                                         a      a 
+                                                                                                                                                                                                  [ 
+                                                                     o       o 
+                                                                                                                                                                                                   2 
+                                            e                 m      i   c     b 
+                                                                                                                                                                                                   3 
+                                                              e      t    - h   r 
+                       1                    s                                s                                                                                                                     / 
+                                                                                                                                                                                                   0 
+                        -                                     t      c  f       e 
+                                                                                                                                                                                                   8 
+                   d                        u                 s      e   o  t 
+                                                                                                                                                                                                   / 
+                    n  a                                      y      l    -  u  c               Table  5  contains  potentially  clinically  important  drug-drug                                  2 
+                                                                                                                                                                                                   0 
+                                            a                 s      e   y      a 
+                                                                                                                                                                                                   2 
+                    a  h                                             s   t  b   x 
+                                                                                                                                                                                                   3 
+                                            c 
+                                                                        i 
+                                                                                                                                                                                                  ] 
+                       p                                      s         l       e               interactions to be avoided in older adults. New recommen- 
+                                                                                                                                                                                                   . 
+                   ) l                                               e       s 
+                                                                                                                                                                                                     
+                                                                                                                                                                                                   S 
+                                           d                  u          a   n  s 
+                                                                                                                                                                                                   e 
+                    n  a                                             h 
+                                                                                                                                                                                                   e 
+                       (                    n                 o      t   u   o  a 
+                    e                                                       i                                                                                                                        
+                                                              v          q                      dations  include  avoiding  use  of  opioids  concurrently  with                                   t 
+                                                                                                                                                                                                   h 
+                                            a                      . g      t  h 
+                                                                                                                                                                                                   e 
+                    g  e                                      r   t       ,  i 
+                                                                                c                                                                                                                    
+                                                                                                                                                                                                   T 
+                    o  c                                      e   n  n   e  d 
+                                                                     i 
+                                                                                                                                                                                                   e 
+             e      r  n                    w                 n   a  v       n  u               benzodiazepines  and  avoiding  use  of  opioids  concurrently                                     r 
+                                                                                                                                                                                                   m 
+             l     t                        o                     s      m   o  s 
+                                                                                                                                                                                                   s 
+                    s  e                                     l    s  o   o      s 
+                                                                                                                                                                                                     
+             a                             ﬂ                                 c 
+                                                                                                                                                                                                   a 
+                                                              a   e  r   c 
+             n      e  n                                      r   r  p   t      n               with    gabapentinoids           (except     when      transitioning        from     the           n 
+                       i 
+                       t                    y                 t             h   o                                                                                                                  d 
+                                                                                                                                                                                                     
+             o     l 
+                                                                                                                                                                                                   C 
+             i                              r                     p      u  t   i 
+                                                              n      m      l 
+                                                                                                                                                                                                   o 
+             t      a  n                    a                     e  i   o      t 
+                                                                                i 
+             a      r  o                                      e  d        -  a                  former to the latter). Other additions to the table are inter-                                     n 
+                                                                                                                                                                                                   d 
+                                            n                 c  i   )       e d 
+                                                                                                                                                                                                   i 
+                    o                      i                            h 
+                                                                                                                                                                                                   t 
+             R         c                                          t 
+                                                                                                                                                                                                   i 
+                   (                                                  1  t  h   n 
+                                                                                                                                                                                                   o 
+                                            r                  ,  n  (  l 
+                       n                       n                            l   o               actions      involving       TMP-SMX,            macrolide       antibiotics,       and            n 
+                       i                    u                            a 
+                                                                                                                                                                                                   s 
+                    y                                        S    a             c 
+                                                                                                                                                                                                     
+                                                                     e       a 
+                                                                                                                                                                                                  ( 
+                       f                       o                         e  t 
+                                                                                                                                                                                                   h 
+                    c                          i             N    c  d          r 
+                                                                                                                                                                                                   t 
+                                            e  t                 i      h 
+                                                                                                                                                                                                   t 
+                    a  o                    s                C   l   u       n  o               ciproﬂoxacin.         TMP-SMX            in   combination         with     phenytoin              p 
+                                                                             e 
+                                                                                                                                                                                                   s 
+                                               n                  c  l   g     f 
+                                                                                                                                                                                                   : 
+                    c 
+                       n                    a                        c                                                                                                                             / 
+                                                                                                                                                                                                   / 
+                   ﬁ                           e              ;   y      n   m                                                                                                                     o 
+                   f   o                    e  t              r   c  n  i      d                or   warfarin       increases      the    risk   of   phenytoin        toxicity     and            n 
+                       i                                         i   i   t 
+                                                                                                                                                                                                   l 
+                           )                r                                   e 
+                                                                                                                                                                                                   i 
+                       t                       e              e   r         d 
+                                                                                                                                                                                                   n 
+                    e                       c  r                  t      a   e  r 
+                                                                                                                                                                                                   e 
+                       a   s                                 k       a   u      i 
+                                                                                                                                                                                                   l 
+                   f       r                                         i      t 
+                                            e                 c    ,    l       u               bleeding,  respectively.  Macrolides,  excluding  azithromycin,                                    i 
+                                                                                                                                                                                                   b 
+                        v                      y                     r       c 
+                                                                                                                                                                                                   r 
+                    o      e                                  o          a   e  q 
+                                                                                                                                                                                                   a 
+                       a                   d   r             l   A   e      l 
+                                                                                                                                                                                                   r 
+                           k                                         t   v      e 
+                                                                                                                                                                                                  y 
+                   k   r                    y  a             b   C   i   e   e  r               or   ciproﬂoxacin          in   combination          with    warfarin       increases              . 
+                                                                                                                                                                                                   w 
+                    c  g  c                    n                     r  )    s 
+                                                                                                                                                                                                   i 
+                                            a  i             l   T   c          e 
+                                                                                                                                                                                                   l 
+                           o                                                 r 
+                                                                                                                                                                                                   e 
+                    a  g l                     r              e   ;     4      b 
+                                                                                                                                                                                                  y 
+                   L   a  b                M   u                  r  e  (    e                  bleeding risk.  Ciproﬂoxacin in  combination with  theophyl-                                       . 
+                                                                                                                                                                                                   c 
+                                                              n             h 
+                                                                                                                                                                                                   o 
+                                                              n   o  h  d   t   y 
+                                                                                                                                                                                                   m 
+                                                                  t  t          a 
+                                                              a  i           o 
+                                                                                                                                                                                                   / 
+                                                                     f   n                      line  increases  risk  of  theophylline  toxicity.  The  concurrent                                t 
+                                                                                                                                                                                                   e 
+                                                   n         h   b       a      m 
+                                                                                                                                                                                                   r 
+                                                                 i   o      d 
+                                                                                                                                                                                                   m 
+                                               e   o          c  h       ;      s 
+                                                                                                                                                                                                   s 
+                                                                     s   e   n 
+                                                                                                                                                                                                   - 
+                                           t   c                               d                use of a combination of three or more central nervous sys- 
+                                                                                                                                                                                                   a 
+                                                                  n  n   g   a  i 
+                                                                                                                                                                                                   n 
+                                               n   e          m  i 
+                                                  l 
+                                                                                                                                                                                                   d 
+                                            p                        o   a    , o 
+                                                                                                                                                                                                   - 
+                                               e              u   e  i   s   r 
+                                                                                                                                                                                                   c 
+                                            e     b          i   k   t       e  r               tem (CNS) agents (antidepressants, antipsychotics, benzodi-                                        o 
+                                               n                         u      e 
+                                                                                                                                                                                                   n 
+                                            c  i   a          c      n      d   t 
+                                                                                                                                                                                                   d 
+                                                  l          l    a 
+                                            x  t  i               t  e   g   r  s                                                                                                                  i 
+                                                                                                                                                                                                   t 
+                                                              a      t 
+                                                                                                                                                                                                   i 
+                       )                    e  n   a          c   p      u   o  o               azepines,         nonbenzodiazepine               benzodiazepine             receptor              o 
+                                                                                                                                                                                                   n 
+                   l   n                       o   v              u  n   r   s  c 
+                                                                     i 
+                                                                                                                                                                                                   s 
+                                             ,                              i   i 
+                                                                                                                                                                                                  ) 
+                                                      )        ,  e     d       t 
+                                                                                                                                                                                                     
+                    a  e                       c   a                        d 
+                                                                                                                                                                                                   o 
+                                            s                B    r  e          r               agonist hypnotics, antiepileptics, and opioids) and increased 
+                                                                                                                                                                                                   n 
+                       g                    g  n      g              h   r   r  o                                                                                                                    
+                                               i 
+                                                                                                                                                                                                   W 
+                    m  o     s                     a  r      C    n      e   a  c 
+                    r  r     r              u     i   o          i   T   p l                                                                                                                       i 
+                                                   r 
+                                                                                                                                                                                                   l 
+                    e  t                    r  y        .    C    n   .  o   o l                fall   risk    have     been     collapsed       into    one    recommendation                     e 
+                                               r 
+                                                                                                                                                                                                  y 
+                             e             d       e                     r      a 
+                                                                                                                                                                                                     
+                   d   s                          t   e           o          p 
+                                                                                                                                                                                                   O 
+             )              k                  a  i           ;   t  n   p  i   r 
+                                                                                                                                                                                                   n 
+             s      s  e     c              c      r  n       r      a          e               instead  of  separate  recommendations  for  each  drug  class. 
+                                               n      i           o 
+                                                                                                                                                                                                   l 
+             (                             i                         i      b   t 
+                                                                                                                                                                                                   i 
+                       l                       i   c  l       o   r 
+                                                                                                                                                                                                   n 
+             g      n        o                 r              t      c   n    , n 
+                                                                                                                                                                                                   e 
+                       a    l               g     l   n      i    e  i 
+                                                                                                                                                                                                     
+             u      a                       r                            o   a  e 
+                                                                                                                                                                                                   L 
+             r      r  n    b                  u  l   o      b    s  n      i   r               The  recommendation  on  avoiding  concurrent  use  of  medi-                                      i 
+                   t                                         i       i   s 
+                                                                                                                                                                                                   b 
+                       i                    e  r   u              e  l   t   n  a 
+                                                                                                                                                                                                   r 
+             D                                    f   e      h 
+                                                                                                                                                                                                   a 
+                       g    1               n         r           v  c       e  p 
+                                                                                                                                                                                                   r 
+                   d          -            i   o                 i       n 
+                                                                                                                                                                                                  y 
+                                           l  f               n   t      e   r                  cations  that  increase  serum  potassium  has  been  expanded 
+                       a                                     i 
+                                                                                                                                                                                                     
+                                                  d   a              g 
+                                                                                                                                                                                                   f 
+                    n        a                                          i   h  d 
+                                                                                                                                                                                                   o 
+                        v                   o      n  c           c  n   t 
+                                                                                                                                                                                                   r 
+                    a                          s                  e          p  n 
+                                                                                                                                                                                                     
+                            h              h                  e      i   a           . 
+                                                                                                                                                                                                   r 
+                       a                       c   a  s          l 
+                   l   r     p                 i              s   e  c   p   o  a   n           to encompass a broader range of these medications.                                                 u 
+                                                                                                                                                                                                   l 
+                                            c         c              i 
+                                                                                                                                                                                                   e 
+                    a  t    l              i          i       a   s  t       z l 
+                                                                                                                                                                                                   s 
+                                 n         t   n  7           r             i       o 
+                                                                                                                                                                                                     
+                    r        a  i       n      i      r              c  d       a  i 
+                                                                                                                                                                                                   o 
+                       n               i              t            ,        h       t 
+                       i                    n  r              e                 r 
+                                                                                                                                                                                                   f 
+                            l    s  n                            I   a   n 
+                                                                                                                                                                                                     
+                    o                                         t              c 
+                                                                                                                                                                                                   u 
+                                    i   s   a  a   e  a              r              a 
+                                                  l           s          a   s 
+                                                                                                                                                                                                   s 
+                       s     a   o                    i          R              O   r 
+                                                                                                                                                                                                   e 
+                    n        r      s   o      c      r       e  S   p 
+                                                                                                                                                                                                  ; 
+                                 z                b                      s  t    .  u 
+                                                                                                                                                                                                     
+                       e                    y 
+                                                                                                                                                                                                   O 
+                    e        e      o   z  l   s   a  e       n  S   e       n  s  d 
+                                 a                           i           n 
+                                                                                                                                                                                                   A 
+                    g d     h       z   a   g  u      g      l    ;  h   a   e 
+                                                                                                                                                                                                     
+                        u        x  a   r         T     .     o   r  t  i    r  m   e           PIMs Based on Kidney Function                                                                      a 
+                                                                                   l 
+                                                                                                                                                                                                   r 
+                    o  l     p  o           n                            c   r  r 
+                                                                                                                                                                                                   t 
+                                    r   e      m             h    o 
+                                                                                                                                                                                                   i 
+                    r       i                          w             s  i          b 
+                                                                                                                                                                                                   c 
+                   t   c     r              o  i   e          c   t  i       u  o  i 
+                                                                                                                                                                                                   l 
+                                D  P  T        t                 i       n     f 
+                                                                                                                                                                                                   e 
+                        x                   r      e         l          i    c      s 
+                                                                                                                                                                                                   s 
+                    s        e             t   n       w      y b    e  l    n l    s                                                                                                                
+                                                                 i 
+                                                                                                                                                                                                   a 
+                       e                           s          t          c      a               Table      6   contains       a   list  of    medications         that    should      be 
+                                                                                                                                                                                                   r 
+                   E  (     P              S   a  (  w               c       o      o 
+                                                                                                                                                                                                   e 
+                                                              e  h              c 
+                                                                     n       c                                                                                                                       
+                                                                                                                                                                                                  g 
+                                                              c   n      g      i   p 
+                                                                                                                                                                                                   o 
+                                                              a  i   e      t   p   t 
+                                                                     i 
+                                                                                                                                                                                                   v 
+                                                                         n                      avoided or have their dosage reduced based on kidney func- 
+                                                                        i 
+                                                                                                                                                                                                   e 
+                                                                  e  d       a  o   s 
+                                                                                                                                                                                                   r 
+                                                                         t          e 
+                                                                                                                                                                                                   n 
+                    e                              a           ,  k  u   a   e  t   t 
+                                                                                                                                                                                                   e 
+ )                     n                          i          I               r 
+                                                                                                                                                                                                   d 
+   .         e      c  e                   t       s         E    a  a   c  t  d    r           tion.  Two  antibiotics  have  been  added,  ciproﬂoxacin  and                                       
+                                                                  t 
+                    n                       c  n                         u          o                                                                                                              b 
+                                                                                                                                                                                                  y 
+ d                                                 a         h    p  t       o  n 
+                                                                                                                                                                                                     
+             m                                    l                     d          h 
+                                                                                                                                                                                                   t 
+  t                 e  m                    a  g                     e      t   a 
+                                                                                                                                                                                                   h 
+             o                              r  i             C    u      e          s           TMP-SMX, over concerns of increased CNS effects and ten- 
+                                                                                                                                                                                                   e 
+                    n  o                   t       p              e  g 
+                                                                                                                                                                                                     
+  n          r                                 n   r                 r      d  d 
+                                                                                                                                                                                                   a 
+                   i                                         A    r     )           e 
+                                                                                                                                                                                                  p 
+  o          d     t    w                      e   e                 a       e  e 
+                                                                                                                                                                                                  p 
+                                            y                     e  t  3    r l   h 
+                                                                                                                                                                                                   l 
+             n      n                       r  b   p          :         (  i    a   t           don  rupture,  and  worsening  renal  function  and  hyperkale-                                    i 
+                                                                                                                                                                                                   c 
+ C           y         n                                      s   n      ; 
+                                                                                                                                                                                                   a 
+                    o  i                    a    , y             i   y       u h    r 
+                                                                                                                                                                                                   b 
+ (           S      c                                         n   r  r   s   q 
+                                                                                                                                                                                                   l 
+                                            n                                   n   o 
+                                                                                                                                                                                                   e 
+             r         )                   i   s  h           o  h   a   n   e  i  f            mia,     respectively.       Dofetilide       was     also    added      because      of             
+                    n                                        i 
+                                                                                                                                                                                                   C 
+             o     i   s                    r                 t   p      o   r 
+                                                                                                                                                                                                   r 
+ 3                                             m   c                 m  i       s  d 
+                                                                                                                                                                                                   e 
+                       e                    u     i           a   e  i   t   e  e 
+                                                                                                                                                                                                   a 
+             e      y                          o  t          i       r   a          n           concerns of corrected QT interval prolongation and torsade                                         t 
+                                                                                                                                                                                                   i 
+  e                 r  p                    r  t              v   n         b  d 
+                                                                                                                                                                                                   v 
+ l           s                                     a             i   p l            a 
+                                                                                                                                                                                                   e 
+                    a   y                   e  p t            e          u      u 
+                                                                                                                                                                                                     
+             a                                                    p          y l 
+                                                                                                                                                                                                   C 
+ b                     t                           s          r   e  e   p      c   e           de pointes. The creatinine clearance lower limit at which to 
+                    n                                                        a      s 
+                                                                                                                                                                                                   o 
+             e     i  l                     w  m             b    r 
+                                                                                                                                                                                                   m 
+  a          s      r  l                           o         b       h   o      x   o 
+             i                              o      r 
+                                                                                                                                                                                                   m 
+                       a                       y                  o  T   p  M   E  d 
+                                                                                                                                                                                                   o 
+ T           D     U  (                    L   s   p         A    n  a     b    c               avoid edoxaban has been reduced to less than 15 mL/min. 
+                                                                                                                                                                                                   n 
+                                                                                                                                                                                                   s 
+                                                                                                                                                                                                     
+                                                                                                                                                                                                   L 
+                                                                                                                                                                                                   i 
+                                                                                                                                                                                                   c 
+                                                                                                                                                                                                   e 
+                                                                                                                                                                                                   n 
+                                                                                                                                                                                                   s 
+                                                                                                                                                                                                   e 

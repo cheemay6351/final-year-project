@@ -402,10 +402,10 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         print('Failed to connect to MongoDB:', str(e))
 
 
-    # listing = collection.find()
-    # with open('database_listing.txt', 'w', encoding="utf-8") as file:
-    #     # Iterate over the documents returned by the cursor
-    #     for document in listing:
-    #         # Write each document to the file
-    #         file.write(str(document) + '\n')
+    listing = collection.find()
+    with open('database_listing.txt', 'w', encoding="utf-8") as file:
+        # Iterate over the documents returned by the cursor
+        for document in listing:
+            # Write each document to the file
+            file.write(str(document) + '\n')
     
