@@ -385,27 +385,41 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
     database = client["Beers2019"]
     collection = database["Table2"]
 
-    try:
-        # Iterate through each entry in combined_2d_array and insert it into MongoDB
-        for entry in combined_2d_array1:
-            document = {
-                "Organ System, Therapeutic Category, Drug(s)": entry[0],
-                "Rationale": entry[1],
-                "Recommendation": entry[2],
-                "Quality of Evidence": entry[3],
-                "Strenght of Recommendation": entry[4]
-            }
-            collection.insert_one(document)
+    # try:
+    #     # Iterate through each entry in combined_2d_array and insert it into MongoDB
+    #     for entry in combined_2d_array1:
+    #         document = {
+    #             "Organ System, Therapeutic Category, Drug(s)": entry[0],
+    #             "Rationale": entry[1],
+    #             "Recommendation": entry[2],
+    #             "Quality of Evidence": entry[3],
+    #             "Strenght of Recommendation": entry[4]
+    #         }
+    #         collection.insert_one(document)
 
-        print('Connected successfully to MongoDB.')
-    except Exception as e:
-        print('Failed to connect to MongoDB:', str(e))
+    #     print('Connected successfully to MongoDB.')
+    # except Exception as e:
+    #     print('Failed to connect to MongoDB:', str(e))
+
+    # this search is specific for Organ System
+    search = collection.find()
+    # boolean flag
+    found = False
+    # interate through documents
+    for document in search:
+        organ = document.get("Organ System, Therapeutic Category, Drug(s)")[0]
+        if organ == "Endocrine":
+            print(document)
+            found = True
+    # print "No results found" if search word not found
+    if not found:
+        print("No results found")
 
 
-    listing = collection.find()
-    with open('database_listing.txt', 'w', encoding="utf-8") as file:
-        # Iterate over the documents returned by the cursor
-        for document in listing:
-            # Write each document to the file
-            file.write(str(document) + '\n')
+    # listing = collection.find()
+    # with open('database_listing.txt', 'w', encoding="utf-8") as file:
+    #     # Iterate over the documents returned by the cursor
+    #     for document in listing:
+    #         # Write each document to the file
+    #         file.write(str(document) + '\n')
     
