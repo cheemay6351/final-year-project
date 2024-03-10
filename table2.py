@@ -371,7 +371,7 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
     combined_2d_array1 = list(zip(organCat_new, rat_list, rec_list, evi_list, str_list))
     #print(combined_2d_array1[0])
  
-    # print(organ_list, len(organ_list))
+    print(organ_list, len(organ_list))
     # print(cat_list, len(cat_list))
     #print(drug_list, len(drug_list))
 
@@ -380,10 +380,11 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
     # print(evi_result_list, len(evi_result_list))
     # print(str_result_list, len(str_result_list))
 
+#########################################################################################################
     # Connect to MongoDB (assuming it's running locally on the default port)
-    client = pymongo.MongoClient(database["url"])
-    database = client["Beers2019"]
-    collection = database["Table2"]
+    # client = pymongo.MongoClient(database["url"])
+    # database = client["Beers2019"]
+    # collection = database["Table2"]
 
     # try:
     #     # Iterate through each entry in combined_2d_array and insert it into MongoDB
@@ -402,18 +403,19 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
     #     print('Failed to connect to MongoDB:', str(e))
 
     # this search is specific for Organ System
-    search = collection.find()
-    # boolean flag
-    found = False
-    # interate through documents
-    for document in search:
-        organ = document.get("Organ System, Therapeutic Category, Drug(s)")[0]
-        if organ == "Endocrine":
-            print(document)
-            found = True
-    # print "No results found" if search word not found
-    if not found:
-        print("No results found")
+
+    # search = collection.find()
+    # # boolean flag
+    # found = False
+    # # interate through documents
+    # for document in search:
+    #     organ = document.get("Organ System, Therapeutic Category, Drug(s)")[0]
+    #     if organ == "Endocrine":
+    #         print(document)
+    #         found = True
+    # # print "No results found" if search word not found
+    # if not found:
+    #     print("No results found")
 
 
     # listing = collection.find()
