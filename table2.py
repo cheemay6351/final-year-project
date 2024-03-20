@@ -1,5 +1,7 @@
 import re
 import pymongo
+import json
+from bson import json_util
 
 from pymongo import MongoClient
 from connect import database
@@ -19,8 +21,9 @@ current_line4 = ""
 current_line5 = ""
 
 lines1 = []
+#STEP 1: READ TEXT FILE
 with open("table2Text.txt", "r", encoding="utf-8") as file:
-    #get Organ System
+    #STEP 2: get Organ System (LIST)
     for line in file: # getting organ list for organ dictionary
         if line.startswith(" " * 6) and line[6:7] != " ": # if line starts with 6 spaces in and the space indent 6 or 7 is not a space
             # split the line into words
@@ -34,7 +37,7 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
             # concatenate words with more than one character and add to the organ list
             organ_list.append(' '.join(word for word in words if len(word) > 1))
 
-        # get Therapeutic Category
+        # STEP 3:get Therapeutic Category (LIST)
         # if line starts with 9 or 10 spaces in and NOT 11 spaces in
         if (line.startswith(" " * 9) or line.startswith(" " * 10)) and not line.startswith(" " * 11): 
             # in the case that the line is 9 spaces in and exactly 9 spaces, the character is lowercase or starts with '('
@@ -362,29 +365,35 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         for cat in organ[1]:
             organCat_new.append([organ[0], cat])
 
-    # for item in organCat_new:
-    #     print(item)
-    #     print()
+    for item in organCat_new:
+        print(item)
+        print()
 
     #print(len(organCat_new))
 
     combined_2d_array1 = list(zip(organCat_new, rat_list, rec_list, evi_list, str_list))
     #print(combined_2d_array1[0])
  
-    print(organ_list, len(organ_list))
-    # print(cat_list, len(cat_list))
-    #print(drug_list, len(drug_list))
+    #print("\n", organ_list, len(organ_list), "\n")
+    # print("\n", cat_list, len(cat_list), "\n")
+    # print("\n", drug_list, len(drug_list), "\n")
 
     #print(rat_list, len(rat_list))
     # print(rec_list, len(rec_list))
     # print(evi_result_list, len(evi_result_list))
     # print(str_result_list, len(str_result_list))
 
+    # with open('data.txt', 'w', encoding="utf-8") as file:
+    #     # Iterate over the documents returned by the cursor
+    #     for document in combined_2d_array1[0]:
+    #         # Write each document to the file
+    #         file.write(str(document) + '\n')
+
 #########################################################################################################
-    # Connect to MongoDB (assuming it's running locally on the default port)
-    # client = pymongo.MongoClient(database["url"])
-    # database = client["Beers2019"]
-    # collection = database["Table2"]
+    #Connect to MongoDB (assuming it's running locally on the default port)
+    client = pymongo.MongoClient(database["url"])
+    database = client["Beers2019"]
+    collection = database["Table2"]
 
     # try:
     #     # Iterate through each entry in combined_2d_array and insert it into MongoDB
@@ -394,7 +403,7 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
     #             "Rationale": entry[1],
     #             "Recommendation": entry[2],
     #             "Quality of Evidence": entry[3],
-    #             "Strenght of Recommendation": entry[4]
+    #             "Strength of Recommendation": entry[4]
     #         }
     #         collection.insert_one(document)
 
@@ -404,24 +413,16 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
 
     # this search is specific for Organ System
 
-    # search = collection.find()
-    # # boolean flag
-    # found = False
-    # # interate through documents
-    # for document in search:
-    #     organ = document.get("Organ System, Therapeutic Category, Drug(s)")[0]
-    #     if organ == "Endocrine":
-    #         print(document)
-    #         found = True
-    # # print "No results found" if search word not found
-    # if not found:
-    #     print("No results found")
-
-
-    # listing = collection.find()
-    # with open('database_listing.txt', 'w', encoding="utf-8") as file:
-    #     # Iterate over the documents returned by the cursor
-    #     for document in listing:
-    #         # Write each document to the file
-    #         file.write(str(document) + '\n')
-    
+    search = collection.find()
+    # boolean flag
+    found = False
+    #interate through documents
+    for document in search:
+        organ = document.get("Organ System, Therapeutic Category, Drug(s)")[0]
+        if organ == "Haloperidol":
+            found = True
+            with open('Haloperidol.txt', 'w', encoding="utf-8") as file:
+                file.write(str(document) + '\n')
+    # print "No results found" if search word not found
+    if not found:
+        print("No results found")

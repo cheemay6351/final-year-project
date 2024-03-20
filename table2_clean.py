@@ -1,3 +1,5 @@
+#STEP 3: CLEAN THE TEXT FILE E.G. REMVOING EMPTY LINES / FIX PDF SPECIAL CHARACTERS
+
 import re
 
 def table2Clean(file_path, start_line, end_line):

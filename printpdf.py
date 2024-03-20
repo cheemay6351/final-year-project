@@ -1,3 +1,5 @@
+#STEP 2: SEPARATE THE PAGES BASED ON BEERS TABLES INTO DIFFERENT FILESs
+
 import PyPDF2
 
 # define page ranges and name output file names for each table

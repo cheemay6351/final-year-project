@@ -1,0 +1,6 @@
+['Anticholinergics', ['First-generation antihistamines', ['Brompheniramine', 'Carbinoxamine', 'Chlorpheniramine', 'Clemastine', 'Cyproheptadine', 'Dexbrompheniramine', 'Dexchlorpheniramine', 'Dimenhydrinate', 'Diphenhydramine (oral)', 'Doxylamine', 'Hydroxyzine', 'Meclizine', 'Promethazine', 'Pyrilamine', 'Triprolidine']]]
+Highly anticholinergic; clearance reduced with advanced age, and tolerance develops when used as hypnotic; risk of confusion, dry mouth, constipation, and other anticholinergic effects or toxicity
+Use of diphenhydramine in situations such as acute treatment of severe allergic reaction may be appropriate.
+Avoid
+Moderate
+Strong
