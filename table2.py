@@ -365,9 +365,9 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         for cat in organ[1]:
             organCat_new.append([organ[0], cat])
 
-    for item in organCat_new:
-        print(item)
-        print()
+    # for item in organCat_new:
+    #     print(item)
+    #     print()
 
     #print(len(organCat_new))
 
@@ -375,25 +375,33 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
     #print(combined_2d_array1[0])
  
     #print("\n", organ_list, len(organ_list), "\n")
-    # print("\n", cat_list, len(cat_list), "\n")
+    print("\n", cat_list, len(cat_list), "\n")
     # print("\n", drug_list, len(drug_list), "\n")
 
-    #print(rat_list, len(rat_list))
+    # print(rat_list, len(rat_list))
     # print(rec_list, len(rec_list))
     # print(evi_result_list, len(evi_result_list))
     # print(str_result_list, len(str_result_list))
 
+    # # this prints out the first therapeutic and its corresponding elements into a text file
     # with open('data.txt', 'w', encoding="utf-8") as file:
     #     # Iterate over the documents returned by the cursor
     #     for document in combined_2d_array1[0]:
     #         # Write each document to the file
     #         file.write(str(document) + '\n')
+    
+    # # this prints each of the extracted results into a text file !!insert the name of the file and correct list for results!!
+    # with open('ExtractedStrengthRec.txt', 'w', encoding="utf-8") as file:
+    #     # Iterate over the documents returned by the cursor
+    #     for document in str_result_list:
+    #         # Write each document to the file
+    #         file.write(str(document) + '\n')
 
 #########################################################################################################
     #Connect to MongoDB (assuming it's running locally on the default port)
-    client = pymongo.MongoClient(database["url"])
-    database = client["Beers2019"]
-    collection = database["Table2"]
+    # client = pymongo.MongoClient(database["url"])
+    # database = client["Beers2019"]
+    # collection = database["Table2"]
 
     # try:
     #     # Iterate through each entry in combined_2d_array and insert it into MongoDB
@@ -413,16 +421,16 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
 
     # this search is specific for Organ System
 
-    search = collection.find()
-    # boolean flag
-    found = False
-    #interate through documents
-    for document in search:
-        organ = document.get("Organ System, Therapeutic Category, Drug(s)")[0]
-        if organ == "Haloperidol":
-            found = True
-            with open('Haloperidol.txt', 'w', encoding="utf-8") as file:
-                file.write(str(document) + '\n')
-    # print "No results found" if search word not found
-    if not found:
-        print("No results found")
+    # search = collection.find()
+    # # boolean flag
+    # found = False
+    # #interate through documents
+    # for document in search:
+    #     organ = document.get("Organ System, Therapeutic Category, Drug(s)")[0]
+    #     if organ == "Haloperidol":
+    #         found = True
+    #         with open('Haloperidol.txt', 'w', encoding="utf-8") as file:
+    #             file.write(str(document) + '\n')
+    # # print "No results found" if search word not found
+    # if not found:
+    #     print("No results found")

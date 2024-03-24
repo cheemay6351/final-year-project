@@ -12,11 +12,11 @@ from connect import database
 
 try:
 
-    client = MongoClient(database['url'])
-    db = client['Beers_2019']
+    # client = MongoClient(database['url'])
+    # db = client['Beers_2019']
 
-    collection_name = 'Table2'
-    collection = db[collection_name]
+    # collection_name = 'Table2'
+    # collection = db[collection_name]
 
 
     folderName = "beers_pdfs2019"

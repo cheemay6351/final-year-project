@@ -11,7 +11,7 @@ def table2Clean(file_path, start_line, end_line):
 
         # ensure start_line and end_line are within bounds
         if start_line < 0 or start_line >= len(lines) or end_line < start_line or end_line >= len(lines):
-            print("Invalid start or end line values.")
+            print("Invalid start or end line values")
             return
 
         # remove lines that begin with any character and have no indentations
@@ -31,6 +31,7 @@ def table2Clean(file_path, start_line, end_line):
                 file.write(line) # write line to file
 
 file_path = 'table_2.txt'
+# START LINE AND END LINE INPUTTED MANUALLY
 start_line = 11 # start line number; 11
 end_line = 915 # end line number; 915
 table = table2Clean(file_path, start_line, end_line)

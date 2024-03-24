@@ -1,0 +1,91 @@
+Brompheniramine
+Carbinoxamine
+Chlorpheniramine
+Clemastine
+Cyproheptadine
+Dexbrompheniramine
+Dexchlorpheniramine
+Dimenhydrinate
+Diphenhydramine (oral)
+Doxylamine
+Hydroxyzine
+Meclizine
+Promethazine
+Pyrilamine
+Triprolidine
+Benztropine (oral)
+Trihexyphenidyl
+Atropine (excludes ophthalmic)
+Belladonna alkaloids
+Clidinium-chlordiazepoxide
+Dicyclomine Homatropine (excludes opthalmic)
+Hyoscyamine
+Methscopolamine
+Propantheline
+Scopolamine
+Doxazosin
+Prazosin
+Terazosin
+Guanabenz
+Guanfacine
+Methyldopa
+Reserpine (>0.1 mg/day)
+Amitriptyline
+Amoxapine
+Clomipramine
+Desipramine
+Doxepin >6 mg/day
+Imipramine
+Nortriptyline
+Paroxetine
+Protriptyline
+Trimipramine
+Amobarbital
+Butabarbital
+Butalbital
+Mephobarbital
+Pentobarbital
+Phenobarbital
+Secobarbital
+Alprazolam
+Estazolam
+Lorazepam
+Oxazepam
+Temazepam
+Triazolam
+Chlordiazepoxide (alone or in combination with amitriptyline or clidinium)
+Clonazepam
+Clorazepate
+Diazepam
+Flurazepam
+Quazepam
+Eszopiclone
+Zaleplon
+Zolpidem
+Methyltestosterone
+Testosterone
+Chlorpropamide
+Glimepiride
+Glyburide (also known as glibenclamide)
+Aspirin >325 mg/day
+Diclofenac
+Diﬂunisal
+Etodolac
+Fenoprofen
+Ibuprofen
+Ketoprofen
+Meclofenamate
+Mefenamic acid
+Meloxicam
+Nabumetone
+Naproxen
+Oxaprozin
+Piroxicam
+Sulindac
+Tolmetin
+Carisoprodol
+Chlorzoxazone
+Cyclobenzaprine
+Metaxalone
+Methocarbamol
+Orphenadrine
