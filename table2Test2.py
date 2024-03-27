@@ -1,3 +1,5 @@
+# THIS WAS AN ATTEMPT AGAIN TO TRY CORRESPOND THE HEADINGS TO ANOTHER AS IT RUNS THROUGH THE FILE
+
 import re
 
 organ_list = []
@@ -13,9 +15,6 @@ current_line2 = ""
 current_line3 = ""
 current_line4 = ""
 current_line5 = ""
-
-# an attempt again to try correspond 'headings' to another as you run through the file
-# proved to be difficult and inefficient
 
 lines1 = []
 current_line1 = ""
@@ -82,8 +81,7 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
     for k, v in TC_to_OS.items():
         print(v, k)
 
-
-    # Create the organ_dict
+    # create the organ_dict
     # cat_dict = {str(i): value for i, value in enumerate(cat_list)}
     #print(cat_list)
 
@@ -224,7 +222,7 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         words = line.split()
         # necessary modifications: these specific 'words' are excluded from extraction process
         highlights_words = ['Moderate', 'High', 'Low', 'Atri', 'He']
-        #print(words)
+        # print(words)
         words1 = [word for word in words if len(word) > 1 and word not in highlights_words]
         rec_list.append(' '.join(words1))
 

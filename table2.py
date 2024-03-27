@@ -66,6 +66,8 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         #print(words)
         cat_list.append(' '.join(word for word in words if len(word) > 1))
 
+    # this is an additional rule to concatenate some data items together because it wasn't concatenated before
+    # if two data items are concatenated then the second item will be deleted to maintain same total data items as in the PDF
     cat_replace1 = cat_list[7] + "\n" + cat_list[8]
     cat_list[7] = cat_replace1
     del cat_list[8]
@@ -279,6 +281,8 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         evi_result_list.append(current_phrase.strip())
 
     # modications here as some lines needed to be connected
+    # this is an additional rule to concatenate some data items together because it wasn't concatenated before
+    # if two data items are concatenated then the second item will be deleted to maintain same total data items as in the PDF
     evi_result_list[25] += " moderate"
     evidence_replace1 = evi_result_list[10] + "\n" + evi_result_list[11] + "\n" + evi_result_list[12]
     evi_result_list[10] = evidence_replace1
@@ -346,7 +350,7 @@ with open("table2Text.txt", "r", encoding="utf-8") as file:
         [cat_list[34], []]
     ]
 
-    # to correspond organ with therapeutic category
+    # using the corresponded therapeutic category and drugs list; correspond organ with it
     organCat = [
         [organ_list[0], catDrug[:3]],
         [organ_list[1], [catDrug[3]]],

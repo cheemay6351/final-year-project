@@ -1,3 +1,5 @@
+# THIS WAS AN ATTEMPT TO USE PDFMiner FOR EXTRACTION
+
 from pdfminer.high_level import extract_text
 
 text = extract_text("beers_tables.pdf")

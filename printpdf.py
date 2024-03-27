@@ -2,7 +2,7 @@
 
 import PyPDF2
 
-# define page ranges and name output file names for each table
+# define page ranges manually and name output file names for each table
 page_ranges = [
     (1, 5, "table_2.pdf"),
     (6, 8, "table_3.pdf"),
@@ -11,7 +11,7 @@ page_ranges = [
     (12, 13, "table_6.pdf")
 ]
 
-# input PDF file name
+# input file name of PDF
 input_pdf_filename = "beers_tables.pdf"
 
 with open(input_pdf_filename, "rb") as pdf_file:

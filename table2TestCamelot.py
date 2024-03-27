@@ -1,3 +1,5 @@
+# THIS WAS AN ATTEMPT TO EXTRACT TABLE 2 OF THE BEERS CRITERIA USING "CAMELOT"
+
 import os
 import camelot
 import pandas as pd
@@ -5,10 +7,6 @@ import re
 
 from pymongo import MongoClient
 from connect import database
-
-# current progress: table 2
-# first attempt at trying to extract table 2 of beers criteria using 'Camelot'
-# did not work as intended
 
 try:
 
@@ -42,7 +40,7 @@ try:
         # remove rows with "Table 2 (Contd.)" in the first column
         #table_df = table_df[~table_df.iloc[:, 0].str.contains(pattern, case=False, na=False, regex=False)]
 
-        # initialize a variable to track the previous row index
+        # create a variable to track the previous row index
         prev_row_index = None
 
         # iterate through the rows and check for specified keywords

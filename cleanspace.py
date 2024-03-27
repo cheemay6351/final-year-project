@@ -1,3 +1,5 @@
+# THIS ALSO AN ATTEMPT TO CLEAN THE PDF AND CREATE A TEXT FILE
+
 # clean spaces in the beers critera's pdf file
 def remove_spaces(file_path):
     # read the file

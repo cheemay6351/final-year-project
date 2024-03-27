@@ -8,7 +8,7 @@ fileName = "J American Geriatrics Society - 2019 - .pdf"
 
 pdf_file = os.path.join(folderName, fileName)
 
-# select the pages to rotate and leave the other pages the same (unrotated)
+# select the pages manually to rotate and leave the other pages the same (unrotated)
 rotate_pages = [5, 6, 7, 8, 9, 10, 11, 12, 14, 15]
 org_pages = [13, 16, 17]
 with open(pdf_file, "rb") as pdf_file:

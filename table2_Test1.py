@@ -1,3 +1,5 @@
+# THIS WAS AN ATTEMPT TO EXTRACT DATA WITHOUT CLEANING THE TEXT FILE OF TABLE 2
+
 import re
 
 # attempt at extracting data from beers

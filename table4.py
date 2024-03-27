@@ -37,6 +37,8 @@ with open("table4Text.txt", "r", encoding="utf-8") as file:
         words = line.split()
         drugs.append(' '.join(word for word in words if len(word) > 1))
 
+    # this is an additional rule to concatenate some data items together because it wasn't concatenated before
+    # if two data items are concatenated then the second item will be deleted to maintain same total data items as in the PDF
     drug_rep = drugs[1] + "\n" + drugs[2]
     drugs[1] = drug_rep
     del drugs[2]
@@ -152,6 +154,29 @@ with open("table4Text.txt", "r", encoding="utf-8") as file:
     array = list(zip(drugs, rationale, recommendation, qualityOfEvidence, strengthOfRecommendation))
 
     #print(array[1])
+
+    # print("\n", organ_list, len(organ_list), "\n")
+    # print("\n", cat_list, len(cat_list), "\n")
+    # print("\n", drug_list, len(drug_list), "\n")
+
+    # print(rat_list, len(rat_list))
+    # print(rec_list, len(rec_list))
+    # print(evi_result_list, len(evi_result_list))
+    # print(str_result_list, len(str_result_list))
+
+    # # this prints out the first therapeutic and its corresponding elements into a text file
+    # with open('data.txt', 'w', encoding="utf-8") as file:
+    #     # Iterate over the documents returned by the cursor
+    #     for document in combined_2d_array1[0]:
+    #         # Write each document to the file
+    #         file.write(str(document) + '\n')
+    
+    # # this prints each of the extracted results into a text file !!insert the name of the file and correct list for results!!
+    # with open('ExtractedStrengthRec.txt', 'w', encoding="utf-8") as file:
+    #     # Iterate over the documents returned by the cursor
+    #     for document in str_result_list:
+    #         # Write each document to the file
+    #         file.write(str(document) + '\n')
 
     client = pymongo.MongoClient(database["url"])
     database = client["Beers2019"]
