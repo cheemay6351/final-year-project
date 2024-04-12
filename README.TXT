@@ -1,5 +1,3 @@
-By Ziwei (Cheemay) Song
-
 Please download the folder "source code". This folder contains all the necessary code and files.
 
 The extraction algorithms are for Table 2 and Table 4 of the Beers Criteria.
