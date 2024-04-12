@@ -1,0 +1,12 @@
+@startuml
+class Ellipse {
+    + x : int <<get>> <<set>>
+    + y : int <<get>> <<set>>
+    + x2 : int <<get>> <<set>>
+    + y2 : int <<get>> <<set>>
+    + Ellipse()
+    + Ellipse(x:int, y:int, x2:int, y2:int)
+    + <<override>> showSVG() : string
+}
+Shape <|-- Ellipse
+@enduml

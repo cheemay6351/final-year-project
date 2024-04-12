@@ -1,0 +1,13 @@
+@startuml
+class Polygon {
+    + Polygon()
+    + Polygon(poly:String)
+    + getShapeAttribute() : String
+    + setShapeAttribute() : void
+    + <<override>> draw() : string
+    + shapeDrawn() : void
+}
+Shape <|-- Polygon
+Polygon o-> "svg" String
+Polygon --> "poly" String
+@enduml

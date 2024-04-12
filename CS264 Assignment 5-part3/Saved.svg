@@ -1,0 +1,6 @@
+<svg width = "1000" height = "1000" version = "1.1" xmlns = "http://www.w3.org/2000/svg">
+<circle cx = "5" cy = "5" r = "3" stroke = "2" fill = "blue" stroke-width = "3"/>
+<ellipse cx = "75" cy = "75" rx = "20" ry = "5" stroke = "4" fill = "green" stroke-width = "5"/>
+<path d = "M20,230 Q40,205 50,230 T90,230" stroke = "2" fill = "blue" stroke-width = "3"/>
+<polyline points = "60 110 65 120 70 115 75 130 80 125 85 140 90 135 95 150 100 145" stroke = "4" fill = "red" stroke-width = "3"/>
+</svg>

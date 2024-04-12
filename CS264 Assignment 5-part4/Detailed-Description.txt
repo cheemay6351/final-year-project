@@ -1,0 +1,37 @@
+For this assignment, I am using command (behavioural) design pattern but in my assignment 3, 
+I was using memento (behavioural) design pattern. The whole reason I used memento in my previous assignment 
+is for implementing undo-redo functionality for shape commands. It allowed for “making snapshots of an object’s state 
+and restoring it in the future”. So, an object’s state data values could be changed anytime during an execution of a program 
+which means I need to make sure that if I used undo-redo functionality then I need to have some kind of history 
+for both undo-redo; one for the undid shapes and one for the redo function. If I added a shape that I didn’t want into my canvas, 
+then I just execute my undo command. The shape that is removed from the canvas using my undo command will need to be stored somewhere 
+for the future. I stored the shape that was undid into a memento history list called ‘history’. So, say if I deleted a shape from my canvas 
+and I wanted that shape back into my canvas then I use the information from my memento history list to retrieve it back. The shapes that are 
+retrieved by using the information from my memento history list are put back into my canvas and this information is stored in my memento redo 
+history list called ‘redoList’. While my two memento lists are sharing information with each other, I can perform undo and redo commands without 
+worrying about data being lost. These lists are created inside my Caretaker class and according to Mark, the canvas class can be considered 
+the caretaker, but the only difference is that the caretaker has the undo-redo functionality. My Memento class is just like my Shapes class.
+
+The undo-redo functionality is also required in assignment 4 but memento and command design pattern have slight differences. Memento stores 
+states while command stores states as well as its functions. So, command has to encapsulate all the information for it to do something. 
+It needs to store the data, constructor, and functions to execute. So, knowing this I need to have an object for representing and encapsulating all
+this information which is needed to call a method later. I created an Invoker class, an abstract Command class, add shape and delete shape 
+concrete command class for assignment 4. Firstly, my abstract command class has two abstract voids called Do() and Undo() which are important 
+for the execution of various commands. There are two major classes called ‘addShapeCommand’ and ‘deleteAllShapesCommand’, both of which are 
+concrete command classes extending Command.  Since these two concrete classes extends Command then both the Do() and Undo() will also be inside. 
+The functions of my add shape command class; it adds a shape to the canvas as Do() action and removes a shape from the canvas as Undo() action 
+while the functions of my delete shape command class; it removes shapes from the canvas as Do() action and adds a shape to the canvas as Undo() 
+action. My Invoker class has my commands – create, undo, redo and reset. If a user wants to do a specific command, then the object which is my 
+Invoker with my commands (methods) inside will transfer the commands to the receiver (Canvas class).
+
+The differences from implementing memento in assignment 3 and command in assignment 4 are quite clear; I found it easier to use memento and I felt 
+like memento worked much better instead of command because it is much more simplified. Using memento, I just created a memento and caretaker class 
+which takes in my canvases. The memento class takes in a list of canvases and then stores it in a memento object while the caretaker class is all 
+my memento classes. So, whenever a canvas has been updated, a whole new canvas will either get added or taken out of the caretaker ‘mementoCanvas’ 
+and my memento history will be updated. The undo-redo functionality was easier to implement because of this. But for command, I need to make sure 
+that the functions are also stored to execute the program. So, whenever a user wants to perform a specific command, the Invoker which contains 
+Action() determines if the user wants to add or delete shape. Also Invoker contains Undo() and Redo() for the undo-redo functionality – the undo 
+removing the shape from the canvas using the Undo() action and the redo adding a shape back into the canvas using the Do() action.
+
+I think it would be much easier to implement an update and retrieve command using memento instead of command design pattern because memento 
+stores the states and not the functions so playing around with storing other commands with command design pattern will be a challenge for me.

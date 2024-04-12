@@ -1,0 +1,92 @@
+- the command pattern is a behavioural design pattern in which an object is used to 
+represent and encapsulate all the information needed to call a method later
+- allows you to store lists of code that is executed later time or many times
+- client wants to do a specific command -> object called invoker (has a method inside it)-> invoker transfers command to receiver
+- check out tutorialspoint
+
+//tutorial notes
+-memento stores states
+-command stores states and its functions
+-command has to encapsulate all the information in order for it to do something
+-data, constructor and function to execute
+
+//need four commands - create, delete, undo, redo
+
+main {
+    Shape circle = new Shape();
+    Canvas canvas = new Canvas();
+
+    AddShape command = new AddShape(circle, canvas);
+
+    redo.push(undo.pop());
+    undo.push(redo.pop());
+
+    canvas = command.execute();
+
+    Memento new = new Memento(circle); --> there is a better way to do this
+    caretaker.push(new);
+
+    //the better way:
+    caretaker.Add(circle);
+}
+public class AddShape {
+    //data
+    Shape data = new Shape();
+    Canvas canvas = new Canvas();
+
+    //constructor
+    public AddShape(shape, canvas) {
+        this.shape = shape;
+        this.canvas = canvas;
+    }
+    //function
+    public void execute() {
+        //add shape to something for us
+        canvas.push(shape);
+        return canvas;
+    }
+}
+
+public class RemoveShape {
+
+}
+
+//assignment 5 important one - factory: create classes for you/shapes for you
+Factory.create();
+
+- factory is an object
+- recommended pattern is singleton for storing default colours/styles for shapes
+- factory is only for generating shapes
+
+public class ShapeFactory
+{
+    public static void ShapeFactory()
+    {
+
+    }
+    
+    public Shape generateShape(String typeOfShape)
+    {
+        //switch or return or if statements
+        if(typeOfShape == "Circle")
+        {
+            return new Circle();
+        }
+        else if(typeOfShape == "Rectangle")
+        {
+            int x = Console.ReadLine();
+            return new Rectangle(x,.....);
+        }
+        else if(typeOfShape == "Ellipse" )
+        {
+            string name = Console.ReadLine();
+            int age = Console.ReadLine();
+        }
+    }
+}
+
+ShapeFactory factory = new ShapeFactory();
+canvas.Add(shape1);
+
+Shape shape1 = new Circle(x,y,r); -> factory.generateShape("Circle");
+Shape shape2 = new Rectangle(x, y, r);

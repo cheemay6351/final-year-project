@@ -1,0 +1,20 @@
+@startuml
+class Program {
+    {static} Main(args:string[]) : void
+    {static} createChoices() : void
+    {static} createShapes() : void
+    {static} updateShapes() : void
+    {static} deleteShapes() : void
+    {static} printOutList() : void
+    {static} export() : void
+    {static} getMenu() : void
+    {static} exit() : bool
+    + {static} swap(shapesList1:ArrayList, a:String, b:String) : ArrayList
+    {static} modIndex() : void
+}
+Program o-> "shapesList" ArrayList
+Program o-> "canvas" Canvas
+Program --> "currentShape" Shape
+Program o-> "shapeFactory" ShapeFactory
+Program o-> "styles" StylesFactory
+@enduml

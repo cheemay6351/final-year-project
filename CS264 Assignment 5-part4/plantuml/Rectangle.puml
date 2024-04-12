@@ -1,0 +1,12 @@
+@startuml
+class Rectangle {
+    + x : int <<get>> <<set>>
+    + y : int <<get>> <<set>>
+    + width : int <<get>> <<set>>
+    + height : int <<get>> <<set>>
+    + Rectangle()
+    + Rectangle(x:int, y:int, width:int, height:int)
+    + <<override>> showSVG() : string
+}
+Shape <|-- Rectangle
+@enduml

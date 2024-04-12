@@ -1,0 +1,16 @@
+@startuml
+class Shape {
+    stroke : string = "2"
+    fill : string = "blue"
+    strokeWidth : string = "3"
+    + <<virtual>> draw() : string
+    + getStyles() : string
+    + getLineStyles() : string
+    + getStroke() : string
+    + getFill() : string
+    + getStrokeWidth() : string
+    + setStyles(stroke:string, fill:string, strokeWidth:string) : void
+    + setLineStyles(stroke:string, strokeWidth:string) : void
+    + setDefaultStroke() : void
+}
+@enduml

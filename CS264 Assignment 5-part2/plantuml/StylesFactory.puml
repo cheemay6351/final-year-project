@@ -1,0 +1,6 @@
+@startuml
+class StylesFactory {
+    + chooseStyles(currentShape2:Shape) : void
+}
+StylesFactory --> "currentShape" Shape
+@enduml

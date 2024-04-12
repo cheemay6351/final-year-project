@@ -1,0 +1,18 @@
+@startuml
+class Rectangle {
+    + x : string <<get>> <<set>>
+    + y : string <<get>> <<set>>
+    + width : string
+    + height : string
+    + fill : string
+    + stroke : string
+    + strokewidth : string
+    + Rectangle()
+    + Rectangle(x:string, y:string, width:string, height:string)
+    + setFill(fill:string) : void
+    + setStroke(stroke:string) : void
+    + setStrokeWidth(strokewidth:string) : void
+    + getShapeAttribute() : string
+}
+Shape <|-- Rectangle
+@enduml

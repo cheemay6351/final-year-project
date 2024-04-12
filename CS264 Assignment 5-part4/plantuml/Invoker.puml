@@ -1,0 +1,11 @@
+@startuml
+class Invoker {
+    + UndoCount : int <<get>>
+    + RedoCount : int <<get>>
+    + Invoker()
+    + Reset() : void
+    + Action(command:Command) : void
+    + Undo() : void
+    + Redo() : void
+}
+@enduml

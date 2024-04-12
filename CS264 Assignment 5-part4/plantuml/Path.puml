@@ -1,0 +1,9 @@
+@startuml
+class Path {
+    + Path()
+    + Path(path:String)
+    + <<override>> showSVG() : string
+}
+Shape <|-- Path
+Path --> "path" String
+@enduml

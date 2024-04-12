@@ -1,0 +1,10 @@
+@startuml
+class Canvas {
+    + shape : string
+    + Canvas()
+    + AddShape(shape:string) : void
+    + ShapesDrawnList() : void
+    + DeleteAllShapes() : void
+}
+Canvas --> "shapesList" ArrayList
+@enduml

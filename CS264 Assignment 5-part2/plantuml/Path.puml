@@ -1,0 +1,11 @@
+@startuml
+class Path {
+    + Path()
+    + Path(path:string)
+    + setFill(fill:string) : void
+    + setStroke(stroke:string) : void
+    + setStrokeWidth(strokewidth:string) : void
+    + getShapeAttribute() : string
+}
+Shape <|-- Path
+@enduml

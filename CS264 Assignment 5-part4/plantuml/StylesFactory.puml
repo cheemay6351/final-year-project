@@ -1,0 +1,8 @@
+@startuml
+class StylesFactory {
+    + chooseStyles(s:Shape, type:String) : void
+    + chooseLineStyles(s:Shape, type:String) : void
+    {static} userDecision() : bool
+}
+Shape <|-- StylesFactory
+@enduml

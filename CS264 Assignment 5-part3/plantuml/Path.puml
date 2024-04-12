@@ -1,0 +1,13 @@
+@startuml
+class Path {
+    + Path()
+    + Path(path:String)
+    + getShapeAttribute() : String
+    + setShapeAttribute() : void
+    + <<override>> draw() : string
+    + shapeDrawn() : void
+}
+Shape <|-- Path
+Path o-> "svg" String
+Path --> "path" String
+@enduml

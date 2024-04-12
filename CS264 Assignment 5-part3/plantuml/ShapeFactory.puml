@@ -1,0 +1,5 @@
+@startuml
+class ShapeFactory {
+    + generateShape(type:string) : Shape
+}
+@enduml

@@ -1,0 +1,102 @@
+- these notes below are taken from tutorial...... taught by Mark
+- way to keep track of things - like a history so you can go back to things
+- memento is worth 50% of assignment
+- https://refactoring.guru/design-patterns/memento/csharp/example#example-0
+
+- one for data you want to store - history
+- one for the data stored - redoList
+- this assignment very similar to assignment 2 - so basically improve the previous assignment + assignment 3 stuff
+- this assignment very important for whole module
+- memento is very good to keep track of stuff
+
+- need to have two things:
+- public class Memento{}
+- public class Caretaker{}
+
+- canvas class can be considered the caretaker (only difference is that caretaker has undo and redo)
+
+// this is a memento class
+public class Shape{
+    public string data;
+    public Shape(string data){
+        this.data = data;
+    }
+
+    public string getData(){
+        return this.data;
+    }
+}
+
+// this is a caretaker class
+public class Canvas
+{
+    public List<Shape> data = new List<Shape>();
+
+    public Canvas(){
+
+    }
+    public void addShape(Shape mementoNew){
+        data.Add(mementoNew);
+    }
+    public void undo(){}
+    public void redo(){}
+
+    public List<Shape> getAllShapes(){
+        return data;
+    }
+}
+
+// example of working memento
+namespace Testing {
+    class Program {
+        Console.WriteLine("Hello World";
+        Memento firstShape = new memento("<circle....>");
+    }
+
+    class Memento {
+        string data = new "";
+        memento(string shape) {
+            this.data = shape;
+        }
+
+        string getData() {
+            return this.data;
+        }
+    }
+
+    class caretaker {
+        // two lists: one for the undid items and one for the redo function
+        List<Memento> history = new List<Memento>();
+        List<Memento> RedotList = new List<Memento>();
+
+        Caretaker() {
+
+        }
+
+        // equivalent to redo function
+        void redo(Memento) {
+            Memento redoItem = this.redoList.Pop();
+            this.history.Add(redoItem);
+        }
+
+        void addMemento(Mememento newShape) {
+            this.history.Add(newShape);
+        }
+
+        [1, 2, 3] 
+        [4, 5]
+
+        // equivalent to undo function
+        void undo() {
+            //this.history.Remove();
+            Memento redoItem = this.history.Pop();
+            Memento redoItem = this.history.Remove();
+            this.redoList.Add(redoItem);
+        }
+
+        // able to access an element
+        string getMemento(int i) {
+            this.history[i];
+        }
+    }
+}

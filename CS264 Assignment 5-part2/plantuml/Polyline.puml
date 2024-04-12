@@ -1,0 +1,11 @@
+@startuml
+class Polyline {
+    + Polyline()
+    + Polyline(points:string)
+    + setFill(fill:string) : void
+    + setStroke(stroke:string) : void
+    + setStrokeWidth(strokewidth:string) : void
+    + getShapeAttribute() : string
+}
+Shape <|-- Polyline
+@enduml

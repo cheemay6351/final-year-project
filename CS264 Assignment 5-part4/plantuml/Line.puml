@@ -1,0 +1,12 @@
+@startuml
+class Line {
+    + x1 : int <<get>> <<set>>
+    + y1 : int <<get>> <<set>>
+    + x2 : int <<get>> <<set>>
+    + y2 : int <<get>> <<set>>
+    + Line()
+    + Line(x1:int, y1:int, x2:int, y2:int)
+    + <<override>> showSVG() : string
+}
+Shape <|-- Line
+@enduml

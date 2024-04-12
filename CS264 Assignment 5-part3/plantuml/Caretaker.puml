@@ -1,0 +1,14 @@
+@startuml
+class Caretaker {
+    + Caretaker(canvas:Memento)
+    + addMemento(canvas:Memento) : void
+    + removeMemento() : void
+    + drawMemento() : String
+    + undo() : void
+    + redo() : void
+    + getSize() : int
+}
+class "List`1"<T> {
+}
+Caretaker o-> "history<Memento>" "List`1"
+@enduml

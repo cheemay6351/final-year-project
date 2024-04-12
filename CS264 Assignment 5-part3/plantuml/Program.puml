@@ -1,0 +1,23 @@
+@startuml
+class Program {
+    {static} Main(args:string[]) : void
+    {static} userDecision() : bool
+    + {static} addShape(canvas:Canvas) : Canvas
+    + {static} undo(canvas:Canvas) : void
+    + {static} redo(canvas:Canvas) : void
+    + {static} makeSure(s:Shape, type:String) : bool
+    + {static} addCircle(canvas:Canvas) : void
+    + {static} addRectangle(canvas:Canvas) : void
+    + {static} addEllipse(canvas:Canvas) : void
+    + {static} addLine(canvas:Canvas) : void
+    + {static} addPolyline(canvas:Canvas) : void
+    + {static} addPolygon(canvas:Canvas) : void
+    + {static} addPath(canvas:Canvas) : void
+    + {static} shapeList() : void
+    + {static} printCommands(canvas:Canvas) : void
+    + {static} outputFile(canvas:Canvas) : void
+}
+Program o-> "mementoCanvas" Caretaker
+Program o-> "shapeFactory" ShapeFactory
+Program o-> "styles" StylesFactory
+@enduml

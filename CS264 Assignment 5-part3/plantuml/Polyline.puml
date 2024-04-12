@@ -1,0 +1,13 @@
+@startuml
+class Polyline {
+    + Polyline()
+    + Polyline(poly:String)
+    + getShapeAttribute() : String
+    + setShapeAttribute() : void
+    + <<override>> draw() : string
+    + shapeDrawn() : void
+}
+Shape <|-- Polyline
+Polyline o-> "svg" String
+Polyline --> "poly" String
+@enduml

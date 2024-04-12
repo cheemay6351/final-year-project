@@ -1,0 +1,15 @@
+@startuml
+class Circle {
+    cx : int
+    cy : int
+    r : int
+    + Circle()
+    + Circle(cx:int, cy:int, r:int)
+    + getShapeAttribute() : String
+    + setShapeAttribute() : void
+    + <<override>> draw() : String
+    + shapeDrawn() : void
+}
+Shape <|-- Circle
+Circle o-> "svg" String
+@enduml

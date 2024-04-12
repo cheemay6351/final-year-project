@@ -1,0 +1,16 @@
+@startuml
+class Line {
+    x1 : int
+    x2 : int
+    y1 : int
+    y2 : int
+    + Line()
+    + Line(x1:int, x2:int, y1:int, y2:int)
+    + getShapeAttribute() : String
+    + setShapeAttribute() : void
+    + <<override>> draw() : string
+    + shapeDrawn() : void
+}
+Shape <|-- Line
+Line o-> "svg" String
+@enduml

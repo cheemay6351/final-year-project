@@ -1,0 +1,8 @@
+@startuml
+interface Shape {
+    setFill(fill:string) : void
+    setStroke(stroke:string) : void
+    setStrokeWidth(strokewidth:string) : void
+    getShapeAttribute() : string
+}
+@enduml

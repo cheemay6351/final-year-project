@@ -1,0 +1,28 @@
+@startuml
+abstract class Command {
+    + {abstract} Do() : void
+    + {abstract} Undo() : void
+}
+class addShapeCommand {
+    + addShapeCommand(sh:String, s:Shape, c:Canvas)
+    + <<override>> Do() : void
+    + <<override>> Undo() : void
+    + {static} printCommands(canvas:Canvas) : void
+    + {static} shapeList() : void
+    {static} userDecision() : bool
+    + {static} makeSure(s:Shape, type:String) : bool
+}
+class deleteAllShapesCommand {
+    + deleteAllShapesCommand(c:Canvas)
+    + <<override>> Do() : void
+    + <<override>> Undo() : void
+}
+Command <|-- addShapeCommand
+addShapeCommand --> "command" String
+addShapeCommand --> "shape" Shape
+addShapeCommand --> "canvas" Canvas
+addShapeCommand o-> "styles" StylesFactory
+Command <|-- deleteAllShapesCommand
+deleteAllShapesCommand --> "shape" Shape
+deleteAllShapesCommand --> "canvas" Canvas
+@enduml

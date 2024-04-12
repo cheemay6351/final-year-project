@@ -1,0 +1,11 @@
+@startuml
+class Circle {
+    + Circle()
+    + Circle(cx:string, cy:string, r:string)
+    + setFill(fill:string) : void
+    + setStroke(stroke:string) : void
+    + setStrokeWidth(strokewidth:string) : void
+    + getShapeAttribute() : string
+}
+Shape <|-- Circle
+@enduml

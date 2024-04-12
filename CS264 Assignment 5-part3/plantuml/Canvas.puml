@@ -1,0 +1,22 @@
+@startuml
+class Canvas {
+    width : int
+    height : int
+    + Canvas()
+    + Canvas(width:int, height:int)
+    + undoShape() : Shape
+    + redoShape() : void
+    + getHeight() : int
+    + getWidth() : int
+    + getSize() : int
+    + setHeight(height:int) : void
+    + setWidth(width:int) : void
+    + addShape(s:Shape) : void
+    + removeShape() : Shape
+    + deleteAllShapes() : void
+    + draw() : string
+}
+class "Stack`1"<T> {
+}
+Canvas o-> "canvas<Shape>" "Stack`1"
+@enduml

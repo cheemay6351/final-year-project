@@ -1,0 +1,9 @@
+@startuml
+class Polyline {
+    + Polyline()
+    + Polyline(poly:String)
+    + <<override>> showSVG() : string
+}
+Shape <|-- Polyline
+Polyline --> "poly" String
+@enduml

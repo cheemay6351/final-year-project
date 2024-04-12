@@ -1,0 +1,36 @@
+- factory is an object
+- recommended pattern is singleton for storing default colours/styles for shapes
+- factory is only for generating shapes
+
+public class ShapeFactory
+{
+    public static void ShapeFactory()
+    {
+
+    }
+    
+    public Shape generateShape(String typeOfShape)
+    {
+        //switch or return or if statements
+        if(typeOfShape == "Circle")
+        {
+            return new Circle();
+        }
+        else if(typeOfShape == "Rectangle")
+        {
+            int x = Console.ReadLine();
+            return new Rectangle(x,.....);
+        }
+        else if(typeOfShape == "Ellipse" )
+        {
+            string name = Console.ReadLine();
+            int age = Console.ReadLine();
+        }
+    }
+}
+
+ShapeFactory factory = new ShapeFactory();
+canvas.Add(shape1);
+
+Shape shape1 = new Circle(x,y,r); -> factory.generateShape("Circle");
+Shape shape2 = new Rectangle(x, y, r);

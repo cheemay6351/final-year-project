@@ -1,0 +1,5 @@
+<svg width = "1000" height = "1000" version = "1.1" xmlns = "http://www.w3.org/2000/svg">
+<circle cx = "50" cy = "50" r = "35" fill = "red" stroke = "3" stroke-width = "4"/>
+<rect x = "10" y = "10" width = "30" height = "30" fill = "blue" stroke = "2" stroke-width = "3"/>
+<line x1 = "10" x2 = "60" y1 = "110" y2 = "80" stroke = "2" stroke-width = "3"/>
+</svg>

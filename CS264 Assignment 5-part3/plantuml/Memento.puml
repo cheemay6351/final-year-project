@@ -1,0 +1,8 @@
+@startuml
+class Memento {
+    + Memento(shapes:Canvas)
+    + getShapes() : Canvas
+    + drawShapes() : String
+}
+Memento --> "shapes" Canvas
+@enduml

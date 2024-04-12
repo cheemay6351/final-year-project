@@ -1,0 +1,7 @@
+<?xml version = "1.0" standalone = "no"?>
+<svg width = "1000" height = "1000" version = "1.1" viewBox = "0 0 200 200" xmlns = "http://www.w3.org/2000/svg">
+<rect x = "10" y = "10" height = "10" width = "10" stroke = "black" stroke-width = "4" fill = "red"/>
+<path d = "M20,230 Q40,205 50,230 T90,230" stroke = "brown" stroke-width = "1" fill = "green"/>
+<polyline points = "60 110 65 120 70 115 75 130 80 125 85 140 90 135 95 150 100 145" stroke = "yellow" stroke-width = "2" fill = "red"/>
+<line x1 = "10" y1 = "110" x2 = "50" y2 = "150" stroke = "black" stroke-width = "1" fill = "green"/>
+</svg>

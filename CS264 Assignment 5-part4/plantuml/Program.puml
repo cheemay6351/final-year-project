@@ -1,0 +1,7 @@
+@startuml
+class Program {
+    {static} Main(args:string[]) : void
+    + {static} printCommands(canvas:Canvas) : void
+    + {static} outputFile(canvas:Canvas) : void
+}
+@enduml

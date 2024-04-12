@@ -1,0 +1,19 @@
+@startuml Class_Diagram
+!include .\\Canvas.puml
+!include .\\Circle.puml
+!include .\\Command.puml
+!include .\\Ellipse.puml
+!include .\\Invoker.puml
+!include .\\Line.puml
+!include .\\Path.puml
+!include .\\Polygon.puml
+!include .\\Polyline.puml
+!include .\\Program.puml
+!include .\\Rectangle.puml
+!include .\\Shape.puml
+!include .\\ShapeFactory.puml
+!include .\\StylesFactory.puml
+!include .\\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+!include .\\obj\Debug\net6.0\CS264-Assignment-4.AssemblyInfo.puml
+!include .\\obj\Debug\net6.0\CS264-Assignment-4.GlobalUsings.g.puml
+@enduml

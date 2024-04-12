@@ -1,0 +1,9 @@
+@startuml
+class Polygon {
+    + Polygon()
+    + Polygon(poly:String)
+    + <<override>> showSVG() : string
+}
+Shape <|-- Polygon
+Polygon --> "poly" String
+@enduml
