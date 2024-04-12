@@ -1,9 +1,0 @@
-@startuml
-class Canvas {
-    + addShape(s:Shape) : void
-    + removeShape() : Shape
-    + Canvas()
-    + drawShape() : string
-    + clearShapes() : void
-}
-@enduml
